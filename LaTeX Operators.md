@@ -1,0 +1,4 @@
+$$
+\DeclareMathOperator{\stl}{Stelle}
+\stl
+$$

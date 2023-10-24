@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "2bb00dc284e5d31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d161fe589327860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96361ccb60b9db81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6de51c6ae4085698",
+    "type": "split",
+    "children": [
+      {
+        "id": "509d5768dbe4071e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4221ffeffb82dbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "080277c446d5252d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95c1bc9fa2b987e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "cad83bc5f6d6d092",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49644236c393a281",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e3aaff3eb2d916c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840b6ccb0f5ee924",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbeff233b734e1cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4b492800675e021",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65eb24bfbec98fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "96361ccb60b9db81",
+  "lastOpenFiles": [
+    "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+    "3.Semester/Analysis/Analysis.md",
+    "3.Semester/NumProg/1. Floating Point Numbers.md",
+    "3.Semester/Analysis/3. Folgen.md",
+    "3.Semester/NumProg/Numerische Programmierung.md",
+    "3.Semester/IT Sec/2. Kryptographie.md",
+    "3.Semester/IT Sec/IT Sec.md",
+    "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
+    "3.Semester/Analysis/1. Mengen.md",
+    "2.Semester/linalg/14. Orthogonalität.md",
+    "2.Semester/linalg/4. Rechnen mit Matrizen.md",
+    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
+    "Bildschirmfoto 2023-10-23 um 16.21.04.png",
+    "Bildschirmfoto 2023-10-23 um 16.16.34.png",
+    "3.Semester/Grundlagen Betriebssysteme/2. Grundlegende Konzepte.md",
+    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Rechner Schichten.png",
+    "2.Semester/eist/Testing.md",
+    "3.Semester/Grundlagen Betriebssysteme",
+    "2.Semester/eist/System Design and Implementation 1.md",
+    "2.Semester/eist/Software Configuration Management.md",
+    "2.Semester/eist/Software Architectures in the cloud.md",
+    "2.Semester/eist/Introduction to Cloud Computing.md",
+    "2.Semester/eist/EIST-Klausur Cheat Sheet.md",
+    "2.Semester/eist/Cloud Computing.md",
+    "2.Semester/eist/Cloud Hardware.md",
+    "2.Semester/eist/Deployment models in the cloud.md",
+    "2.Semester/eist/eist.md",
+    "2.Semester/eist/System Design and Implementation.md",
+    "2.Semester/eist/Software Engineering.md",
+    "Untitled.canvas",
+    "2.Semester/fpv/Images/Bildschirmfoto 2023-05-15 um 12.25.01.png",
+    "2.Semester/fpv/Images/Bildschirmfoto 2023-05-15 um 12.32.06.png",
+    "2.Semester/fpv/Images/Bildschirmfoto 2023-05-09 um 17.51.31.png",
+    "2.Semester/fpv/Images/Bildschirmfoto 2023-05-09 um 17.50.39.png",
+    "3.Semester/Analysis/Images",
+    "3.Semester/Analysis/Images/IMG_0A31A3A1798D-1.jpeg",
+    "3.Semester/Grundlagen Datenbanken/Images/Bildschirmfoto 2023-10-18 um 11.59.39.png",
+    "3.Semester/Grundlagen Datenbanken/Images/IMG_0068.jpg",
+    "3.Semester/Grundlagen Datenbanken/Images",
+    "3.Semester/Analysis/Untitled",
+    "3.Semester/Grundlagen Datenbanken",
+    "3.Semester/NumProg",
+    "2.Semester",
+    "3.Semester/IT Sec",
+    "3.Semester/Analysis",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas"
+  ]
+}
