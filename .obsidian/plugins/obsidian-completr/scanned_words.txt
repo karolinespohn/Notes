@@ -106,6 +106,9 @@ File
 Funktionen
 Falls
 Forward
+Fuehrt
+Fehleranalyse
+Fehler
 bestehen
 bringen
 bi
@@ -251,6 +254,10 @@ berechnetes
 betrieben
 berrechnete
 berechnet
+berechnen
+beim
+besser
+beiden
 aus
 an
 als
@@ -435,6 +442,13 @@ abgeschlossene
 abzaehlbare
 aendert
 absoluten
+abschaetzen
+absolute
+aufstellen
+aufteilt
+aufeinander
+akzeptabel
+akzeptable
 Sign
 Surjektivitaet
 Surjektion
@@ -590,6 +604,12 @@ Seien
 Schwaechere
 Stabilitaet
 Subtraktion
+Stellen
+Strenge
+Schwache
+Schnittpunkt
+Schnittpunktes
+Stabile
 Bit
 Bijektion
 Bernstein
@@ -714,6 +734,8 @@ Basics
 Besondere
 Betrag
 Backward
+Berechnung
+Betreiben
 Mantisse
 Menge
 Monotonie
@@ -986,6 +1008,7 @@ ueberabzaehlbar
 unterer
 unsensitiv
 unempfindlich
+unterschiedlich
 Exponent
 Eine
 Element
@@ -1122,6 +1145,10 @@ Ergebnis
 Eingabedaten
 Eingabeverzerrungen
 Ergebnisfehler
+Ergebnisses
+Eingabewerte
+Eigenwerte
+Eingabefehler
 Die
 Der
 Da
@@ -1245,6 +1272,8 @@ Dafuer
 Distanz
 Dadurch
 Den
+Diskretisierungsfehler
+Durch
 ist
 immer
 insbesondere
@@ -1545,6 +1574,10 @@ dem
 direkter
 disjunkter
 demselben
+drastisch
+davon
+dessen
+desto
 wodurch
 werden
 wenn
@@ -1685,6 +1718,7 @@ wiederholt
 wechseln
 weder
 wiefolgt
+wieder
 jeder
 jede
 jeweils
@@ -1938,6 +1972,11 @@ effizient
 echtes
 exaktes
 eher
+exakt
+erwartende
+erwartete
+erwarteterweise
+erhalten
 Nachbar
 Notation
 Note
@@ -2044,6 +2083,7 @@ Nullzeilen
 Norm
 Numerische
 Numerisch
+Nullstellen
 hat
 heisst
 hoechstens
@@ -2291,6 +2331,12 @@ Analysen
 Analysis
 Aenderung
 Absoluter
+Abweichung
+Absolute
+Auswirkung
+Ausgabefehlern
+Algorithmus
+Ausloeschung
 zwischen
 zwei
 zu
@@ -2396,6 +2442,7 @@ zugegriffen
 zählt
 zusammengefasst
 zielen
+zerteilt
 nicht
 nur
 nach
@@ -2509,6 +2556,7 @@ numbers
 necessary
 non
 noch
+nahe
 gleich
 gerundet
 gute
@@ -2632,6 +2680,11 @@ gerundeten
 garantiert
 gegen
 gleiche
+groesserer
+genaue
+gross
+gut
+grossen
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -2744,6 +2797,10 @@ Reellen
 Rechenoperationen
 Rundungsanalysen
 Relativer
+Rueckwerts
+Rueckwertsanalyse
+Relative
+Realitaet
 reelle
 rekursiv
 relevant
@@ -2898,6 +2955,11 @@ return
 rechteckiges
 realisieren
 relativen
+relevanter
+reduziert
+richtiger
+richtigen
+relative
 Zahl
 Zahlen
 Zeilenvektor
@@ -3003,6 +3065,7 @@ Ziffer
 Zahlenschema
 Zwei
 Zeilenstufen
+Zusammengesetzte
 kann
 koennen
 keine
@@ -3111,6 +3174,7 @@ kleine
 kleiner
 kleinen
 kuerzen
+konditioniert
 muss
 mindestens
 mit
@@ -3271,6 +3335,7 @@ mehr
 multipliziert
 moeglichst
 minimieren
+moeglichen
 treten
 tPW
 ti
@@ -3404,6 +3469,7 @@ testet
 technisches
 technische
 ten
+teils
 liegen
 laesst
 lösbar
@@ -3534,6 +3600,7 @@ lesender
 lesend
 laeuft
 leere
+landet
 sollte
 sich
 surjektiv
@@ -3731,6 +3798,13 @@ sodass
 schwaechere
 stark
 stabile
+sinnvoll
+stellt
+schlecht
+senkrechter
+sehr
+spitz
+spiegeln
 folgende
 falls
 folgendermassen
@@ -3860,6 +3934,10 @@ fill
 fuehren
 flexibel
 fuehrende
+fest
+festgestellt
+findet
+finden
 Idempotenz
 Injektion
 Injektionen
@@ -3984,6 +4062,8 @@ Invertieren
 Intervall
 Ideralerweise
 IEEE
+Input
+Ist
 Jedes
 Jede
 JE
@@ -4073,6 +4153,7 @@ Jdd
 JUnit
 Java
 Jeder
+Je
 von
 vorgibt
 verwendet
@@ -4208,6 +4289,9 @@ vollstaendige
 verzerrtes
 verzerrter
 vernachlaessigbar
+verfaelscht
+vorhinein
+verstaerkt
 Cantor
 CR
 CE
@@ -4640,6 +4724,9 @@ Vollstaendigkeit
 Vereinigung
 Variante
 Vorzeichen
+Verzerrung
+Vorwaerts
+Vorwaertsanalyse
 Objekte
 Objekten
 Ordnung
@@ -4732,6 +4819,7 @@ Observer
 Operationen
 Orthogonalität
 Offene
+Orange
 Unteschiedlichen
 Umwandeln
 Um
@@ -4842,6 +4930,8 @@ Unix
 Uebersichtlichkeit
 Umformungen
 Umgebung
+Unterprobleme
+Umkehrung
 Graphik
 Gauss
 Gegeben
@@ -4942,6 +5032,8 @@ Geraete
 Geraet
 Grosse
 Gute
+Graphisches
+Geraden
 ohne
 oE
 oqtQ
@@ -5182,6 +5274,9 @@ Pipes
 Priviligierte
 Prozesskommunikation
 Potenzieren
+Probleme
+Polynoms
+Problem
 Wenn
 Wähle
 Wichtig
@@ -5278,6 +5373,7 @@ Workers
 White
 Waehrend
 Winkel
+Wie
 quadratische
 qT
 qf
@@ -6085,6 +6181,8 @@ check
 collection
 completely
 coded
+charakteristischen
+charakteristische
 xTG
 xb
 xh
@@ -6281,6 +6379,8 @@ Hardware
 Hardwareschnittstelle
 Hierbei
 Hardwarezugriff
+Hypothesen
+Hypothese
 YYy
 YkDTC
 Yw
