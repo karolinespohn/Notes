@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md"
+                "file": "3.Semester/Analysis/3. Folgen.md"
               }
             }
           }
@@ -169,8 +169,23 @@
   },
   "active": "eaa3e25cafa864b9",
   "lastOpenFiles": [
-    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+    "3.Semester/Analysis/1. Mengen.md",
+    "3.Semester/Analysis/3. Folgen.md",
+    "2.Semester/gra/SIMD mit SSE.md",
+    "README.md",
+    "2.Semester/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
+    "2.Semester/linalg/1. Sätze.md",
+    "2.Semester/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
+    "2.Semester/linalg/12. Determinante.md",
+    "2.Semester/linalg/13. Skalarprodukte.md",
+    "2.Semester/linalg/14. Orthogonalität.md",
+    "2.Semester/linalg/9. Linearkombinationen, Erzeugendensysteme und Lineare Unabhängigkeit.md",
+    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
+    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "3.Semester/Grundlagen Betriebssysteme/2. Grundlegende Konzepte.md",
     "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/Grundlagen Datenbanken/Images/Join.jpeg",
     "3.Semester/Grundlagen Datenbanken/Images/(min, max).png",
     "Relational_Algebra_Single_Table_Projection.svg",
@@ -183,30 +198,16 @@
     "3.Semester/IT Sec/Images",
     "3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
     "2.Semester/linalg/4. Rechnen mit Matrizen.md",
-    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
-    "3.Semester/Grundlagen Betriebssysteme/2. Grundlegende Konzepte.md",
     "3.Semester/NumProg/Numerische Programmierung.md",
-    "README.md",
     "LaTeX Operators.md",
     "3.Semester/NumProg/1. Floating Point Numbers.md",
     "3.Semester/NumProg/Images",
-    "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
     "3.Semester/Analysis/Analysis.md",
-    "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/IT Sec/IT Sec.md",
     "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
-    "3.Semester/Analysis/1. Mengen.md",
-    "2.Semester/linalg/14. Orthogonalität.md",
-    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "3.Semester/Grundlagen Betriebssysteme/Images",
-    "2.Semester/eist/Testing.md",
     "3.Semester/Grundlagen Betriebssysteme",
-    "2.Semester/eist/System Design and Implementation 1.md",
-    "2.Semester/eist/Software Configuration Management.md",
-    "2.Semester/eist/Software Architectures in the cloud.md",
-    "2.Semester/eist/Introduction to Cloud Computing.md",
-    "2.Semester/eist/EIST-Klausur Cheat Sheet.md",
     "Untitled.canvas",
     "3.Semester/Analysis/Images",
     "3.Semester/Grundlagen Datenbanken/Images",
