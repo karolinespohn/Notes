@@ -874,6 +874,7 @@ Spielzuege
 SSSP
 Stattdessen
 Sortierung
+Stack
 Bit
 Bijektion
 Bernstein
@@ -1059,6 +1060,7 @@ Bubble
 Breitensuche
 Baumkanten
 Beliebiger
+Buendelung
 Mantisse
 Menge
 Monotonie
@@ -2484,6 +2486,8 @@ wurde
 wurden
 wiederhole
 weakest
+wann
+welchen
 jeder
 jede
 jeweils
@@ -2869,6 +2873,8 @@ everywhere
 easiest
 entered
 exam
+entscheidet
+einnimmt
 Nachbar
 Notation
 Note
@@ -4098,6 +4104,7 @@ Reihe
 Runde
 Reihenfolge
 Rueckwertskanten
+Registerwerte
 reelle
 rekursiv
 relevant
@@ -4470,6 +4477,8 @@ ZhK
 Zerlegungn
 Zusammenhang
 Zaehle
+Zeitpunkt
+Zustand
 kann
 koennen
 keine
@@ -6307,6 +6316,7 @@ vertasuscht
 variable
 verify
 valid
+verantwortlich
 Cantor
 CR
 CE
@@ -6457,6 +6467,7 @@ CbO
 Cauchy
 Cache
 Commands
+Counter
 Theorem
 TODO
 Tupel
@@ -6620,6 +6631,7 @@ Trojaner
 Traversierung
 Tiefensuche
 Transponiert
+Thread
 Koerper
 Komplexe
 Körper
@@ -6805,6 +6817,7 @@ Kind
 Kantenkosten
 Kantencounter
 Kantengewichten
+Kapitel
 Vektoren
 Verschiedene
 Vertauschen
@@ -6969,6 +6982,7 @@ Virus
 Vorgaenger
 Verwendungen
 Verification
+Verwaltung
 Objekte
 Objekten
 Ordnung
@@ -7793,6 +7807,8 @@ Pfades
 Pfade
 Perfektes
 Programs
+Prozesszustaende
+Prozessors
 Wenn
 Wähle
 Wichtig
@@ -8094,6 +8110,7 @@ qjQmJ
 qVi
 qfZ
 qxiEJ
+quasi
 äquivalent
 äI
 Lösung
@@ -8753,6 +8770,7 @@ possible
 programs
 proof
 proofs
+physischen
 yh
 yvF
 ys
