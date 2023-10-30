@@ -1,4 +1,0 @@
-$$
-\DeclareMathOperator{\stl}{Stelle}
-\stl
-$$
