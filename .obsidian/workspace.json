@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/NumProg/2. Interpolation.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/NumProg/2. Interpolation.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/NumProg/2. Interpolation.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/NumProg/2. Interpolation.md"
+                "file": "3.Semester/Analysis/3. Folgen.md"
               }
             }
           }
