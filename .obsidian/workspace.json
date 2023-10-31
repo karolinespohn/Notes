@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d161fe589327860",
+        "id": "ab64f7687caf5d67",
         "type": "tabs",
         "children": [
           {
-            "id": "96361ccb60b9db81",
+            "id": "e7e24f2918abfdc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/NumProg/1. Floating Point Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaa3e25cafa864b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Semester/Analysis/3. Folgen.md",
+                "file": "3.Semester/NumProg/2. Interpolation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Analysis/3. Folgen.md",
+                "file": "3.Semester/NumProg/2. Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Analysis/3. Folgen.md",
+                "file": "3.Semester/NumProg/2. Interpolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Analysis/3. Folgen.md"
+                "file": "3.Semester/NumProg/2. Interpolation.md"
               }
             }
           }
@@ -167,37 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaa3e25cafa864b9",
+  "active": "e7e24f2918abfdc1",
   "lastOpenFiles": [
-    "3.Semester/NumProg/2. Interpolation.md",
     "3.Semester/NumProg/1. Floating Point Numbers.md",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
+    "2.Semester/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
+    "2.Semester/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
+    "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
     "3.Semester/Analysis/3. Folgen.md",
+    "2.Semester/linalg/11. Linearcodes.md",
+    "2.Semester/linalg/1. Sätze.md",
+    "2.Semester/linalg/16. Lineare Ausgleichrechnung.md",
+    "2.Semester/linalg/15. Orthogonal- und Orthonormalsysteme.md",
+    "2.Semester/linalg/14. Orthogonalität.md",
+    "2.Semester/linalg/13. Skalarprodukte.md",
+    "2.Semester/linalg/12. Determinante.md",
+    "2.Semester/linalg/10. Basen von Vektorräumen.md",
+    "2.Semester/linalg/9. Linearkombinationen, Erzeugendensysteme und Lineare Unabhängigkeit.md",
+    "2.Semester/linalg/8. Vektorräume.md",
+    "2.Semester/linalg/7. Kryptologie.md",
+    "2.Semester/linalg/6 Restklassen.md",
+    "2.Semester/linalg/5 Algebraische Strukturen.md",
+    "2.Semester/linalg/4. Rechnen mit Matrizen.md",
+    "2.Semester/linalg/3. Lineare Gleichungssysteme.md",
     "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
-    "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
     "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
     "2.Semester/linalg/0. linalg.md",
-    "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/1. Systemcalls.md",
-    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "README.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Prozesszustaende.png",
-    "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/Maerchenstunde.md",
-    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde",
-    "3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
-    "2.Semester/2. Semester.md",
-    "LaTeX Operators.md",
-    "2.Semester/linalg/Unterüberschriften/Realteil & Imaginärteil.md",
-    "2.Semester/eist/Images/EIST.md",
-    "2.Semester/linalg/Beweise/Beweis bezüglich Transponieren von Produkten.md",
-    "2.Semester/linalg/Unterüberschriften/Besondere Matritzen.md",
     "2.Semester/fpv/Images/Bildschirmfoto 2023-05-15 um 12.32.06.png",
-    "2.Semester/fpv/Verification.md",
-    "2.Semester/fpv/Functional Programming.md",
-    "2.Semester/fpv/fpv.md",
-    "2.Semester/eist/eist.md",
-    "2.Semester/eist/System Design and Implementation 1.md",
-    "2.Semester/eist/System Design and Implementation.md",
     "3.Semester/Grundlagen Datenbanken/Images/Join.jpeg",
     "3.Semester/Grundlagen Datenbanken/Images/(min, max).png",
     "Relational_Algebra_Single_Table_Projection.svg",
