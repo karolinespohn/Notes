@@ -158,6 +158,7 @@ Faktor
 Funktionalitaeten
 FIFO
 For
+Findung
 bestehen
 bringen
 bi
@@ -365,6 +366,9 @@ behandelt
 behaves
 begining
 beide
+billig
+bekannten
+benoetigt
 aus
 an
 als
@@ -626,6 +630,9 @@ assertion
 argue
 assignment
 arrive
+auftritt
+annaehern
+aufgestellt
 Sign
 Surjektivitaet
 Surjektion
@@ -875,6 +882,11 @@ SSSP
 Stattdessen
 Sortierung
 Stack
+Systeminitialisierung
+Systemcall
+Stuetzstellen
+Stuetzpunkte
+Stuetzpunkten
 Bit
 Bijektion
 Bernstein
@@ -1061,6 +1073,7 @@ Breitensuche
 Baumkanten
 Beliebiger
 Buendelung
+Block
 Mantisse
 Menge
 Monotonie
@@ -1260,6 +1273,10 @@ MiniJava
 Modularization
 Modular
 Mittels
+Multithreading
+Maschinengenauigkeit
+Mass
+Maschenweite
 und
 um
 uQD
@@ -1465,6 +1482,9 @@ unter
 unausreichende
 unifizierte
 ungerichtete
+umzuschalten
+unbekannt
+ueberschritten
 Exponent
 Eine
 Element
@@ -1672,6 +1692,8 @@ Erstelle
 Expressions
 Every
 Eintrag
+Erzeugung
+Einfuehrung
 Die
 Der
 Da
@@ -1858,6 +1880,8 @@ Direkte
 DAGs
 Dijkstra
 Dimensionen
+Datenstruktur
+Dateiverwaltung
 ist
 immer
 insbesondere
@@ -2290,6 +2314,8 @@ daraus
 dekrementiere
 dummy
 decreased
+diskreten
+diskrete
 wodurch
 werden
 wenn
@@ -2488,6 +2514,7 @@ wiederhole
 weakest
 wann
 welchen
+waehrend
 jeder
 jede
 jeweils
@@ -2875,6 +2902,9 @@ entered
 exam
 entscheidet
 einnimmt
+erzeugen
+explizite
+eignet
 Nachbar
 Notation
 Note
@@ -3034,6 +3064,9 @@ Nachbarn
 Nummer
 Nachbern
 Node
+Nun
+Neville
+Newton
 hat
 heisst
 hoechstens
@@ -3183,6 +3216,7 @@ hZQ
 hZP
 heißen
 holds
+horizontale
 Abstand
 Auswahl
 Axiom
@@ -3403,6 +3437,14 @@ Adjazenzmatrix
 Adjazenzarraz
 Adjazenzliste
 APSP
+Adressraumes
+Approximation
+Art
+Abszisse
+Abszissen
+Aequidistant
+Aitken
+Abschaetzung
 zwischen
 zwei
 zu
@@ -3929,6 +3971,13 @@ gerichteten
 gesuchten
 geht
 gleichen
+geteilten
+gespeichert
+geben
+gewissen
+gegebenen
+gefunden
+gegeben
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -4105,6 +4154,9 @@ Runde
 Reihenfolge
 Rueckwertskanten
 Registerwerte
+Rechnungen
+Representation
+Repraesentation
 reelle
 rekursiv
 relevant
@@ -4322,6 +4374,9 @@ representet
 reaches
 reached
 replicated
+relativ
+resultierende
+rekursiven
 Zahl
 Zahlen
 Zeilenvektor
@@ -4650,6 +4705,7 @@ konvergente
 konvergent
 kuerzeste
 kuerzesten
+kontinuierliche
 muss
 mindestens
 mit
@@ -5098,6 +5154,7 @@ terminal
 this
 terminate
 termination
+teilen
 liegen
 laesst
 lösbar
@@ -5283,6 +5340,7 @@ last
 locally
 local
 loops
+loesen
 sollte
 sich
 surjektiv
@@ -5568,6 +5626,10 @@ sub
 stelle
 steht
 strace
+schwer
+soll
+schwerer
+spezielle
 folgende
 falls
 folgendermassen
@@ -5760,6 +5822,7 @@ fuege
 followed
 found
 fragments
+feststellen
 Idempotenz
 Injektion
 Injektionen
@@ -5967,6 +6030,12 @@ Iterationsvariante
 Instruction
 Intrinsics
 Indizenzmatrix
+Interpolation
+Interpolierende
+Interpolante
+Interpolierenden
+Interpolationsproblem
+Interpolationsfehlern
 Jedes
 Jede
 JE
@@ -6317,6 +6386,7 @@ variable
 verify
 valid
 verantwortlich
+verwaltet
 Cantor
 CR
 CE
@@ -6468,6 +6538,7 @@ Cauchy
 Cache
 Commands
 Counter
+Controll
 Theorem
 TODO
 Tupel
@@ -6632,6 +6703,7 @@ Traversierung
 Tiefensuche
 Transponiert
 Thread
+Tupeln
 Koerper
 Komplexe
 Körper
@@ -6818,6 +6890,8 @@ Kantenkosten
 Kantencounter
 Kantengewichten
 Kapitel
+Konstant
+Konstruktion
 Vektoren
 Verschiedene
 Vertauschen
@@ -6983,6 +7057,7 @@ Vorgaenger
 Verwendungen
 Verification
 Verwaltung
+Vandermonde
 Objekte
 Objekten
 Ordnung
@@ -7129,6 +7204,8 @@ Ordnungen
 Operation
 Opfer
 Ocaml
+Ordinate
+Ordinaten
 Unteschiedlichen
 Umwandeln
 Um
@@ -7301,6 +7378,7 @@ Umrechnungen
 Ursprung
 Ueberlastung
 Umsetzung
+Unterscheidung
 Graphik
 Gauss
 Gegeben
@@ -7456,6 +7534,7 @@ Grenzwerte
 Graph
 Graphen
 Gewicht
+Gruende
 ohne
 oE
 oqtQ
@@ -7809,6 +7888,10 @@ Perfektes
 Programs
 Prozesszustaende
 Prozessors
+Punkten
+Paare
+Polynomielle
+Polynome
 Wenn
 Wähle
 Wichtig
@@ -7957,6 +8040,8 @@ Wird
 Wege
 Weg
 With
+Werden
+Werte
 quadratische
 qT
 qf
@@ -8771,6 +8856,7 @@ programs
 proof
 proofs
 physischen
+polynomielle
 yh
 yvF
 ys
