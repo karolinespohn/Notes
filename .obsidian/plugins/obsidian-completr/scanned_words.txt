@@ -165,6 +165,7 @@ Fehlerkorrigierender
 Fehlererkennender
 Folgen
 Funktionalitaet
+Fehlerterm
 bestehen
 bringen
 bi
@@ -383,6 +384,9 @@ bezüglich
 bits
 bekommen
 beeintraechtigt
+bestimme
+bijektiv
+beschrieben
 aus
 an
 als
@@ -647,6 +651,8 @@ arrive
 auftritt
 annaehern
 aufgestellt
+anhand
+anwendet
 Sign
 Surjektivitaet
 Surjektion
@@ -908,6 +914,8 @@ Schmidt
 Suche
 Schutzziele
 Spam
+Summe
+Semi
 Bit
 Bijektion
 Bernstein
@@ -1102,6 +1110,11 @@ Basen
 Bestimmen
 Bits
 Beachte
+Bildformel
+Bildes
+Basisvektors
+Bild
+Basistransformationsformel
 Mantisse
 Menge
 Monotonie
@@ -1526,6 +1539,7 @@ unterscheidet
 unauthorisiert
 unbemerkt
 unbefugt
+ueber
 Exponent
 Eine
 Element
@@ -1741,6 +1755,11 @@ EEAs
 Ergaenzung
 Erhalte
 Echtheit
+Eigenvektor
+Eigenwert
+Eigenvektoren
+Eigenraum
+Eigenraums
 Die
 Der
 Da
@@ -1932,6 +1951,16 @@ Dateiverwaltung
 Dimension
 Datenübertragung
 Dekodieren
+Diagonalisierung
+Diagonalelemente
+Diagonalisierbarkeit
+Diagonalisierbar
+Diagonalisieren
+Diagonalmatrix
+Definitheiten
+Dimensionsformel
+Darstellungsmatrix
+Differenz
 ist
 immer
 insbesondere
@@ -2139,6 +2168,7 @@ invariant
 invariants
 indicator
 indem
+indefinit
 diskret
 dargestellt
 dann
@@ -2369,6 +2399,8 @@ diskreten
 diskrete
 damit
 durchgefuehrt
+diagonalisierbar
+definiere
 wodurch
 werden
 wenn
@@ -2973,6 +3005,8 @@ entschlüsseln
 enthalten
 ergänzt
 erhalte
+echt
+endliche
 Nachbar
 Notation
 Note
@@ -3535,6 +3569,7 @@ Availability
 Authenticity
 Accountability
 Analytics
+Abbildungen
 zwischen
 zwei
 zu
@@ -3871,6 +3906,8 @@ neutrale
 nie
 normiert
 nachvollziehbar
+nichts
+negativ
 gleich
 gerundet
 gute
@@ -4081,6 +4118,9 @@ gesetzten
 gerade
 generator
 gewisse
+geometrische
+geordnete
+gebildet
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -4494,6 +4534,7 @@ rekursiven
 rechts
 rechnet
 rekonstruierbar
+reell
 Zahl
 Zahlen
 Zeilenvektor
@@ -4830,6 +4871,7 @@ können
 kleinsten
 knacken
 kontrollieren
+keinem
 muss
 mindestens
 mit
@@ -5476,6 +5518,8 @@ lösbaren
 laengs
 lautet
 lineare
+linearer
+llt
 sollte
 sich
 surjektiv
@@ -5779,6 +5823,9 @@ sofern
 solches
 suchen
 sollten
+sagen
+semi
+ste
 folgende
 falls
 folgendermassen
@@ -6191,6 +6238,9 @@ Informationsrate
 Informationswort
 Informationsgewinnung
 Integrity
+Indefinitheit
+Isomorphismus
+Interpolationsfehler
 Jedes
 Jede
 JE
@@ -7067,6 +7117,12 @@ Klar
 Kern
 Komplement
 Kontrollmatrix
+Kreise
+Kreis
+Komposition
+Kernformel
+Koordinatenvektoren
+Koordinatenvektor
 Vektoren
 Verschiedene
 Vertauschen
@@ -7241,6 +7297,11 @@ Verfügung
 Vektor
 Vektorraums
 Verkuerzung
+Vielfachheit
+Vektorraeume
+Vektors
+VRs
+Verwendet
 Objekte
 Objekten
 Ordnung
@@ -7746,6 +7807,10 @@ Gram
 Gleichungssystem
 Generatormatrix
 Glaubwuerdigkeit
+Gesucht
+Gerschgorin
+Gerschgorinkreisen
+Gerschgorinkreis
 ohne
 oE
 oqtQ
@@ -7924,6 +7989,8 @@ oVX
 order
 orthogonale
 orthoganale
+orthogonaler
+obrige
 Pruefung
 Polynom
 PNG
@@ -8579,6 +8646,7 @@ Lösen
 Loesbarkeit
 Lösungen
 Lage
+Liegt
 Qt
 QO
 Qx
