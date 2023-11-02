@@ -1961,6 +1961,7 @@ Definitheiten
 Dimensionsformel
 Darstellungsmatrix
 Differenz
+Divergiert
 ist
 immer
 insbesondere
@@ -3570,6 +3571,7 @@ Authenticity
 Accountability
 Analytics
 Abbildungen
+Analog
 zwischen
 zwei
 zu
@@ -4872,6 +4874,8 @@ kleinsten
 knacken
 kontrollieren
 keinem
+konvregiert
+knovergiert
 muss
 mindestens
 mit
@@ -5826,6 +5830,8 @@ sollten
 sagen
 semi
 ste
+schreiben
+schoener
 folgende
 falls
 folgendermassen
@@ -6021,6 +6027,7 @@ fragments
 feststellen
 frei
 fehlerhaftes
+fallend
 Idempotenz
 Injektion
 Injektionen
@@ -6923,6 +6930,7 @@ Transponiert
 Thread
 Tupeln
 Teilmengenbeziehung
+Teilfolge
 Koerper
 Komplexe
 Körper
@@ -8185,6 +8193,7 @@ Partei
 Phishing
 Privacy
 Person
+Partialsummen
 Wenn
 Wähle
 Wichtig
@@ -9897,6 +9906,7 @@ Hellman
 Hilfe
 Hamming
 Handlung
+Haeufungspunkt
 YYy
 YkDTC
 Yw
