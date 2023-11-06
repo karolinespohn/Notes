@@ -925,6 +925,7 @@ Schluesselpaar
 Speichereffizienter
 Staerke
 Sicherheit
+Stromchiffren
 Bit
 Bijektion
 Bernstein
@@ -1125,6 +1126,9 @@ Basisvektors
 Bild
 Basistransformationsformel
 Brute
+Blockchiffren
+Bloecke
+Blocks
 Mantisse
 Menge
 Monotonie
@@ -1976,6 +1980,8 @@ Darstellungsmatrix
 Differenz
 Divergiert
 Deshalb
+Definitionen
+Diese
 ist
 immer
 insbesondere
@@ -4143,6 +4149,9 @@ gewisse
 geometrische
 geordnete
 gebildet
+gleicher
+genug
+gepadded
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -5546,6 +5555,8 @@ lautet
 lineare
 linearer
 llt
+letzte
+lang
 sollte
 sich
 surjektiv
@@ -5855,6 +5866,7 @@ ste
 schreiben
 schoener
 senden
+symmetrischen
 folgende
 falls
 folgendermassen
@@ -6629,6 +6641,8 @@ verkürzet
 verfälscht
 verhindert
 vielen
+verschluesselt
+verschluesselnde
 Cantor
 CR
 CE
@@ -7154,6 +7168,7 @@ Komposition
 Kernformel
 Koordinatenvektoren
 Koordinatenvektor
+Klartext
 Vektoren
 Verschiedene
 Vertauschen
