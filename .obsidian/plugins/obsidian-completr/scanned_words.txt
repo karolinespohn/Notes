@@ -5867,6 +5867,7 @@ schreiben
 schoener
 senden
 symmetrischen
+schaetzt
 folgende
 falls
 folgendermassen
@@ -7169,6 +7170,7 @@ Kernformel
 Koordinatenvektoren
 Koordinatenvektor
 Klartext
+Konditionszahl
 Vektoren
 Verschiedene
 Vertauschen
@@ -8237,6 +8239,7 @@ Phishing
 Privacy
 Person
 Partialsummen
+Problems
 Wenn
 Wähle
 Wichtig

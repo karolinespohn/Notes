@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
+                "file": "3.Semester/IT Sec/2. Kryptographie.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "49644236c393a281",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
+                "file": "3.Semester/IT Sec/2. Kryptographie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
+                "file": "3.Semester/IT Sec/2. Kryptographie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md"
+                "file": "3.Semester/IT Sec/2. Kryptographie.md"
               }
             }
           }
@@ -168,20 +167,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f476d2e95cd356",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
-    "3.Semester/Grundlagen Betriebssysteme/Images/Prozesshierarchie.png",
-    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
-    "3.Semester/NumProg/1. Floating Point Numbers.md",
-    "3.Semester/NumProg/2. Interpolation.md",
+    "3.Semester/IT Sec/Images/CTR.png",
+    "3.Semester/IT Sec/Images/CBC.png",
+    "3.Semester/IT Sec/Images/ECB  Tux.png",
+    "3.Semester/IT Sec/Images/Stromchiffre.png",
+    "3.Semester/IT Sec/IT Sec.md",
+    "3.Semester/3. Semester.md",
+    "LaTeX Operators.md",
     "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Analysis/3. Folgen.md",
-    "3.Semester/IT Sec/IT Sec.md",
-    "LaTeX Operators.md",
-    "3.Semester/IT Sec/Images/Symmetrische Verschuesselung.png",
     "3.Semester/Analysis/Analysis.md",
-    "3.Semester/3. Semester.md",
+    "3.Semester/NumProg/1. Floating Point Numbers.md",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Prozesshierarchie.png",
+    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+    "3.Semester/Analysis/3. Folgen.md",
+    "3.Semester/IT Sec/Images/Symmetrische Verschuesselung.png",
     "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
@@ -196,17 +200,12 @@
     "2.Semester/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
     "2.Semester/linalg/11. Linearcodes.md",
     "2.Semester/linalg/1. Sätze.md",
-    "2.Semester/linalg/16. Lineare Ausgleichrechnung.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Prozesszustaende.png",
     "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde",
     "2.Semester/fpv/Images/Bildschirmfoto 2023-05-15 um 12.32.06.png",
     "3.Semester/Grundlagen Datenbanken/Images/Join.jpeg",
     "3.Semester/Grundlagen Datenbanken/Images/(min, max).png",
     "Relational_Algebra_Single_Table_Projection.svg",
-    "3.Semester/Grundlagen Datenbanken/Images/Rekursive Beziehungen.png",
-    "3.Semester/Grundlagen Datenbanken/Images/Beziehungsarten.png",
-    "3.Semester/Grundlagen Datenbanken/Images/1 zu 1.png",
-    "3.Semester/Grundlagen Datenbanken/Images/(min, max) Notation.png",
     "3.Semester/IT Sec/Images",
     "3.Semester/NumProg/Images",
     "3.Semester/Grundlagen Betriebssysteme/Images",
