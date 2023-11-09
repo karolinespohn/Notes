@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.00390243530273,
-    "collapsed": true
+    "width": 221.00390243530273
   },
   "right": {
     "id": "49644236c393a281",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+                "file": "3.Semester/Analysis/3. Folgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md"
+                "file": "3.Semester/Analysis/3. Folgen.md"
               }
             }
           }
@@ -157,18 +156,19 @@
   },
   "active": "75f476d2e95cd356",
   "lastOpenFiles": [
+    "3.Semester/Analysis/4. Reihen.md",
+    "3.Semester/Analysis/3. Folgen.md",
+    "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+    "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "3.Semester/NumProg/2. Interpolation.md",
     "2.Semester/linalg/Unterüberschriften/konjugiert komplexe Zahlen.md",
     "Untitled.canvas",
-    "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/Grundlagen Datenbanken/Images/Relationale Division.jpeg",
     "3.Semester/Grundlagen Datenbanken/Images/Tupelkalkuel.png",
     "R 1.png",
     "3.Semester/NumProg/Images/Runge Effekt.png",
-    "3.Semester/Analysis/3. Folgen.md",
-    "3.Semester/Analysis/4. Reihen.md",
     "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/NumProg/Numerische Programmierung.md",
     "2.Semester/linalg/16. Lineare Ausgleichrechnung.md",
@@ -184,7 +184,6 @@
     "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Prozesshierarchie.png",
     "3.Semester/IT Sec/Images/Symmetrische Verschuesselung.png",
-    "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
     "3.Semester/Analysis/1. Mengen.md",
     "2.Semester/linalg/13. Skalarprodukte.md",
     "2.Semester/linalg/18. Eigenwerte, Eigenvektoren und Diagonalisierung.md",
