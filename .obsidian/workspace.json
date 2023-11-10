@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Analysis/4. Reihen.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Analysis/4. Reihen.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Analysis/4. Reihen.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Analysis/4. Reihen.md"
+                "file": "README.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "f9f6627eef41294f",
   "lastOpenFiles": [
+    "3.Semester/Analysis/4. Reihen.md",
     "3.Semester/Analysis/Analysis.md",
     "3.Semester/NumProg/2. Interpolation.md",
     "3.Semester/IT Sec/2. Kryptographie.md",
@@ -196,7 +197,6 @@
     "Analysis_fuer_Informatik_TUM.apkg",
     "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "LaTeX Operators.md",
-    "3.Semester/Analysis/4. Reihen.md",
     "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/IT Sec/Images/Symmetrische Verschuesselung.png",
     "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
