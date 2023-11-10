@@ -184,6 +184,8 @@ FSM
 FOxU
 FeV
 Fromel
+Fö
+Flashcards
 bestehen
 bringen
 bi
@@ -427,6 +429,7 @@ bxbr
 beJ
 berechnung
 beschreiben
+befehl
 aus
 an
 als
@@ -714,6 +717,9 @@ aew
 ausgehend
 aggregiert
 anzugeben
+anfragen
+aussehen
+aiM
 Sign
 Surjektivitaet
 Surjektion
@@ -1001,6 +1007,10 @@ SOm
 SoWJZ
 Scv
 SqKv
+Singulaerwertszerlegung
+Singulaerwerte
+Statement
+Studenten
 Bit
 Bijektion
 Bernstein
@@ -1443,6 +1453,14 @@ MsS
 MgL
 MTUv
 Mengendurchschnitt
+Minoranten
+Minorantenkriterium
+Moechte
+Mengenoperationen
+Minorante
+MHn
+MEG
+Mitschrift
 und
 um
 uQD
@@ -1679,6 +1697,9 @@ umCC
 uZW
 uOG
 unendlich
+unkorreliert
+unkorrelierte
+umgesetzt
 Exponent
 Eine
 Element
@@ -1921,6 +1942,9 @@ EyK
 Ergebnistupel
 Ergebnismenge
 Erstellen
+Existenzquantor
+EEEQ
+EIC
 Die
 Der
 Da
@@ -2143,6 +2167,12 @@ Domaenenkalkuel
 Domaenenvariablen
 Datendefinition
 Datenbanken
+Datenbankanfragen
+Duplikate
+Dieses
+DRSSK
+DSw
+DEEel
 ist
 immer
 insbesondere
@@ -2381,6 +2411,9 @@ iIbk
 iQPwz
 ieat
 igY
+istdefiniert
+iRJ
+iBM
 diskret
 dargestellt
 dann
@@ -2629,6 +2662,11 @@ dPF
 dZiQJ
 dNVE
 dPpF
+diagonal
+divergiert
+divergieernde
+divergieren
+dffV
 wodurch
 werden
 wenn
@@ -2856,6 +2894,7 @@ wBo
 wvvgrY
 wsB
 wMy
+wNX
 jeder
 jede
 jeweils
@@ -3025,6 +3064,7 @@ jIz
 jVe
 jQm
 jOJ
+jedoch
 einen
 erfuellen
 einem
@@ -3301,6 +3341,10 @@ eQn
 eqd
 exl
 eQr
+eingefuegt
+existierende
+eliminiert
+einmal
 Nachbar
 Notation
 Note
@@ -3496,6 +3540,8 @@ NRm
 NiY
 NJp
 NwJqqm
+Nullfolge
+NWF
 hat
 heisst
 hoechstens
@@ -3926,6 +3972,11 @@ Attributwerten
 Anfragen
 Auspraegungen
 Ausdruecke
+Allquantor
+Aggregationen
+Aggregationsfunktionen
+Alternierende
+ABB
 zwischen
 zwei
 zu
@@ -4100,6 +4151,7 @@ zqWJ
 zZU
 zuy
 zYo
+zurueck
 nicht
 nur
 nach
@@ -4301,6 +4353,9 @@ nud
 neC
 nUe
 nzY
+nichtnegativ
+nichtnegative
+nQN
 gleich
 gerundet
 gute
@@ -4531,6 +4586,8 @@ gQv
 gNq
 gruppiert
 gebunden
+geloescht
+gehen
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -5169,6 +5226,7 @@ ZYh
 ZjP
 Zrp
 ZTo
+ZTS
 kann
 koennen
 keine
@@ -5374,6 +5432,10 @@ kRQj
 keYMZ
 kkxP
 kQM
+korreliert
+korrelierte
+konvergieren
+kyc
 muss
 mindestens
 mit
@@ -5636,6 +5698,7 @@ moq
 mIZ
 moy
 manipulation
+mOS
 treten
 tPW
 ti
@@ -5739,7 +5802,6 @@ tasks
 their
 tier
 together
-tools
 track
 two
 tolerable
@@ -5865,6 +5927,9 @@ tqV
 txy
 tja
 tcC
+tiX
+toD
+tuG
 liegen
 laesst
 lösbar
@@ -6074,6 +6139,8 @@ lcT
 lFy
 lUw
 lbgP
+luv
+lXe
 sollte
 sich
 surjektiv
@@ -6405,6 +6472,10 @@ slMj
 suN
 summiert
 sicher
+sortieren
+srssEg
+srr
+sdd
 folgende
 falls
 folgendermassen
@@ -6621,6 +6692,7 @@ fGU
 fFWFdt
 feG
 fTc
+fallende
 Idempotenz
 Injektion
 Injektionen
@@ -6870,6 +6942,7 @@ IbW
 IbNI
 IVk
 Igc
+IAAAV
 Jedes
 Jede
 JE
@@ -7269,6 +7342,10 @@ vZi
 vjQ
 vjK
 vju
+veraendern
+verschachtelt
+vollstaendiger
+vgTZ
 Cantor
 CR
 CE
@@ -7850,6 +7927,12 @@ Kky
 Kpp
 KZv
 Kwp
+Kurs
+Konvergenzkriterien
+KIjTF
+KvI
+KSV
+KSs
 Vektoren
 Verschiedene
 Vertauschen
@@ -8061,6 +8144,8 @@ VzmS
 VvTE
 Vqy
 VzI
+Verschachtelungen
+Verdichtungskriterium
 Objekte
 Objekten
 Ordnung
@@ -8237,6 +8322,7 @@ OÜ
 OxÜ
 OFB
 OxTXw
+OBBB
 Unteschiedlichen
 Umwandeln
 Um
@@ -8430,6 +8516,9 @@ UNZ
 UgeDR
 UFK
 UMIZ
+Unteranfrage
+Unteranfragen
+Unkorrelierte
 Graphik
 Gauss
 Gegeben
@@ -8621,6 +8710,8 @@ GUP
 GtDk
 Gegenstuecke
 Gruppierung
+Gruppierungen
+GBY
 ohne
 oE
 oqtQ
@@ -8820,6 +8911,8 @@ ocU
 oiB
 odtV
 omO
+ordnet
+oEO
 Pruefung
 Polynom
 PNG
@@ -9029,6 +9122,7 @@ PnT
 PuC
 PART
 Praedikat
+PXx
 Wenn
 Wähle
 Wichtig
@@ -9203,6 +9297,8 @@ WzM
 WuR
 WVW
 Wng
+Wurzelkriterium
+WHz
 quadratische
 qT
 qf
@@ -9371,6 +9467,9 @@ qkk
 qiJ
 qrO
 qxW
+qho
+qpK
+qBs
 äquivalent
 äI
 Lösung
@@ -9537,6 +9636,8 @@ LCJ
 LIou
 LIH
 Lctl
+LuF
+LStf
 Qt
 QO
 Qx
@@ -9695,6 +9796,9 @@ QRN
 QGG
 QWN
 QZEt
+Queries
+Query
+Quotientenkriterium
 XTi
 Xr
 XH
@@ -10123,6 +10227,10 @@ pdW
 psS
 pxx
 pMve
+pro
+ppv
+pae
+psGJ
 yh
 yvF
 ys
@@ -10309,6 +10417,8 @@ yegF
 yNQ
 yJr
 yOZ
+yaU
+ySs
 cs
 cY
 cb
@@ -10562,6 +10672,7 @@ cGky
 cRQT
 cVw
 chS
+cCK
 xTG
 xb
 xh
@@ -10756,6 +10867,9 @@ xbh
 xsH
 xYkN
 xGJ
+xhQO
+xXL
+xBh
 He
 HJ
 Hx
@@ -10914,6 +11028,8 @@ HfN
 HCx
 HHCz
 HlC
+HAR
+HuQ
 YYy
 YkDTC
 Yw
@@ -11060,6 +11176,9 @@ Ypk
 YOFV
 YBkXk
 YGIBj
+Yggic
+YlwGC
+YRS
 ÖW
 ÖfX
 Öz
