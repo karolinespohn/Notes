@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/IT Sec/2. Kryptographie.md",
+                "file": "3.Semester/Analysis/4. Reihen.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/IT Sec/2. Kryptographie.md",
+                "file": "3.Semester/Analysis/4. Reihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/IT Sec/2. Kryptographie.md",
+                "file": "3.Semester/Analysis/4. Reihen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/IT Sec/2. Kryptographie.md"
+                "file": "3.Semester/Analysis/4. Reihen.md"
               }
             }
           }
@@ -181,6 +181,9 @@
   },
   "active": "f9f6627eef41294f",
   "lastOpenFiles": [
+    "3.Semester/Analysis/Analysis.md",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/NumProg/Numerische Programmierung.md",
     "NumProg.apkg",
     "3.Semester/IT Sec/IT Sec.md",
@@ -190,11 +193,9 @@
     "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/Maerchenstunde.md",
     "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
-    "3.Semester/Analysis/Analysis.md",
     "Analysis_fuer_Informatik_TUM.apkg",
     "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "LaTeX Operators.md",
-    "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/Analysis/4. Reihen.md",
     "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/IT Sec/Images/Symmetrische Verschuesselung.png",
@@ -211,7 +212,6 @@
     "2.Semester/linalg/19. Definitheit von Matritzen.md",
     "2.Semester/linalg/20. Singulaerwertszerlegung.md",
     "2.Semester/linalg/17. Lineare Abbildungen und Darstellungsmatritzen.md",
-    "2.Semester/linalg/15. Orthogonal- und Orthonormalsysteme.md",
     "Untitled.canvas",
     "3.Semester/Grundlagen Datenbanken/Images/Relationale Division.jpeg",
     "3.Semester/Grundlagen Datenbanken/Images/Tupelkalkuel.png",
