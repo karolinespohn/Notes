@@ -1,5 +1,5 @@
 ## Flashcards
-![[Grundlagen_Betriebssysteme_und_Systemsoftware.apkg]]
+[Flashcards](https://ankiweb.net/shared/info/718098908)
 ## Mitschrift
 [[Maerchenstunde]]
 [[1. Grundlegende Konzepte Betriebssysteme]]

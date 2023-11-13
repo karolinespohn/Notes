@@ -1012,6 +1012,7 @@ Singulaerwertszerlegung
 Singulaerwerte
 Statement
 Studenten
+Structure
 Bit
 Bijektion
 Bernstein
@@ -1946,6 +1947,7 @@ Erstellen
 Existenzquantor
 EEEQ
 EIC
+Enjoy
 Die
 Der
 Da
@@ -2668,6 +2670,8 @@ divergiert
 divergieernde
 divergieren
 dffV
+day
+decks
 wodurch
 werden
 wenn
@@ -3978,6 +3982,7 @@ Aggregationen
 Aggregationsfunktionen
 Alternierende
 ABB
+Anki
 zwischen
 zwei
 zu
@@ -6142,6 +6147,7 @@ lUw
 lbgP
 luv
 lXe
+lecture
 sollte
 sich
 surjektiv
@@ -6478,6 +6484,7 @@ srssEg
 srr
 sdd
 soon
+soonest
 folgende
 falls
 folgendermassen
@@ -6695,6 +6702,8 @@ fFWFdt
 feG
 fTc
 fallende
+folder
+flashcards
 Idempotenz
 Injektion
 Injektionen
@@ -7710,6 +7719,7 @@ TaC
 TtV
 Tupelkalkuel
 Tupelvariablen
+There
 Koerper
 Komplexe
 Körper
@@ -8521,6 +8531,7 @@ UMIZ
 Unteranfrage
 Unteranfragen
 Unkorrelierte
+Uni
 Graphik
 Gauss
 Gegeben
@@ -10675,6 +10686,7 @@ cRQT
 cVw
 chS
 cCK
+course
 xTG
 xb
 xh

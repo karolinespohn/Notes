@@ -1,5 +1,5 @@
 ## Flashcards
-![[Analysis_fuer_Informatik_TUM.apkg]]
+[Flashcards](https://ankiweb.net/shared/info/1741929116)
 ## Mitschrift
 [[1. Mengen]]
 [[2. Reelle Zahlen und Vektoren]]

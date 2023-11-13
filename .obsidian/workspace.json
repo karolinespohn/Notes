@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/IT Sec/2. Kryptographie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9e4b1eb17b11d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Semester/NumProg/Numerische Programmierung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9f6627eef41294f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +20,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -179,17 +155,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9f6627eef41294f",
+  "active": "75f476d2e95cd356",
   "lastOpenFiles": [
-    "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Analysis/Analysis.md",
-    "3.Semester/NumProg/2. Interpolation.md",
-    "3.Semester/IT Sec/2. Kryptographie.md",
+    "README.md",
     "3.Semester/NumProg/Numerische Programmierung.md",
-    "NumProg.apkg",
     "3.Semester/IT Sec/IT Sec.md",
-    "ITSec.apkg",
     "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "3.Semester/Analysis/Analysis.md",
+    "3.Semester/IT Sec/2. Kryptographie.md",
+    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
+    "3.Semester/Analysis/4. Reihen.md",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "NumProg.apkg",
+    "ITSec.apkg",
     "Grundlagen_Betriebssysteme_und_Systemsoftware.apkg",
     "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/Maerchenstunde.md",
     "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
@@ -199,7 +178,6 @@
     "LaTeX Operators.md",
     "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/IT Sec/Images/Symmetrische Verschuesselung.png",
-    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "a.md",
     "3.Semester/IT Sec/Images/a.md",
     "3.Semester/3. Semester.md",
@@ -210,8 +188,6 @@
     "2.Semester/linalg/12. Determinante.md",
     "2.Semester/linalg/18. Eigenwerte, Eigenvektoren und Diagonalisierung.md",
     "2.Semester/linalg/19. Definitheit von Matritzen.md",
-    "2.Semester/linalg/20. Singulaerwertszerlegung.md",
-    "2.Semester/linalg/17. Lineare Abbildungen und Darstellungsmatritzen.md",
     "Untitled.canvas",
     "3.Semester/Grundlagen Datenbanken/Images/Relationale Division.jpeg",
     "3.Semester/Grundlagen Datenbanken/Images/Tupelkalkuel.png",
