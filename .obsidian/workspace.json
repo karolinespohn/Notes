@@ -11,13 +11,24 @@
             "id": "75f476d2e95cd356",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/Images/local Queues.png"
+                "file": "3.Semester/Analysis/4. Reihen.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "5aca34a237cd9b7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -92,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/Images/local Queues.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/Images/local Queues.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/Images/local Queues.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,32 +160,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4221ffeffb82dbe",
+  "active": "5aca34a237cd9b7b",
   "lastOpenFiles": [
-    "3.Semester/Grundlagen Betriebssysteme/Images/global Queue.png",
     "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/local Queues.png",
-    "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/Maerchenstunde.md",
-    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
+    "3.Semester/NumProg/Numerische Programmierung.md",
+    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "2.Semester (public)/linalg/0. linalg.md",
+    "3.Semester/Analysis/Analysis.md",
+    "2.Semester (public)",
     "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
+    "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/Maerchenstunde.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images/local Queues.png",
+    "3.Semester/Grundlagen Betriebssysteme/Images/global Queue.png",
+    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Prozesstabellen.png",
     "Bildschirmfoto 2023-11-13 um 21.14.51.png",
     "3.Semester/Grundlagen Datenbanken/Images/rekursive Beziehungen.jpg",
     "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
     "LaTeX Operators.md",
-    "3.Semester/NumProg/2. Interpolation.md",
-    "2.Semester/linalg/3. Lineare Gleichungssysteme.md",
+    "2.Semester (public)/linalg/3. Lineare Gleichungssysteme.md",
     "README.md",
-    "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/IT Sec/IT Sec.md",
-    "3.Semester/Analysis/Analysis.md",
     "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "NumProg.apkg",
     "ITSec.apkg",
     "Grundlagen_Betriebssysteme_und_Systemsoftware.apkg",
-    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
     "Analysis_fuer_Informatik_TUM.apkg",
     "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
@@ -188,8 +197,8 @@
     "3.Semester/IT Sec/Images/a.md",
     "3.Semester/3. Semester.md",
     "3.Semester/Grundlagen Datenbanken/a.md",
-    "2.Semester/linalg/11. Linearcodes.md",
-    "2.Semester/linalg/10. Basen von Vektorräumen.md",
+    "2.Semester (public)/linalg/11. Linearcodes.md",
+    "2.Semester (public)/linalg/10. Basen von Vektorräumen.md",
     "Untitled.canvas",
     "3.Semester/Grundlagen Datenbanken/Images/Relationale Division.jpeg",
     "3.Semester/Grundlagen Datenbanken/Images/Tupelkalkuel.png",
@@ -200,7 +209,6 @@
     "3.Semester/NumProg/Images",
     "3.Semester/Grundlagen Betriebssysteme/Images",
     "3.Semester/Grundlagen Betriebssysteme",
-    "3.Semester/Analysis/Images",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled 3.canvas"
