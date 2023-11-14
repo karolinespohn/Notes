@@ -1,1 +1,5 @@
 2.Semester/
+
+.obsidian/*
+!.obsidian/workspace.json
+!.obsidian/graph.json
