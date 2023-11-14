@@ -1,6 +1,6 @@
-## Flashcards
+# Flashcards
 [Flashcards](https://ankiweb.net/shared/info/1741929116)
-## Mitschrift
+# Mitschrift
 [[1. Mengen]]
 [[2. Reelle Zahlen und Vektoren]]
 [[3. Folgen]]

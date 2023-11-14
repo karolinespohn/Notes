@@ -3,3 +3,4 @@
 ## Mitschrift
 [[1. Schwachstellen, Bedrohungen und Angriffe]]
 [[2. Kryptographie]]
+[[3. Kryptographische Hashfunktionen und MAC]]
