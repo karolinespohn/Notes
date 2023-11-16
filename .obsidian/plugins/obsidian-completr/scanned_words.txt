@@ -213,6 +213,7 @@ FDX
 FjV
 FHn
 FEi
+Folgt
 bestehen
 bringen
 bi
@@ -2233,6 +2234,7 @@ EOm
 EAQ
 EvuW
 Exponentialfunktion
+Exponentreihe
 Die
 Der
 Da
@@ -2497,6 +2499,7 @@ Differenzierbarkeit
 DvL
 DJzA
 DWV
+Doppelreihe
 ist
 immer
 insbesondere
@@ -10913,6 +10916,7 @@ LnW
 LRUP
 Lmh
 Logik
+Laesst
 Qt
 QO
 Qx
