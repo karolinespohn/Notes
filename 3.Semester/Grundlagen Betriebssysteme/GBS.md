@@ -3,3 +3,4 @@
 # Mitschrift
 [[1. Grundlegende Konzepte Betriebssysteme]]
 [[2. Prozess- und Prozessorverwaltung]]
+[[3. Parallele Systeme und Synchronisation]]
