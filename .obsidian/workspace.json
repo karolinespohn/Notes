@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/3. Parallele Systeme und Synchronisation.md",
+                "file": "3.Semester/3. Semester.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/3. Parallele Systeme und Synchronisation.md",
+                "file": "3.Semester/3. Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/3. Parallele Systeme und Synchronisation.md",
+                "file": "3.Semester/3. Semester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/3. Parallele Systeme und Synchronisation.md"
+                "file": "3.Semester/3. Semester.md"
               }
             }
           }
@@ -155,46 +155,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f476d2e95cd356",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
-    "3.Semester/Grundlagen Betriebssysteme/Images/kritische Abschnitte.png",
-    "LaTeX Operators.md",
-    "3.Semester/Grundlagen Betriebssysteme/3. Parallele Systeme und Synchronisation.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Race Condition.png",
-    "2.Semester (public)/linalg/5 Algebraische Strukturen.md",
-    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
-    "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
-    "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images/CPU Queue.png",
+    "3.Semester/Grundlagen Betriebssysteme/Images/kritischer Abschnitt.png",
+    "3.Semester/NumProg/Numerische Programmierung.md",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "3.Semester/NumProg/3. Loesen von Gleichungssystemen.md",
+    "3.Semester/3. Semester.md",
     "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
+    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "3.Semester/NumProg/1. Floating Point Numbers.md",
+    "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+    "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
+    "3.Semester/Grundlagen Betriebssysteme/3. Scheduling.md",
+    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
+    "3.Semester/Analysis/Analysis.md",
     "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Analysis/Analysis.md",
+    "README.md",
+    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images/kritische Abschnitte.png",
+    "LaTeX Operators.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Race Condition.png",
+    "2.Semester (public)/linalg/5 Algebraische Strukturen.md",
     "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/Grundlagen Datenbanken/Images/SQL Logik.png",
-    "3.Semester/NumProg/1. Floating Point Numbers.md",
-    "3.Semester/NumProg/Numerische Programmierung.md",
-    "3.Semester/NumProg/3. Loesen von Gleichungssystemen.md",
-    "3.Semester/NumProg/2. Interpolation.md",
     "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
     "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
-    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
-    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
     "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/Maerchenstunde.md",
-    "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde/1. Systemcalls.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/global Queue.png",
-    "3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
-    "3.Semester/Analysis/1. Mengen.md",
     "github.com/AntonScheitler",
     "github.com",
     "3.Semester/IT Sec/Images/HMAC.png",
     "3.Semester/NumProg/Images/Sparsity Patterns.png",
     "3.Semester/IT Sec/Images/Blockchiffren als Hashfunktion.png",
     "3.Semester/NumProg/Images/lokalel Segmente.png",
-    "3.Semester/IT Sec/Images/Kompressionsfunktionen.png",
     "2.Semester (public)",
-    "3.Semester/Grundlagen Betriebssysteme/Images/local Queues.png",
     "NumProg.apkg",
     "ITSec.apkg",
     "Grundlagen_Betriebssysteme_und_Systemsoftware.apkg",
