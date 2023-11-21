@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/3. Semester.md",
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/3. Semester.md",
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/3. Semester.md",
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/3. Semester.md"
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md"
               }
             }
           }
@@ -155,14 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4221ffeffb82dbe",
+  "active": "75f476d2e95cd356",
   "lastOpenFiles": [
+    "3.Semester/Analysis/Analysis.md",
+    "3.Semester/3. Semester.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/CPU Queue.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritischer Abschnitt.png",
     "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/NumProg/2. Interpolation.md",
     "3.Semester/NumProg/3. Loesen von Gleichungssystemen.md",
-    "3.Semester/3. Semester.md",
     "3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
     "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
@@ -171,7 +172,6 @@
     "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
     "3.Semester/Grundlagen Betriebssysteme/3. Scheduling.md",
     "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
-    "3.Semester/Analysis/Analysis.md",
     "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "3.Semester/Analysis/4. Reihen.md",
     "README.md",
