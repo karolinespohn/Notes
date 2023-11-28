@@ -4,4 +4,4 @@ zuletzt geupdated: 20.November
 # Mitschrift
 [[1. Floating Point Numbers]]
 [[2. Interpolation]]
-[[3. Loesen von Gleichungssystemen]]
+[[3. Integration]]

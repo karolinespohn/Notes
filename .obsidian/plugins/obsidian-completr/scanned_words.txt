@@ -222,6 +222,8 @@ FVMf
 Forderung
 Fss
 Folgerungen
+Fremdschluessel
+Fremdschluesselangabe
 bestehen
 bringen
 bi
@@ -505,6 +507,8 @@ bbaa
 bQaY
 buFY
 basiert
+bleiben
+bleibt
 aus
 an
 als
@@ -858,6 +862,10 @@ aOND
 atmosphaerisches
 arbeitende
 angewandt
+abgeschlossenen
+analog
+analytische
+alten
 Sign
 Surjektivitaet
 Surjektion
@@ -1230,6 +1238,8 @@ Schluesselaustausch
 Schluesselverteilungs
 Statistiken
 Statements
+Secrecy
+Sichere
 Bit
 Bijektion
 Bernstein
@@ -1772,6 +1782,8 @@ MVr
 MsO
 MWOL
 Mausbewegungen
+Minima
+Minimum
 und
 um
 uQD
@@ -2060,6 +2072,9 @@ uum
 uSy
 uYZAV
 union
+univariat
+umkehrbar
+unsicher
 Exponent
 Eine
 Element
@@ -2360,6 +2375,8 @@ Echte
 Entropiequellen
 Einser
 Etablierung
+Erhaltung
+Effiziente
 Die
 Der
 Da
@@ -2639,6 +2656,9 @@ DNNN
 Deterministisch
 Datenbestaende
 Datenschutzgruenden
+Definiere
+Distribution
+Diffie
 ist
 immer
 insbesondere
@@ -2926,6 +2946,7 @@ inkrementiert
 iZD
 iKf
 iSUQ
+integrierbar
 diskret
 dargestellt
 dann
@@ -3494,6 +3515,7 @@ wechselseitig
 wFT
 wFG
 wirken
+wenige
 jeder
 jede
 jeweils
@@ -4031,6 +4053,7 @@ effizienter
 eEvh
 emM
 eTo
+ersetzt
 Nachbar
 Notation
 Note
@@ -4262,6 +4285,8 @@ Number
 Nullen
 Nachfolger
 Nullfolgenkriterium
+Nachhinein
+Neue
 hat
 heisst
 hoechstens
@@ -4478,6 +4503,8 @@ hbm
 hll
 hTR
 hohe
+hoeheren
+heiss
 Abstand
 Auswahl
 Axiom
@@ -4802,6 +4829,10 @@ ACG
 AQn
 Aeg
 Aussen
+Aenderungs
+Angaben
+Aenderungen
+Aequivalent
 zwischen
 zwei
 zu
@@ -5010,6 +5041,7 @@ zFb
 zyu
 zufaellig
 zentralen
+zukuenftige
 nicht
 nur
 nach
@@ -5240,6 +5272,7 @@ nutzbarer
 nNB
 nSWo
 nXM
+numerisch
 gleich
 gerundet
 gute
@@ -5525,6 +5558,8 @@ gvH
 guter
 generierten
 gemeinsamer
+gesetzt
+genutzte
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -5784,6 +5819,7 @@ RZi
 Random
 Rauschen
 Rekursion
+Recap
 reelle
 rekursiv
 relevant
@@ -6055,6 +6091,7 @@ rWr
 rjS
 rrN
 recursive
+referentielle
 Zahl
 Zahlen
 Zeilenvektor
@@ -6294,6 +6331,7 @@ Zufallszahlen
 Zufallsgeneratoren
 Zufallsfolge
 Zufallsfolgen
+Zwischenwertsatz
 kann
 koennen
 keine
@@ -6553,6 +6591,13 @@ kOS
 kog
 kjD
 keinen
+konstruierbar
+kompakt
+kompakter
+kompakten
+komprimierbar
+kommunizieren
+kompromittierung
 muss
 mindestens
 mit
@@ -6836,6 +6881,8 @@ maximal
 muc
 mcy
 mXl
+multivariat
+mitpropagiert
 treten
 tPW
 ti
@@ -7090,6 +7137,7 @@ tSP
 tiD
 tjd
 thermisches
+teuer
 liegen
 laesst
 lösbar
@@ -7722,6 +7770,7 @@ statistisch
 skaliert
 stetiger
 select
+siehe
 folgende
 falls
 folgendermassen
@@ -7965,6 +8014,7 @@ fee
 fMOOW
 fcU
 folge
+fehlschlaegt
 Idempotenz
 Injektion
 Injektionen
@@ -8266,6 +8316,10 @@ Inn
 IEE
 IUU
 IRUU
+Integral
+Integranden
+Integrale
+Integritaet
 Jedes
 Jede
 JE
@@ -8757,6 +8811,10 @@ vorraussagen
 vorhergehende
 voraussetzen
 verbunden
+verweisen
+verboten
+vergangen
+vergangene
 Cantor
 CR
 CE
@@ -8959,6 +9017,7 @@ CQQ
 CZb
 CTW
 CSPRNG
+Center
 Theorem
 TODO
 Tupel
@@ -9462,6 +9521,9 @@ Kryptographie
 Kryptoverfahrens
 Kryptographisch
 Kennt
+Konsequenzen
+Kompaktheit
+KDC
 Vektoren
 Verschiedene
 Vertauschen
@@ -10157,6 +10219,9 @@ Unterbrechungssperren
 UwEp
 UZw
 UEk
+Umkehrfunktionen
+Und
+Umkehrfunktion
 Graphik
 Gauss
 Gegeben
@@ -10872,6 +10937,8 @@ Programmiersprachenebene
 Phaenomenen
 Pseudozufallszahlen
 PRNG
+Polarkoordinaten
+Perfect
 Wenn
 Wähle
 Wichtig
@@ -11493,6 +11560,7 @@ LOf
 Lnu
 LKK
 Lnn
+Loeschoperationen
 Qt
 QO
 Qx
@@ -11678,6 +11746,7 @@ Qeef
 QCG
 Qmy
 Qfyj
+Quadratur
 XTi
 Xr
 XH

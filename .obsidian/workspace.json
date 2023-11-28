@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab64f7687caf5d67",
+        "id": "c242e73dac6faaab",
         "type": "tabs",
         "children": [
           {
-            "id": "75f476d2e95cd356",
+            "id": "e10256cbf3028f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,15 +135,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md"
+                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 236.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,39 +157,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4221ffeffb82dbe",
+  "active": "e10256cbf3028f3e",
   "lastOpenFiles": [
-    "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Analysis/3. Folgen.md",
-    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "3.Semester/Analysis/Analysis.md",
-    "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
-    "3.Semester/Grundlagen Betriebssysteme/3. Scheduling.md",
-    "5. Datenintegritaet.md",
-    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "3.Semester/IT Sec/4. Schluesselmanagement.md",
+    "3.Semester/IT Sec/IT Sec.md",
+    "3.Semester/Analysis/6. Stetigkeit in hoeheren Dimensionen.md",
     "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
+    "3.Semester/NumProg/3. Integration.md",
+    "3.Semester/NumProg/n. Loesen von Gleichungssystemen.md",
+    "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
+    "3.Semester/NumProg/Numerische Programmierung.md",
+    "3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
+    "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+    "3.Semester/Analysis/4. Reihen.md",
+    "3.Semester/3. Semester.md",
+    "3.Semester/Analysis/3. Folgen.md",
+    "3.Semester/Grundlagen Betriebssysteme/3. Scheduling.md",
     "3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "Untitled 1.canvas",
     "2023-11-22.md",
     "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
     "3.Semester/Analysis/1. Mengen.md",
-    "3.Semester/NumProg/2. Interpolation.md",
-    "3.Semester/NumProg/3. Loesen von Gleichungssystemen.md",
-    "3.Semester/IT Sec/4. Schluesselmanagement.md",
-    "3.Semester/IT Sec/IT Sec.md",
-    "3.Semester/3. Semester.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/CPU Queue.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritischer Abschnitt.png",
-    "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/NumProg/1. Floating Point Numbers.md",
     "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
     "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
-    "README.md",
-    "3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritische Abschnitte.png",
-    "LaTeX Operators.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Race Condition.png",
-    "2.Semester (public)/linalg/5 Algebraische Strukturen.md",
     "3.Semester/Grundlagen Datenbanken/Images/SQL Logik.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/global Queue.png",
     "github.com/AntonScheitler",
