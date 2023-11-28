@@ -6,3 +6,4 @@ zuletzt geupdated: 22. November
 [[2. Prozess- und Prozessorverwaltung]]
 [[3. Scheduling]]
 [[4. Parallele Systeme und Synchronisation]]
+[[5. Modellierung Paralleler Systeme]]

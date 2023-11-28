@@ -1,0 +1,912 @@
+/*Fonts*/
+:root {
+  /*
+    If the font isn't installed in the system, 
+    it will go down the list until it finds on that is.
+    */
+
+  --default-font: '"JetBrains Mono", monospace, "Inter", sans-serif';
+  --font-monospace: '"JetBrains Mono", monospace, "Source Code Pro", monospace'; /*Code block text*/
+
+  /*
+    var(--variableName); is a variable,
+    so you can use what you set over and over without having
+    to rewrite it multiple times.
+    */
+}
+
+.theme-dark {
+  /* --accent-h: 261; /* magenta */
+  /* --accent-s: 85%; */
+  /* --accent-l: 79%; */
+  --accent-h: 202; /* cyan */
+  --accent-s: 100%;
+  --accent-l: 75%;
+
+  --bg_dark2_x: 18, 18, 24;
+  --bg_dark2: rgb(var(--bg_dark2_x));
+  --bg_dark_x: 22, 22, 30;
+  --bg_dark: rgb(var(--bg_dark_x));
+  --bg_x: 26, 27, 38;
+  --bg: rgb(var(--bg_x));
+  --bg_highlight_x: 41, 46, 66;
+  --bg_highlight: rgb(var(--bg_highlight_x));
+  --bg_highlight_dark_x: 36, 40, 59;
+  --bg_highlight_dark: rgb(var(--bg_highlight_dark_x));
+  --terminal_black_x: 65, 72, 104;
+  --terminal_black: rgb(var(--terminal_black_x));
+  --fg_x: 192, 202, 245;
+  --fg: rgb(var(--fg_x));
+  --fg_dark_x: 169, 177, 214;
+  --fg_dark: rgb(var(--fg_dark_x));
+  --comment_x: 86, 95, 137;
+  --comment: rgb(var(--comment_x));
+  --blue0_x: 61, 89, 161;
+  --blue0: rgb(var(--blue0_x));
+  --blue_x: 122, 162, 247;
+  --blue: rgb(var(--blue_x));
+  --cyan_hsl: 202 100% 75%;
+  --cyan_x: 125, 207, 255;
+  --cyan: rgb(var(--cyan_x));
+  --magent_hsl: 261 85% 79%;
+  --magenta_x: 187, 154, 247;
+  --magenta: rgb(var(--magenta_x));
+  --purple_x: 157, 124, 21;
+  --purple: rgb(var(--purple_x));
+  --orange_x: 255, 158, 100;
+  --orange: rgb(var(--orange_x));
+  --yellow_x: 224, 175, 104;
+  --yellow: rgb(var(--yellow_x));
+  --green_x: 158, 206, 106;
+  --green: rgb(var(--green_x));
+  --teal_x: 26, 188, 156;
+  --teal: rgb(var(--teal_x));
+  --red_x: 255, 117, 127;
+  --red: rgb(var(--red_x));
+  --red1_x: 219, 75, 75;
+  --red1: rgb(var(--red1_x));
+  --unknown: #ffffff;
+
+  --external-link-filter: invert(35%) sepia(28%) saturate(681%)
+    hue-rotate(192deg) brightness(94%) contrast(85%);
+  --link-external-filter: invert(35%) sepia(28%) saturate(681%)
+    hue-rotate(192deg) brightness(94%) contrast(85%);
+}
+
+.theme-light {
+  /* --accent-h: 261; /* magenta */
+  /* --accent-s: 24%; */
+  /* --accent-l: 38%; */
+  --accent-h: 202; /* cyan */
+  --accent-s: 86%;
+  --accent-l: 43%;
+
+  --bg_dark2_x: 188, 189, 194;
+  --bg_dark2: rgb(var(--bg_dark2_x));
+  --bg_dark_x: 203, 204, 209;
+  --bg_dark: rgb(var(--bg_dark_x));
+  --bg_x: 213, 214, 219;
+  --bg: rgb(var(--bg_x));
+  --bg_highlight_x: 220, 222, 226;
+  --bg_highlight: rgb(var(--bg_highlight_x));
+  --bg_highlight_dark_x: 195, 197, 201;
+  --bg_highlight_dark: rgb(var(--bg_highlight_dark_x));
+  --terminal_black_x: 15, 15, 20;
+  --terminal_black: rgb(var(--terminal_black_x));
+  --fg_x: 52, 59, 88;
+  --fg: rgb(var(--fg_x));
+  --fg_dark_x: 39, 46, 75;
+  --fg_dark: rgb(var(--fg_dark_x));
+  --comment_x: 150, 153, 163;
+  --comment: rgb(var(--comment_x));
+  --blue0_x: 39, 71, 125;
+  --blue0: rgb(var(--blue0_x));
+  --blue_x: 52, 84, 138;
+  --blue: rgb(var(--blue_x));
+  --cyan_x: 15, 75, 110;
+  --cyan: rgb(var(--cyan_x));
+  --magent_hsl: 261 24% 38%;
+  --magenta_x: 90, 74, 120;
+  --magenta: rgb(var(--magenta_x));
+  --purple_x: 65, 49, 95;
+  --purple: rgb(var(--purple_x));
+  --orange_x: 150, 80, 39;
+  --orange: rgb(var(--orange_x));
+  --yellow_x: 143, 94, 21;
+  --yellow: rgb(var(--yellow_x));
+  --green_x: 51, 99, 92;
+  --green: rgb(var(--green_x));
+  --teal_x: 22, 103, 117;
+  --teal: rgb(var(--teal_x));
+  --red_x: 140, 67, 81;
+  --red: rgb(var(--red_x));
+  --red1_x: 115, 42, 56;
+  --red1: rgb(var(--red1_x));
+  --unknown: #000000;
+
+  --external-link-filter: invert(62%) sepia(9%) saturate(266%)
+    hue-rotate(189deg) brightness(97%) contrast(88%);
+  --link-external-filter: invert(62%) sepia(9%) saturate(266%)
+    hue-rotate(189deg) brightness(97%) contrast(88%);
+}
+
+.theme-dark,
+.theme-light {
+  --color_red_rgb: var(--red_x);
+  --color-red: var(--red);
+  --color_purple_rgb: var(--purple_x);
+  --color-purple: var(--purple);
+  --color_green_rgb: var(--green_x);
+  --color-green: var(--green);
+  --color_cyan_rgb: var(--cyan_x);
+  --color-cyan: var(--cyan);
+  --color_blue_rgb: var(--blue_x);
+  --color-blue: var(--blue);
+  --color_yellow_rgb: var(--yellow_x);
+  --color-yellow: var(--yellow);
+  --color_orange_rgb: var(--orange_x);
+  --color-orange: var(--orange);
+  --color_pink_rgb: var(--magenta_x);
+  --color-pink: var(--magenta);
+
+  --background-primary: var(--bg);
+  --background-primary-alt: var(--bg);
+  --background-secondary: var(--bg_dark);
+  --background-secondary-alt: var(--bg_dark);
+
+  --background-modifier-border: var(--bg_highlight);
+  --background-modifier-border-focus: var(--bg_highlight);
+  --background-modifier-border-hover: var(--bg_highlight);
+  --background-modifier-form-field: var(--bg_dark);
+  --background-modifier-form-field-highlighted: var(--bg_dark);
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
+  --background-modifier-success: var(--green);
+  --background-modifier-error: var(--red1);
+  --background-modifier-error-hover: var(--red);
+  --background-modifier-cover: rgba(var(--bg_dark_x), 0.8);
+  --background-modifier-hover: var(--bg_highlight);
+  --background-modifier-message: rgba(var(--bg_highlight_x), 0.9);
+  --background-modifier-active-hover: var(--bg_highlight);
+
+  --text-normal: var(--fg);
+  --text-faint: var(--comment);
+  --text-muted: var(--fg_dark);
+  --text-error: var(--red);
+  --text-accent: var(--magenta);
+  --text-accent-hover: var(--cyan);
+  --text-error: var(--red1);
+  --text-error-hover: var(--red);
+  --text-selection: var(--unknown);
+  --text-on-accent: var(--bg);
+  --text-highlight-bg: rgba(var(--orange_x), 0.4);
+  --text-selection: rgba(var(--blue0_x), 0.6);
+  --bold-color: var(--cyan);
+  --italic-color: var(--cyan);
+
+  --interactive-normal: var(--bg_dark);
+  --interactive-hover: var(--bg);
+  --interactive-success: var(--green);
+  --interactive-accent: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+  --interactive-accent-hover: var(--blue);
+
+  --scrollbar-bg: var(--bg_dark2);
+  --scrollbar-thumb-bg: var(--comment);
+  --scrollbar-active-thumb-bg: var(--bg_dark);
+  --scrollbar-width: 0px;
+
+  --h1-color: var(--red);
+  --h2-color: var(--yellow);
+  --h3-color: var(--green);
+  --h4-color: var(--cyan);
+  --h5-color: var(--blue);
+  --h6-color: var(--magenta);
+
+  --border-width: 2px;
+
+  --tag-color: var(--magenta);
+  --tag-background: rgba(var(--magenta_x), 0.15);
+  --tag-color-hover: var(--cyan);
+  --tag-background-hover: rgba(var(--cyan_x), 0.15);
+
+  --link-color: var(--magenta);
+  --link-color-hover: var(--cyan);
+  --link-external-color: var(--magenta);
+  --link-external-color-hover: var(--cyan);
+
+  --checkbox-radius: 4px;
+  --checkbox-color: var(--comment);
+  --checkbox-color-hover: var(--comment);
+  --checkbox-marker-color: var(--green);
+  --checkbox-border-color: var(--comment);
+  --checkbox-border-color-hover: var(--comment);
+  --checklist-done-color: rgba(var(--green), 0.5);
+
+  --table-header-background: var(--bg);
+  --table-header-background-hover: var(--bg_dark2);
+  --table-row-alt-background: var(--bg_dark);
+  --table-row-background-hover: var(--bg_dark2);
+
+  --flashing-background: rgba(var(--blue0_x), 0.3);
+
+  --code-normal: var(--fg);
+  --code-background: var(--bg_highlight_dark);
+
+  --mermaid-note: var(--blue0);
+  --mermaid-actor: var(--fg_dark);
+  --mermaid-loopline: var(--blue);
+
+  --icon-color-hover: var(--blue);
+  --icon-color-focused: var(--magenta);
+  --icon-color-active: var(--magenta);
+
+  --nav-item-color-hover: var(--fg);
+  --nav-item-background-hover: var(--bg_highlight);
+  --nav-item-color-active: var(--red);
+  --nav-item-background-active: var(--bg_highlight);
+  --nav-file-tag: rgba(var(--yellow_x), 0.9);
+  --nav-indentation-guide-color: var(--bg_highlight);
+
+  --indentation-guide-color: var(--comment);
+  --indentation-guide-color-active: var(--comment);
+
+  --graph-line: var(--comment);
+  --graph-node: var(--fg);
+  --graph-node-tag: var(--orange);
+  --graph-node-attachment: var(--blue);
+
+  --tab-text-color-focused-active: rgba(var(--red_x), 0.8);
+  --tab-text-color-focused-active-current: var(--red);
+
+  --modal-border-color: var(--bg_highlight);
+  --prompt-border-color: var(--bg_highlight);
+  --slider-track-background: var(--bg_highlight);
+
+  --blockquote-background-color: var(--bg_dark);
+  --callout-quote: var(--fg_dark);
+
+  --embed-background: var(--bg_dark);
+  --embed-padding: 1.5rem 1.5rem 0.5rem;
+
+  --canvas-color: var(--bg_highlight_x);
+
+  --toggle-thumb-color: var(--bg);
+}
+
+/* mobile */
+.is-mobile .suggestion-item.is-selected {
+  background-color: var(--bg_highlight);
+}
+
+/* scrollbars */
+::-webkit-scrollbar {
+  width: var(--scrollbar-width);
+}
+
+::-webkit-scrollbar:horizontal {
+  height: var(--scrollbar-width);
+}
+
+/* tooltip */
+.tooltip {
+  color: var(--fg);
+}
+
+/* links */
+
+.cm-url {
+  filter: none !important;
+}
+
+.cm-string.cm-url.external-link {
+  filter: var(--external-link-filter) !important;
+}
+
+a.external-link {
+  filter: none;
+  background-image: none;
+  padding-right: 0;
+}
+
+/* notice */
+.notice {
+  background-color: var(--bg_dark);
+  border: 2px solid var(--bg_highlight);
+}
+
+/* callouts */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  background-color: rgba(var(--bg_highlight_dark_x), 0.5);
+}
+
+/* for vim */
+.ͼ2 .cm-panels-bottom {
+  border-top: var(--border-width) solid var(--bg_highlight);
+}
+
+.cm-vim-message {
+  color: var(--red);
+}
+
+/* kanban */
+.kanban-plugin__lane-action-add {
+  color: var(--fg);
+}
+
+.kanban-plugin__lane-action-add:hover {
+  color: var(--bg);
+}
+
+.kanban-plugin__autocomplete-item:hover,
+.kanban-plugin__autocomplete-item-active {
+  color: hsl(var(--accent-h), var(--accent-s), var(--accent-l));
+  background-color: var(--bg_highlight);
+}
+
+/* various-complement */
+.various-complements__suggestion-item::before {
+  filter: var(--external-link-filter);
+}
+
+.various-complements__footer::before {
+  filter: var(--external-link-filter);
+}
+
+/* Math Jax */
+mjx-math {
+  font-size: 110% !important;
+}
+
+/* metadata */
+.cm-atom {
+  color: var(--blue);
+}
+span.cm-hmd-frontmatter.cm-meta {
+  color: rgba(var(--blue0_x), 0.9);
+}
+
+/* @settings
+
+name: TokyoNight
+id: TokyoNight
+settings:
+  - 
+    id: heading-fonts
+    title: Fonts
+    type: heading
+    level: 1
+    collapsed: true
+  - 
+    id: default-font
+    title: Base Font
+    type: variable-text
+    default: '"JetBrains Mono", monospace, "Inter", sans-serif'
+  - 
+    id: font-monospace
+    title: Monospace Font
+    description: Used for codeblocks, tables, etc.
+    type: variable-text
+    default: '"JetBrains Mono", monospace, "Source Code Pro", monospace'
+  - 
+    id: heading-translucency
+    title: Translucency
+    type: heading
+    level: 1
+    collapsed: true
+  -
+    id: opacity-translucency-light
+    title: Light Theme Translucency
+    type: variable-number-slider
+    default: 1
+    min: 0
+    max: 1
+    step: 0.01
+  -
+    id: opacity-translucency-dark
+    title: Dark Theme Translucency
+    type: variable-number-slider
+    default: 1
+    min: 0
+    max: 1
+    step: 0.01
+  
+  - 
+    id: heading-colors-background
+    title: Background Colors
+    type: heading
+    level: 1
+    collapsed: true
+  -
+    id: background-primary
+    title: Background Primary
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(213, 214, 219)'
+    default-dark: 'rgb(26, 27, 38)'
+  -
+    id: background-primary-alt
+    title: Background Primary (alt)
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(213, 214, 219)'
+    default-dark: 'rgb(26, 27, 38)'
+  -
+    id: background-secondary
+    title: Background Secondary
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(203, 204, 209)'
+    default-dark: 'rgb(22, 22, 30)'
+  -
+    id: background-secondary-alt
+    title: Background Secondary (alt)
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(203, 204, 209)'
+    default-dark: 'rgb(22, 22, 30)'
+  -
+    id: background-modifier-border
+    title: 'Background Modifier: Border'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(220, 222, 226, 1)'
+    default-dark: 'rgba(41, 46, 66, 1)'
+  -
+    id: background-modifier-form-field
+    title: 'Background Modifier: Form Field'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(203, 204, 209, 1)'
+    default-dark: 'rgba(22, 22, 30, 1)'
+  -
+    id: background-modifier-form-field-highlighted
+    title: 'Background Modifier: Form Field (highlighted)'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(203, 204, 209, 1)'
+    default-dark: 'rgba(22, 22, 30, 1)'
+  -
+    id: background-modifier-box-shadow
+    title: 'Background Modifier: Box Shadow'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(0, 0, 0, 0.3)'
+    default-dark: 'rgba(0, 0, 0, 0.3)'
+  -
+    id: background-modifier-success
+    title: 'Background Modifier: Success'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(51, 99, 92, 1)'
+    default-dark: 'rgba(158, 206, 106, 1)'
+  -
+    id: background-modifier-error
+    title: 'Background Modifier: Error'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(115, 42, 56, 1)'
+    default-dark: 'rgba(219, 75, 75, 1)'
+  -
+    id: background-modifier-error-hover
+    title: 'Background Modifier: Error (hover)'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(140, 67, 81, 1)'
+    default-dark: 'rgba(255, 117, 127, 1)'
+  -
+    id: background-modifier-cover
+    title: 'Background Modifier: Cover'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(203, 204, 209, 0.8)'
+    default-dark: 'rgba(22, 22, 30, 0.8)'
+  -
+    id: background-modifier-hover
+    title: 'Background Modifier: Hover'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(220, 222, 226, 1)'
+    default-dark: 'rgba(41, 46, 66, 1)'
+  - 
+    id: heading-colors-text
+    title: Text Colors
+    type: heading
+    level: 1
+    collapsed: true
+  -
+    id: text-accent
+    title: 'Text: Accent'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(90, 74, 120)'
+    default-dark: 'rgb(187, 154, 247)'
+  -
+    id: text-accent-hover
+    title: 'Text: Accent (hover)'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(15, 75, 110)'
+    default-dark: 'rgb(125, 207, 255)'
+  -
+    id: text-normal
+    title: 'Text: Normal'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(52, 59, 88)'
+    default-dark: 'rgb(192, 202, 245)'
+  -
+    id: text-muted
+    title: 'Text: Muted'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(39, 46, 75)'
+    default-dark: 'rgb(169, 177, 214)'
+  -
+    id: text-faint
+    title: 'Text: Faint'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(150, 153, 163)'
+    default-dark: 'rgb(86, 95, 137)'
+  -
+    id: text-error
+    title: 'Text: Error'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(115, 42, 56)'
+    default-dark: 'rgb(219, 75, 75)'
+  -
+    id: text-error-hover
+    title: 'Text: Error Hover'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(140, 67, 81)'
+    default-dark: 'rgb(255, 117, 127)'
+  -
+    id: text-highlight-bg
+    title: 'Text: Highlight Background'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(150, 80, 39, 0.4)'
+    default-dark: 'rgba(255, 158, 100, 0.4)'
+  -
+    id: text-selection
+    title: 'Text: Selection Background'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(39, 71, 125, 0.6)'
+    default-dark: 'rgba(61, 89, 161, 0.6)'
+  - 
+    id: bold-color
+    title: Bold Color 
+    type: variable-themed-color 
+    opacity: false 
+    format: rgb 
+    default-light: 'rgb(90, 74, 120)' 
+    default-dark: 'rgb(187, 154, 247)'
+  - 
+    id: italic-color 
+    title: Italic Color 
+    type: variable-themed-color 
+    opacity: false 
+    format: rgb 
+    default-light: 'rgb(90, 74, 120)' 
+    default-dark: 'rgb(187, 154, 247)'
+  - 
+    id: heading-colors
+    title: Header Colors 
+    type: heading
+    level: 1
+    collapsed: true
+  - 
+    id: h1-color
+    title: 'H1 Color'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(140, 67, 8)'
+    default-dark: 'rgb(255, 117, 127)'
+  - 
+    id: h2-color
+    title: 'H2 Color'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(143, 94, 21)'
+    default-dark: 'rgb(224, 175, 104)' 
+  - 
+    id: h3-color
+    title: 'H3 Color'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(51, 99, 92)'
+    default-dark: 'rgb(158, 206, 106)'
+  - 
+    id: h4-color
+    title: 'H4 Color'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(15, 75, 110)'
+    default-dark: 'rgb(125, 207, 255)'
+  - 
+    id: h5-color
+    title: 'H5 Color'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(52, 84, 138)'
+    default-dark: 'rgb(122, 162, 247)'
+  - 
+    id: h6-color
+    title: 'H6 Color'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(90, 74, 120)'
+    default-dark: 'rgb(187, 154, 247)'
+
+  - 
+    id: heading-colors-interactive
+    title: Interactive Colors
+    type: heading
+    level: 1
+    collapsed: true
+  -
+    id: interactive-normal
+    title: 'Interactive: Normal'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(203, 204, 209)'
+    default-dark: 'rgb(22, 22, 30)'
+  -
+    id: interactive-hover
+    title: 'Interactive: Hover'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(213, 214, 219)'
+    default-dark: 'rgb(26, 27, 38)'
+  -
+    id: interactive-accent
+    title: 'Interactive: Accent'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(15, 75, 110)'
+    default-dark: 'rgb(125, 207, 255)'
+  -
+    id: interactive-accent-hover
+    title: 'Interactive: Accent (hover)'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(52, 84, 138)'
+    default-dark: 'rgb(122, 162, 247)'
+  -
+    id: interactive-success
+    title: 'Interactive: Success'
+    type: variable-themed-color
+    opacity: false
+    format: rgb
+    default-light: 'rgb(51, 99, 92)'
+    default-dark: 'rgb(158, 206, 106)'
+
+  - 
+    id: heading-tag-color 
+    title: 'Tag Color'
+    type: heading
+    level: 1
+    collapsed: true 
+  - 
+    id: tag-color 
+    title: 'Tag Color'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(90, 74, 120, 1)'
+    default-dark: 'rgba(187, 154, 247, 1)'
+  - 
+    id: tag-background 
+    title: 'Tag Background' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(90, 74, 120, 0.15)' 
+    default-dark: 'rgba(187, 154, 247, 0.15)' 
+  - 
+    id: tag-color-hover 
+    title: 'Tag Color (hover)' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(15, 75, 110, 1)' 
+    default-dark: 'rgba(125, 207, 255, 1)' 
+  - 
+    id: tag-background-hover 
+    title: 'Tag Background (hover)' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(15, 75, 110, 0.15)' 
+    default-dark: 'rgba(125, 207, 255, 0.15)'
+  - 
+    id: heading-link-color 
+    title: 'Link Color' 
+    type: heading 
+    level: 1 
+    collapsed: true 
+  - 
+    id: link-color 
+    title: 'Link Color' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(90, 74, 120, 1)' 
+    default-dark: 'rgba(187, 154, 247, 1)' 
+  - 
+    id: link-color-hover 
+    title: 'Link Color (hover)' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(15, 75, 110, 1)' 
+    default-dark: 'rgba(125, 207, 255, 1)' 
+  - 
+    id: link-external-color 
+    title: 'Link External Color' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(90, 74, 120, 1)' 
+    default-dark: 'rgba(187, 154, 247, 1)'
+  - 
+    id: link-external-color-hover 
+    title: 'Link External Color (hover)' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(15, 75, 110, 1)' 
+    default-dark: 'rgba(125, 207, 255, 1)'
+
+  - 
+    id: heading-checkbox-checklist
+    title: 'Checkbox and Checklist' 
+    type: heading 
+    level: 1 
+    collapsed: true 
+  - 
+    id: checkbox-radius 
+    title: 'Checkbox: Radius' 
+    type: variable-number-slider 
+    default: 4 
+    min: 0 
+    max: 20 
+    step: 1 
+  - 
+    id: checkbox-color 
+    title: 'Checkbox: Color' 
+    type: variable-themed-color 
+    opacity: false 
+    format: rgb 
+    default-light: 'rgb(150, 153, 163)' 
+    default-dark: 'rgb(86, 95, 137)'
+  - 
+    id: checkbox-color-hover 
+    title: 'Checkbox: Color (hover)'
+    type: variable-themed-color
+    opacity: false
+    format: rgb 
+    default-light: 'rgb(150, 153, 163)' 
+    default-dark: 'rgb(86, 95, 137)' 
+  - 
+    id: checkbox-marker-color 
+    title: 'Checkbox: Marker Color' 
+    type: variable-themed-color 
+    opacity: false 
+    format: rgb 
+    default-light: 'rgb(51, 99, 92)' 
+    default-dark: 'rgb(158, 206, 106)' 
+  - 
+    id: checkbox-border-color 
+    title: 'Checkbox: Border Color' 
+    type: variable-themed-color 
+    opacity: false 
+    format: rgb 
+    default-light: 'rgb(150, 153, 163)' 
+    default-dark: 'rgb(86, 95, 137)' 
+  - 
+    id: checkbox-border-color-hover 
+    title: 'Checkbox: Border Color (hover)' 
+    type: variable-themed-color 
+    opacity: false 
+    format: rgb 
+    default-light: 'rgb(150, 153, 163)' 
+    default-dark: 'rgb(86, 95, 137)' 
+  - 
+    id: checklist-done-color 
+    title: 'Checklist: Done Color' 
+    type: variable-themed-color 
+    opacity: true 
+    format: rgba 
+    default-light: 'rgba(51, 99, 92, 0.5)' 
+    default-dark: 'rgba(158, 206, 106, 0.5)'
+  - 
+    id: heading-scrollbar
+    title: 'Scrollbar'
+    type: heading
+    level: 1
+    collapsed: true
+  -
+    id: scrollbar-bg
+    title: 'Scrollbar: Background'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(188, 189, 194, 1)'
+    default-dark: 'rgba(18, 18, 24, 1)'
+  -
+    id: scrollbar-thumb-bg
+    title: 'Scrollbar: Thumb Background'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(150, 153, 163, 1)'
+    default-dark: 'rgba(86, 95, 137, 1)'
+  -
+    id: scrollbar-active-thumb-bg
+    title: 'Scrollbar: Active Thumb Background'
+    type: variable-themed-color
+    opacity: true
+    format: rgba
+    default-light: 'rgba(203, 204, 209, 1)'
+    default-dark: 'rgba(22, 22, 30, 1)'
+  - 
+    id: scrollbar-width 
+    title: 'Scrollbar: Width'
+    type: variable-number-slider
+    default: 0 
+    min: 0 
+    max: 20 
+    step: 1 
+  - 
+    id: miscellaneous
+    title: Miscellaneous
+    type: heading 
+    level: 1 
+    collapsed: true 
+  - 
+    id: border-width 
+    title: 'Border Width'
+    type: variable-number-slider 
+    default: 2 
+    min: 0 
+    max: 20 
+    step: 1 
+  
+
+*/

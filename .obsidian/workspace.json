@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md",
+                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50390243530273,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md",
+                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md",
+                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/IT Sec/4. Schluesselmanagement.md"
+                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md"
               }
             }
           }
@@ -157,53 +157,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10256cbf3028f3e",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
+    "3.Semester/Grundlagen Betriebssysteme/Images/Nichtdeterminismus Petrinetze.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
+    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Nebenlaeufigkeit in Petrinetzen.png",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Schaltregeln.png",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Petrinetz Beispiel.png",
+    "LaTeX Operators.md",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Aktionsstruktur Graph.png",
+    "3.Semester/IT Sec/Images/Diffie-Hellman.png",
+    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
+    "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
+    "2.Semester (public)/linalg/4. Rechnen mit Matrizen.md",
+    "2.Semester (public)/linalg/5 Algebraische Strukturen.md",
+    "3.Semester/IT Sec/Images/5. Authentifizierung.md",
+    "3.Semester/IT Sec/4. Schluesselmanagement.md",
     "3.Semester/Analysis/Analysis.md",
     "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "3.Semester/IT Sec/4. Schluesselmanagement.md",
     "3.Semester/IT Sec/IT Sec.md",
     "3.Semester/Analysis/6. Stetigkeit in hoeheren Dimensionen.md",
     "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
     "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/NumProg/2. Interpolation.md",
-    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
     "3.Semester/NumProg/3. Integration.md",
     "3.Semester/NumProg/n. Loesen von Gleichungssystemen.md",
-    "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
     "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
     "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "3.Semester/Analysis/4. Reihen.md",
     "3.Semester/3. Semester.md",
     "3.Semester/Analysis/3. Folgen.md",
-    "3.Semester/Grundlagen Betriebssysteme/3. Scheduling.md",
-    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "Untitled 1.canvas",
-    "2023-11-22.md",
-    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
-    "3.Semester/Analysis/1. Mengen.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/CPU Queue.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritischer Abschnitt.png",
-    "3.Semester/NumProg/1. Floating Point Numbers.md",
-    "3.Semester/Grundlagen Betriebssysteme/2. Prozess- und Prozessorverwaltung.md",
-    "3.Semester/Grundlagen Betriebssysteme/1. Grundlegende Konzepte Betriebssysteme.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritische Abschnitte.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/Race Condition.png",
-    "3.Semester/Grundlagen Datenbanken/Images/SQL Logik.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/global Queue.png",
     "github.com/AntonScheitler",
     "github.com",
-    "3.Semester/IT Sec/Images/HMAC.png",
-    "3.Semester/NumProg/Images/Sparsity Patterns.png",
-    "3.Semester/IT Sec/Images/Blockchiffren als Hashfunktion.png",
-    "3.Semester/NumProg/Images/lokalel Segmente.png",
     "2.Semester (public)",
     "NumProg.apkg",
     "ITSec.apkg",
     "Grundlagen_Betriebssysteme_und_Systemsoftware.apkg",
     "Analysis_fuer_Informatik_TUM.apkg",
-    "Untitled.canvas",
     "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde",
     "3.Semester/IT Sec/Images",
     "3.Semester/NumProg/Images",

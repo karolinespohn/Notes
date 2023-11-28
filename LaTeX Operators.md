@@ -1,0 +1,2 @@
+$$\DeclareMathOperator{\bit}{bit}$$
+$\bit$ 
