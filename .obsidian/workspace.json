@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf63cc697ed528f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md"
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md"
               }
             }
           }
@@ -156,28 +169,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10256cbf3028f3e",
+  "active": "bf63cc697ed528f0",
   "lastOpenFiles": [
+    "3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
+    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
+    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
+    "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+    "3.Semester/Grundlagen Datenbanken/Images/Relation Funktionale Abhaengigkeiten.png",
+    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
+    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
     "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/Analysis/7. Differentiation.md",
     "3.Semester/Analysis/Analysis.md",
     "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
     "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
-    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Nichtdeterminismus Petrinetze.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Nebenlaeufigkeit in Petrinetzen.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/Schaltregeln.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/Petrinetz Beispiel.png",
     "LaTeX Operators.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Aktionsstruktur Graph.png",
     "3.Semester/IT Sec/Images/Diffie-Hellman.png",
-    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "2.Semester (public)/linalg/4. Rechnen mit Matrizen.md",
     "2.Semester (public)/linalg/5 Algebraische Strukturen.md",
     "3.Semester/IT Sec/Images/5. Authentifizierung.md",
@@ -185,17 +203,12 @@
     "3.Semester/IT Sec/IT Sec.md",
     "3.Semester/Analysis/6. Stetigkeit in hoeheren Dimensionen.md",
     "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
-    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "3.Semester/NumProg/2. Interpolation.md",
     "3.Semester/NumProg/3. Integration.md",
     "3.Semester/NumProg/n. Loesen von Gleichungssystemen.md",
-    "3.Semester/NumProg/Numerische Programmierung.md",
-    "3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
-    "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/CPU Queue.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritischer Abschnitt.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritische Abschnitte.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Race Condition.png",
     "github.com/AntonScheitler",
     "github.com",
     "2.Semester (public)",

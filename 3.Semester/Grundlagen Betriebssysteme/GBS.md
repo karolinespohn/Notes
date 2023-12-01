@@ -7,3 +7,4 @@ zuletzt geupdated: 22. November
 [[3. Scheduling]]
 [[4. Parallele Systeme und Synchronisation]]
 [[5. Modellierung Paralleler Systeme]]
+[[6. Inter-Prozesskommunikation]]
