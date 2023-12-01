@@ -7,3 +7,5 @@ zuletzt geupdated: 17.November
 [[3. Folgen]]
 [[4. Reihen]]
 [[5. Grenzwerte und Stetigkeit von Funktionen]]
+[[6. Umkehrfunktionen und die Logarithmusfunktion]]
+[[7. Differentiation]]

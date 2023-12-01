@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md"
+                "file": "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md"
               }
             }
           }
@@ -157,12 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4221ffeffb82dbe",
+  "active": "e10256cbf3028f3e",
   "lastOpenFiles": [
+    "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "3.Semester/Analysis/4. Reihen.md",
+    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "3.Semester/Analysis/3. Folgen.md",
+    "3.Semester/Analysis/7. Differentiation.md",
+    "3.Semester/Analysis/Analysis.md",
+    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
+    "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
+    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Nichtdeterminismus Petrinetze.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
     "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/Nebenlaeufigkeit in Petrinetzen.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/Schaltregeln.png",
@@ -171,14 +178,10 @@
     "3.Semester/Grundlagen Betriebssysteme/Images/Aktionsstruktur Graph.png",
     "3.Semester/IT Sec/Images/Diffie-Hellman.png",
     "3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
-    "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
     "2.Semester (public)/linalg/4. Rechnen mit Matrizen.md",
     "2.Semester (public)/linalg/5 Algebraische Strukturen.md",
     "3.Semester/IT Sec/Images/5. Authentifizierung.md",
     "3.Semester/IT Sec/4. Schluesselmanagement.md",
-    "3.Semester/Analysis/Analysis.md",
-    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "3.Semester/IT Sec/IT Sec.md",
     "3.Semester/Analysis/6. Stetigkeit in hoeheren Dimensionen.md",
     "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
@@ -189,9 +192,6 @@
     "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
     "3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
-    "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/3. Semester.md",
-    "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/Grundlagen Betriebssysteme/Images/CPU Queue.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritischer Abschnitt.png",
     "3.Semester/Grundlagen Betriebssysteme/Images/kritische Abschnitte.png",

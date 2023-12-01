@@ -238,6 +238,7 @@ FdK
 FDZF
 FuOg
 Folgebelegung
+Finde
 bestehen
 bringen
 bi
@@ -536,6 +537,7 @@ bhy
 bdS
 bEV
 bevor
+bedingte
 aus
 an
 als
@@ -1302,6 +1304,8 @@ Systemeigenschaften
 Sowohl
 Schalten
 Sequenz
+Symbole
+Symbolen
 Bit
 Bijektion
 Bernstein
@@ -1875,6 +1879,7 @@ MSNy
 MUe
 Markierung
 Markierunen
+Monoton
 und
 um
 uQD
@@ -2509,6 +2514,7 @@ Eue
 EpM
 Erreichbarkeit
 Endzustand
+Exponentfunktion
 Die
 Der
 Da
@@ -7282,6 +7288,7 @@ mUUUVYYi
 mlk
 moAY
 mYRgz
+moeglicherweise
 treten
 tPW
 ti
@@ -12250,6 +12257,8 @@ LiX
 LWV
 LYA
 LEH
+Logarithmusfunktion
+Landau
 Qt
 QO
 Qx
