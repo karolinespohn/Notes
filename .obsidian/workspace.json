@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md",
+                "file": "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md",
+                "file": "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md",
+                "file": "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md"
+                "file": "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md"
               }
             }
           }
@@ -159,43 +158,43 @@
   },
   "active": "e10256cbf3028f3e",
   "lastOpenFiles": [
-    "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Socket.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Stream.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Software Bussysteme.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Message Passing.png",
-    "3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/synchrone Auftraege.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/asynchrone Auftraege.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/asynchrone Meldungen.png",
-    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/synchrone Meldung.png",
-    "3.Semester/NumProg/2. Interpolation.md",
-    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
-    "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
-    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
-    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
-    "3.Semester/Grundlagen Datenbanken/Images/Relation Funktionale Abhaengigkeiten.png",
-    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
-    "3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
-    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
     "3.Semester/Analysis/4. Reihen.md",
     "3.Semester/Analysis/3. Folgen.md",
     "3.Semester/Analysis/7. Differentiation.md",
+    "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+    "Bildschirmfoto 2023-12-06 um 22.11.38 1.png",
+    "Dekomposition 4.NF.png",
+    "3.Semester/Grundlagen Datenbanken/Images/mehrwertige Abhaengigkeiten.png",
+    "3.Semester/Grundlagen Datenbanken/Images/Konsolidierung Beispiel Sicht 2.png",
+    "3.Semester/Grundlagen Datenbanken/Images/mehrwertige Abhaengigkeiten.png",
+    "3.Semester/Grundlagen Datenbanken/Images/Konsolidierung Beispiel Sicht 1.png",
+    "3.Semester/Grundlagen Datenbanken/Images/Konsolidierung Beispiel Sicht 3.png",
+    "3.Semester/IT Sec/Images/symmetrisches CR Verfahren.png",
+    "3.Semester/IT Sec/5. Authentisierung.md",
+    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
+    "3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
+    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
+    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
+    "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+    "3.Semester/IT Sec/4. Schluesselmanagement.md",
+    "3.Semester/IT Sec/2. Kryptographie.md",
+    "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
+    "3.Semester/IT Sec/IT Sec.md",
+    "3.Semester/IT Sec/Public Key Infrastructure.md",
+    "3.Semester/IT Sec/Images/Challenge Response Verfahren.png",
+    "3.Semester/Grundlagen Betriebssysteme/Images/Socket.png",
+    "3.Semester/NumProg/2. Interpolation.md",
+    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
+    "2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
+    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
     "3.Semester/Analysis/Analysis.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Nichtdeterminismus Petrinetze.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "LaTeX Operators.md",
     "2.Semester (public)/linalg/4. Rechnen mit Matrizen.md",
-    "2.Semester (public)/linalg/5 Algebraische Strukturen.md",
-    "3.Semester/IT Sec/Images/5. Authentifizierung.md",
-    "3.Semester/IT Sec/4. Schluesselmanagement.md",
-    "3.Semester/IT Sec/IT Sec.md",
-    "3.Semester/Analysis/6. Stetigkeit in hoeheren Dimensionen.md",
-    "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
-    "3.Semester/NumProg/3. Integration.md",
     "github.com/AntonScheitler",
     "github.com",
     "2.Semester (public)",
