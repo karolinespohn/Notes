@@ -1,2 +1,0 @@
-$$\DeclareMathOperator{\bit}{bit}$$
-$\bit$ 

@@ -8,3 +8,4 @@ zuletzt geupdated: 5. Dezember
 [[4. Parallele Systeme und Synchronisation]]
 [[5. Modellierung Paralleler Systeme]]
 [[6. Inter-Prozesskommunikation]]
+[[7. Speicherverwaltung]]
