@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md",
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md",
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md",
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,12 +134,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Analysis/7. Differentiation.md"
+                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,44 +155,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4221ffeffb82dbe",
+  "active": "e10256cbf3028f3e",
   "lastOpenFiles": [
+    "3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+    "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "3.Semester/Grundlagen Datenbanken/Images/RAID 5.png",
+    "3.Semester/Grundlagen Datenbanken/Images/RAID 4.png",
+    "3.Semester/Grundlagen Datenbanken/Images/RAID 3 Widerherstellung.png",
+    "3.Semester/Grundlagen Datenbanken/Images/Bitweises Striping mit Paritaetsdisk.png",
+    "3.Semester/Grundlagen Datenbanken/Images/Bitweises Striping.png",
+    "3.Semester/Grundlagen Datenbanken/Images/Striping and Mirroring.png",
+    "3.Semester/Grundlagen Datenbanken/Images/Mirroring.png",
+    "Screenshot 2023-12-13 at 11.20.40 1.png",
+    "3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
+    "3.Semester/Grundlagen Datenbanken/Images/Striping.png",
+    "3.Semester/Grundlagen Datenbanken/Images/RAID.png",
+    "3.Semester/IT Sec/6. Public Key Infrastructure.md",
+    "3.Semester/Analysis/7. Differentiation.md",
+    "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "3.Semester/Analysis/4. Reihen.md",
     "3.Semester/Analysis/Analysis.md",
+    "3.Semester/Analysis/3. Folgen.md",
+    "3.Semester/IT Sec/5. Authentisierung.md",
+    "3.Semester/IT Sec/IT Sec.md",
     "3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
     "3.Semester/NumProg/3. Integration.md",
-    "3.Semester/NumProg/Images/Aitken Neville.png",
     "Screenshot 2023-12-11 at 18.12.46.png400.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Verkettete Liste.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Bitmap.png",
-    "3.Semester/NumProg/Images/IFFT.png",
-    "3.Semester/NumProg/Images/Butterfly Operator.png",
-    "3.Semester/NumProg/Images/Newton Interpolation.png",
     "3.Semester/NumProg/2. Interpolation.md",
-    "3.Semester/IT Sec/5. Authentisierung.md",
     "3.Semester/IT Sec/4. Schluesselmanagement.md",
     "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
     "3.Semester/IT Sec/2. Kryptographie.md",
     "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
     "3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Speicherhierarchie.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/Segmentadressierung.png",
-    "3.Semester/Grundlagen Betriebssysteme/Images/von Neumann.png",
     "3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
-    "3.Semester/Grundlagen Betriebssysteme/Images/von Neumann.png",
     "3.Semester/NumProg/Numerische Programmierung.md",
     "3.Semester/3. Semester.md",
-    "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
-    "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
-    "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Analysis/3. Folgen.md",
-    "3.Semester/Analysis/7. Differentiation.md",
-    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
-    "3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
-    "3.Semester/IT Sec/IT Sec.md",
-    "3.Semester/IT Sec/Public Key Infrastructure.md",
-    "2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "github.com/AntonScheitler",

@@ -7,3 +7,4 @@ zuletzt geupdated: 20. November
 [[3. Relationale Anfragesprache]]
 [[4. Datenintegritaet]]
 [[5. Relationale Entwurfstheorie]]
+[[6. Physische Datenorganisation]]
