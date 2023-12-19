@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "49644236c393a281",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md"
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md"
               }
             }
           }
@@ -155,56 +156,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10256cbf3028f3e",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
-    "3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
-    "3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
-    "3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
-    "3.Semester/Grundlagen Datenbanken/Images/RAID 5.png",
-    "3.Semester/Grundlagen Datenbanken/Images/RAID 4.png",
-    "3.Semester/Grundlagen Datenbanken/Images/RAID 3 Widerherstellung.png",
-    "3.Semester/Grundlagen Datenbanken/Images/Bitweises Striping mit Paritaetsdisk.png",
-    "3.Semester/Grundlagen Datenbanken/Images/Bitweises Striping.png",
-    "3.Semester/Grundlagen Datenbanken/Images/Striping and Mirroring.png",
-    "3.Semester/Grundlagen Datenbanken/Images/Mirroring.png",
-    "Screenshot 2023-12-13 at 11.20.40 1.png",
-    "3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
-    "3.Semester/Grundlagen Datenbanken/Images/Striping.png",
-    "3.Semester/Grundlagen Datenbanken/Images/RAID.png",
-    "3.Semester/IT Sec/6. Public Key Infrastructure.md",
-    "3.Semester/Analysis/7. Differentiation.md",
-    "3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
-    "3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "3.Semester/Analysis/4. Reihen.md",
-    "3.Semester/Analysis/Analysis.md",
-    "3.Semester/Analysis/3. Folgen.md",
-    "3.Semester/IT Sec/5. Authentisierung.md",
-    "3.Semester/IT Sec/IT Sec.md",
-    "3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
-    "3.Semester/NumProg/3. Integration.md",
-    "Screenshot 2023-12-11 at 18.12.46.png400.md",
-    "3.Semester/NumProg/2. Interpolation.md",
-    "3.Semester/IT Sec/4. Schluesselmanagement.md",
-    "3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
-    "3.Semester/IT Sec/2. Kryptographie.md",
-    "3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
-    "3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
-    "3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
-    "3.Semester/NumProg/Numerische Programmierung.md",
-    "3.Semester/3. Semester.md",
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
+    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+    "Reading/Memory Models/Memory Models.md",
+    "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+    "TUM/3.Semester/IT Sec/Images/Dedizierte Hashfunktionen.png",
+    "TUM/3.Semester/IT Sec/2. Kryptographie.md",
+    "!Symmetrische Verschuesselung.png.md",
+    "TUM/3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
+    "TUM/3.Semester/IT Sec/6. Public Key Infrastructure.md",
+    "TUM/3.Semester/IT Sec/Images/Single Sign On.png",
+    "TUM/3.Semester/IT Sec/Images/Stromchiffre.png",
+    "TUM/3.Semester/IT Sec/Images/Schwachstelle, Bedrohung, Angriff.png",
+    "TUM/3.Semester/IT Sec/Images/PKI Komponenten.png",
+    "TUM/3.Semester/IT Sec/Images/OCSP.png",
+    "TUM/3.Semester/IT Sec/Images/Kompressionsfunktionen.png",
+    "TUM/3.Semester/IT Sec/Images/HMAC.png",
+    "TUM/3.Semester/IT Sec/Images/ECB  Tux.png",
+    "TUM/3.Semester/IT Sec/Images/Diffie-Hellman.png",
+    "TUM/3.Semester/IT Sec/Images/5. Authentifizierung.md",
+    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
+    "TUM/3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+    "Reading/Topics.md",
+    "README.md",
+    "Reading/Memory Models",
+    "Reading.md",
+    "Reading",
+    "TUM/3.Semester/3. Semester.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+    "TUM",
+    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
+    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3.Semester/Analysis/4. Reihen.md",
+    "TUM/3.Semester/Analysis/Analysis.md",
+    "TUM/3.Semester/Analysis/3. Folgen.md",
+    "TUM/3.Semester/IT Sec/5. Authentisierung.md",
+    "TUM/3.Semester/IT Sec/IT Sec.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "github.com/AntonScheitler",
     "github.com",
-    "2.Semester (public)",
+    "TUM/2.Semester (public)",
     "NumProg.apkg",
     "ITSec.apkg",
     "Grundlagen_Betriebssysteme_und_Systemsoftware.apkg",
     "Analysis_fuer_Informatik_TUM.apkg",
-    "3.Semester/Grundlagen Betriebssysteme/Maerchenstunde",
-    "3.Semester/IT Sec/Images",
-    "3.Semester/NumProg/Images",
     "Untitled 2.canvas",
     "Untitled 3.canvas"
   ]

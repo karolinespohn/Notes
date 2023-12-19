@@ -1,8 +1,8 @@
 {
   "accentColor": "#beb1ec",
   "theme": "obsidian",
-  "cssTheme": "Comfort color dark",
-  "baseFontSize": 30,
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 13,
   "textFontFamily": "Avenir,Apple SD Gothic Neo",
   "translucency": false
 }
