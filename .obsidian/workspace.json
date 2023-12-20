@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md"
+                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md"
               }
             }
           }
@@ -156,10 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4221ffeffb82dbe",
+  "active": "e10256cbf3028f3e",
   "lastOpenFiles": [
+    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Clock-artiges Working-Set Verfahren.png",
+    "README.md",
+    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+    "TUM/2.Semester/gad/0. gad.md",
+    "TUM/2.Semester/gad/Graphen.md",
+    "TUM/2.Semester/gad/4. Datenstrukturen für Sequenzen.md",
+    "TUM/2.Semester/gad/1. Begriffe.md",
+    "TUM/2.Semester/gad/3. Rechenregeln für die O-Notation.md",
     "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+    "TUM/3.Semester/IT Sec/IT Sec.md",
+    "TUM/3.Semester/3. Semester.md",
     "Reading/Memory Models/Memory Models.md",
     "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
     "TUM/3.Semester/IT Sec/Images/Dedizierte Hashfunktionen.png",
@@ -175,28 +185,16 @@
     "TUM/3.Semester/IT Sec/Images/Kompressionsfunktionen.png",
     "TUM/3.Semester/IT Sec/Images/HMAC.png",
     "TUM/3.Semester/IT Sec/Images/ECB  Tux.png",
-    "TUM/3.Semester/IT Sec/Images/Diffie-Hellman.png",
     "TUM/3.Semester/IT Sec/Images/5. Authentifizierung.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "Reading/Topics.md",
-    "README.md",
     "Reading/Memory Models",
     "Reading.md",
     "Reading",
-    "TUM/3.Semester/3. Semester.md",
     "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
     "TUM",
     "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
-    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
-    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "TUM/3.Semester/Analysis/4. Reihen.md",
-    "TUM/3.Semester/Analysis/Analysis.md",
-    "TUM/3.Semester/Analysis/3. Folgen.md",
-    "TUM/3.Semester/IT Sec/5. Authentisierung.md",
-    "TUM/3.Semester/IT Sec/IT Sec.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "github.com/AntonScheitler",
