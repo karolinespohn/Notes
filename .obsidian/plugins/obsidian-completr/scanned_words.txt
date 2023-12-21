@@ -376,6 +376,7 @@ Fgw
 FrI
 FGI
 FJAi
+Formen
 bestehen
 bringen
 bi
@@ -816,6 +817,7 @@ byN
 boVW
 bkQ
 bereitzuhalten
+bestaende
 aus
 an
 als
@@ -1954,6 +1956,7 @@ Seitenflattern
 Setup
 Speicherzugriffen
 Seitenverwaltung
+Script
 Bit
 Bijektion
 Bernstein
@@ -3293,6 +3296,8 @@ uOw
 uPo
 unterstuetzen
 ueblicherweise
+unvalidierte
+ueberschrieben
 Exponent
 Eine
 Element
@@ -4186,6 +4191,7 @@ Demand
 Dgx
 DiN
 DEEK
+Datenbank
 ist
 immer
 insbesondere
@@ -6313,6 +6319,7 @@ eGF
 eEu
 eJK
 exT
+entschluesselt
 Nachbar
 Notation
 Note
@@ -7873,6 +7880,7 @@ zNR
 zurueckgeschrieben
 ztwNh
 zKD
+zugehoerigen
 nicht
 nur
 nach
@@ -9880,6 +9888,7 @@ ZKk
 ZyB
 Zaehler
 Zugriffszeit
+Zugriffsrechte
 kann
 koennen
 keine
@@ -12064,6 +12073,7 @@ sSw
 sKV
 sIU
 sMFR
+sogenannten
 folgende
 falls
 folgendermassen
@@ -13652,6 +13662,7 @@ vEI
 vJB
 vuS
 vkP
+versteht
 Cantor
 CR
 CE
@@ -13986,6 +13997,7 @@ Chance
 Clock
 CPl
 CBz
+CIA
 Theorem
 TODO
 Tupel
@@ -17433,6 +17445,7 @@ Wwx
 WCJQY
 Wvi
 WZp
+Website
 quadratische
 qT
 qf

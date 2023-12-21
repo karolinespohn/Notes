@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "49644236c393a281",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md"
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md"
               }
             }
           }
@@ -157,9 +158,12 @@
   },
   "active": "e10256cbf3028f3e",
   "lastOpenFiles": [
+    "TUM/3.Semester/IT Sec/2. Kryptographie.md",
+    "TUM/3.Semester/IT Sec/1. Begriffe und Grundlagen.md",
+    "Screenshot 2023-12-20 at 12.37.21.png",
+    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Clock-artiges Working-Set Verfahren.png",
     "README.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "TUM/2.Semester/gad/0. gad.md",
     "TUM/2.Semester/gad/Graphen.md",
@@ -173,9 +177,7 @@
     "Reading/Memory Models/Memory Models.md",
     "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
     "TUM/3.Semester/IT Sec/Images/Dedizierte Hashfunktionen.png",
-    "TUM/3.Semester/IT Sec/2. Kryptographie.md",
     "!Symmetrische Verschuesselung.png.md",
-    "TUM/3.Semester/IT Sec/1. Schwachstellen, Bedrohungen und Angriffe.md",
     "TUM/3.Semester/IT Sec/6. Public Key Infrastructure.md",
     "TUM/3.Semester/IT Sec/Images/Single Sign On.png",
     "TUM/3.Semester/IT Sec/Images/Stromchiffre.png",
@@ -184,7 +186,6 @@
     "TUM/3.Semester/IT Sec/Images/OCSP.png",
     "TUM/3.Semester/IT Sec/Images/Kompressionsfunktionen.png",
     "TUM/3.Semester/IT Sec/Images/HMAC.png",
-    "TUM/3.Semester/IT Sec/Images/ECB  Tux.png",
     "TUM/3.Semester/IT Sec/Images/5. Authentifizierung.md",
     "TUM/3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
     "Reading/Topics.md",
