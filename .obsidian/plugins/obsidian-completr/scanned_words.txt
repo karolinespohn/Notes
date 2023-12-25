@@ -1957,6 +1957,7 @@ Setup
 Speicherzugriffen
 Seitenverwaltung
 Script
+Seit
 Bit
 Bijektion
 Bernstein
@@ -4192,6 +4193,7 @@ Dgx
 DiN
 DEEK
 Datenbank
+Definitionsvereich
 ist
 immer
 insbesondere
@@ -5080,6 +5082,7 @@ dDO
 dYe
 dggKDD
 dXk
+differenzierbare
 wodurch
 werden
 wenn
@@ -10333,6 +10336,8 @@ kopieren
 konstante
 kbW
 kmg
+konvex
+konkav
 muss
 mindestens
 mit
@@ -13198,6 +13203,7 @@ JqB
 JjZ
 JZY
 JOM
+Jensen
 von
 vorgibt
 verwendet
@@ -14806,6 +14812,7 @@ Konkrete
 Kyr
 KpN
 Kommt
+Konvexitaet
 Vektoren
 Verschiedene
 Vertauschen
@@ -15945,6 +15952,7 @@ UuC
 UBto
 UWZ
 ULb
+Ungleichung
 Graphik
 Gauss
 Gegeben
