@@ -400,6 +400,7 @@ FSSSV
 Fccc
 Fgg
 FRVQ
+Finalisierungsfunktion
 bestehen
 bringen
 bi
@@ -867,6 +868,8 @@ baaaoO
 bee
 bbX
 bzz
+bewusst
+berecnet
 aus
 an
 als
@@ -1443,6 +1446,9 @@ aiCCPICC
 amm
 aTrPV
 auS
+aktueller
+aktuelle
+aeusseren
 Sign
 Surjektivitaet
 Surjektion
@@ -2083,6 +2089,11 @@ Schwachstelle
 Schwachstellen
 SsP
 SRS
+Sponge
+SHA
+Schrittweise
+Speicherintensiv
+Schutzkonzepte
 Bit
 Bijektion
 Bernstein
@@ -2544,6 +2555,11 @@ Bwww
 BcC
 BoS
 BMM
+Bitfolge
+Bob
+Bitfolgen
+Blockgroesse
+Betriebsmodi
 Mantisse
 Menge
 Monotonie
@@ -3000,6 +3016,10 @@ MwH
 Missbrauch
 Mail
 MIP
+Mac
+MACs
+Mechanismus
+Mechanismen
 und
 um
 uQD
@@ -3500,6 +3520,9 @@ unauthorisierter
 uninfizierte
 uOn
 ufB
+unten
+uebereinstimmt
+ueberpruefen
 Exponent
 Eine
 Element
@@ -3975,6 +3998,7 @@ EiL
 Eav
 EOO
 EGE
+Encryption
 Die
 Der
 Da
@@ -4441,6 +4465,10 @@ DxT
 DVN
 DNa
 Dniqq
+Dafuerwird
+Digest
+Dieser
+Denn
 ist
 immer
 insbesondere
@@ -4934,6 +4962,7 @@ ijGS
 idQF
 innen
 iOO
+initialisierte
 diskret
 dargestellt
 dann
@@ -5408,6 +5437,7 @@ darueber
 dIj
 dyY
 dmMk
+denselben
 wodurch
 werden
 wenn
@@ -5862,6 +5892,9 @@ wUl
 wAd
 wSd
 wja
+wuerde
+weiterschicken
+weitergehasht
 jeder
 jede
 jeweils
@@ -6742,6 +6775,12 @@ eQJ
 eXo
 eQtyI
 euM
+erklaert
+erweitert
+entnommen
+encrypt
+erkennt
+erweitern
 Nachbar
 Notation
 Note
@@ -7125,6 +7164,7 @@ NJm
 Nig
 NBq
 NuA
+Nullbits
 hat
 heisst
 hoechstens
@@ -8024,6 +8064,17 @@ ASx
 Aee
 Aal
 AJb
+Absorptionsphase
+Ausgabephase
+Ausgabestring
+Ausgabegroesse
+Alice
+Alices
+Aussehen
+Attacken
+Authenticated
+Associated
+AEAD
 zwischen
 zwei
 zu
@@ -8379,6 +8430,7 @@ zjWT
 zAl
 zQz
 zWYG
+zwar
 nicht
 nur
 nach
@@ -9248,6 +9300,15 @@ gmu
 gza
 gGuq
 gNP
+genauer
+gewuenschte
+gestaltet
+geschiet
+gesendeten
+gefolgt
+gesendete
+gefaelscht
+geheime
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -10523,6 +10584,8 @@ ZHK
 ZTVV
 ZoI
 ZQsm
+Zustandes
+Zwischenzustaenden
 kann
 koennen
 keine
@@ -10987,6 +11050,7 @@ keeps
 kompromittiert
 kJz
 kkkh
+kennen
 muss
 mindestens
 mit
@@ -11458,6 +11522,7 @@ moegliche
 mtl
 mkoow
 mjj
+mac
 treten
 tPW
 ti
@@ -12288,6 +12353,8 @@ lhp
 lKLL
 lqa
 lFE
+lauten
+leerer
 sollte
 sich
 surjektiv
@@ -12889,6 +12956,7 @@ sopT
 sü
 saa
 sYZ
+schaut
 folgende
 falls
 folgendermassen
@@ -13769,6 +13837,9 @@ IFeL
 Ifc
 IEZ
 IizD
+Integritaetsueberpruefung
+Initialzustand
+Insgesamt
 Jedes
 Jede
 JE
@@ -14580,6 +14651,10 @@ verglichen
 verschluesselten
 vtuv
 vYii
+verarbeitet
+verfaelschte
+verschiedener
+verknuepfen
 Cantor
 CR
 CE
@@ -15786,6 +15861,8 @@ KUO
 KXpb
 KBa
 KcH
+Kryptograpunhische
+Kenntniss
 Vektoren
 Verschiedene
 Vertauschen
@@ -16231,6 +16308,7 @@ VZZ
 VQQ
 VZRb
 VRZ
+Verwenden
 Objekte
 Objekten
 Ordnung
@@ -16597,6 +16675,7 @@ OQQ
 OPM
 OOW
 OWG
+Ohne
 Unteschiedlichen
 Umwandeln
 Um
@@ -16983,6 +17062,7 @@ Uli
 UaKCCCn
 Urr
 UMKX
+Ueberlaesst
 Graphik
 Gauss
 Gegeben
@@ -18199,6 +18279,8 @@ PoX
 Pxvv
 PYQA
 PEU
+Permutationsfunktion
+Programmierer
 Wenn
 Wähle
 Wichtig
@@ -21379,6 +21461,7 @@ ciaz
 ctu
 ceF
 chiffriert
+charakterisiert
 xTG
 xb
 xh
@@ -22097,6 +22180,7 @@ HHp
 HAW
 HCe
 HpX
+Hash
 YYy
 YkDTC
 Yw
