@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e10256cbf3028f3e",
+            "id": "b97cdfe93aad9de1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
-                "mode": "source",
-                "source": false
+                "file": "TUM/3.Semester/IT Sec/Images/Schwachstelle, Bedrohung, Angriff.png"
               }
             }
           }
@@ -59,14 +57,6 @@
             }
           },
           {
-            "id": "95c1bc9fa2b987e8",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "cad83bc5f6d6d092",
             "type": "leaf",
             "state": {
@@ -94,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
+                "file": "TUM/3.Semester/IT Sec/Images/Schwachstelle, Bedrohung, Angriff.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
+                "file": "TUM/3.Semester/IT Sec/Images/Schwachstelle, Bedrohung, Angriff.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md"
+                "file": "TUM/3.Semester/IT Sec/Images/Schwachstelle, Bedrohung, Angriff.png"
               }
             }
           }
@@ -155,55 +145,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e10256cbf3028f3e",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
+    "TUM/3.Semester/IT Sec/Images/ARP Cache Poisoning.png",
+    "TUM/3.Semester/IT Sec/Images/ECC.png",
+    "TUM/3.Semester/IT Sec/Images/Padding Oracle.png",
+    "TUM/3.Semester/IT Sec/Images/Bitfehler CBC.png",
     "TUM/3.Semester/IT Sec/2. Kryptographie.md",
+    "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
     "TUM/3.Semester/IT Sec/1. Begriffe und Grundlagen.md",
-    "Screenshot 2023-12-20 at 12.37.21.png",
+    "Untitled.canvas",
+    "TUM/2.Semester/eist/Cloud Hardware.md",
+    "TUM/2.Semester/eist/System Design and Implementation.md",
+    "TUM/2.Semester/eist/System Design and Implementation 1.md",
+    "TUM/2.Semester/eist/Testing.md",
+    "TUM/2.Semester/eist/eist.md",
+    "TUM/2.Semester/eist/Deployment models in the cloud.md",
+    "TUM/2.Semester/eist/EIST-Klausur Cheat Sheet.md",
+    "Reading/Images/Screenshot 2023-12-26 at 00.38.08.png",
+    "Reading/Images/Screenshot 2023-12-26 at 11.05.02.png",
+    "Reading/Images/IMG_288DACB4412A-1.jpeg",
+    "Reading/JB.md",
+    "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
+    "Reading/Memory Models/Memory Models.md",
+    "Reading/Memory Models/Examples of Memory Models.md",
+    "Reading/Images/Illustration Necessarity of MF.jpeg",
+    "Reading/Memory Models",
+    "Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
+    "Memory Models/Memory Models.md",
+    "Memory Models",
+    "Reading/Images",
+    "Untitled.md",
+    "README.md",
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Clock-artiges Working-Set Verfahren.png",
-    "README.md",
     "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "TUM/2.Semester/gad/0. gad.md",
     "TUM/2.Semester/gad/Graphen.md",
     "TUM/2.Semester/gad/4. Datenstrukturen für Sequenzen.md",
     "TUM/2.Semester/gad/1. Begriffe.md",
-    "TUM/2.Semester/gad/3. Rechenregeln für die O-Notation.md",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
-    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
-    "TUM/3.Semester/IT Sec/IT Sec.md",
-    "TUM/3.Semester/3. Semester.md",
-    "Reading/Memory Models/Memory Models.md",
-    "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
     "TUM/3.Semester/IT Sec/Images/Dedizierte Hashfunktionen.png",
-    "!Symmetrische Verschuesselung.png.md",
-    "TUM/3.Semester/IT Sec/6. Public Key Infrastructure.md",
-    "TUM/3.Semester/IT Sec/Images/Single Sign On.png",
-    "TUM/3.Semester/IT Sec/Images/Stromchiffre.png",
-    "TUM/3.Semester/IT Sec/Images/Schwachstelle, Bedrohung, Angriff.png",
-    "TUM/3.Semester/IT Sec/Images/PKI Komponenten.png",
-    "TUM/3.Semester/IT Sec/Images/OCSP.png",
-    "TUM/3.Semester/IT Sec/Images/Kompressionsfunktionen.png",
-    "TUM/3.Semester/IT Sec/Images/HMAC.png",
-    "TUM/3.Semester/IT Sec/Images/5. Authentifizierung.md",
-    "TUM/3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
-    "Reading/Topics.md",
-    "Reading/Memory Models",
-    "Reading.md",
     "Reading",
-    "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
     "TUM",
-    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "github.com/AntonScheitler",
     "github.com",
     "TUM/2.Semester (public)",
     "NumProg.apkg",
     "ITSec.apkg",
-    "Grundlagen_Betriebssysteme_und_Systemsoftware.apkg",
-    "Analysis_fuer_Informatik_TUM.apkg",
     "Untitled 2.canvas",
     "Untitled 3.canvas"
   ]
