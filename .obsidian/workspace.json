@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md"
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md"
               }
             }
           }
@@ -150,14 +149,23 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
-    "TUM/3.Semester/IT Sec/1. Begriffe und Grundlagen.md",
+    "TUM/3.Semester/IT Sec/Images/Authentisierung Kerberos.png",
+    "TUM/3.Semester/IT Sec/6. Public Key Infrastructure.md",
+    "TUM/3.Semester/IT Sec/Images/Ticket Granting Kerberos.png",
+    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+    "TUM/3.Semester/IT Sec/Images/asymmetrisches CR-Verfahren zur Zertifikatsvalidierung.png",
+    "TUM/3.Semester/IT Sec/Images/Key Encapsulation Mechanism.png",
+    "TUM/3.Semester/IT Sec/5. Authentisierung.md",
+    "TUM/3.Semester/IT Sec/Images/asymmetrisches CR-Verfahren.png",
+    "TUM/3.Semester/IT Sec/4. Schluesselmanagement.md",
+    "TUM/3.Semester/IT Sec/Images/CSPRNG mittels Blockchiffren.png",
     "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+    "TUM/3.Semester/IT Sec/1. Begriffe und Grundlagen.md",
     "TUM/3.Semester/IT Sec/Images/Schwachstelle, Bedrohung, Angriff.png",
     "TUM/3.Semester/IT Sec/Images/5. Authentifizierung.md",
     "TUM/3.Semester/IT Sec/Images/ARP Cache Poisoning.png",
     "TUM/3.Semester/IT Sec/Images/ECC.png",
     "TUM/3.Semester/IT Sec/Images/Padding Oracle.png",
-    "TUM/3.Semester/IT Sec/Images/Bitfehler CBC.png",
     "TUM/3.Semester/IT Sec/2. Kryptographie.md",
     "Untitled.canvas",
     "TUM/2.Semester/eist/Cloud Hardware.md",
@@ -167,14 +175,10 @@
     "TUM/2.Semester/eist/eist.md",
     "TUM/2.Semester/eist/Deployment models in the cloud.md",
     "TUM/2.Semester/eist/EIST-Klausur Cheat Sheet.md",
-    "Reading/Images/Screenshot 2023-12-26 at 00.38.08.png",
-    "Reading/Images/Screenshot 2023-12-26 at 11.05.02.png",
-    "Reading/Images/IMG_288DACB4412A-1.jpeg",
     "Reading/JB.md",
     "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
     "Reading/Memory Models/Memory Models.md",
     "Reading/Memory Models/Examples of Memory Models.md",
-    "Reading/Images/Illustration Necessarity of MF.jpeg",
     "Reading/Memory Models",
     "Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
     "Memory Models/Memory Models.md",
@@ -184,11 +188,6 @@
     "README.md",
     "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Clock-artiges Working-Set Verfahren.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
-    "TUM/2.Semester/gad/0. gad.md",
-    "TUM/2.Semester/gad/Graphen.md",
-    "TUM/2.Semester/gad/4. Datenstrukturen für Sequenzen.md",
     "Reading",
     "TUM",
     "Untitled 1.canvas",
