@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kanonische",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md"
+                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md"
               }
             }
           }
@@ -149,10 +149,24 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
+    "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
+    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "TUM/3.Semester/Analysis/1. Mengen.md",
+    "TUM/3.Semester/Analysis/4. Reihen.md",
+    "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+    "TUM/3.Semester/Analysis/Analysis.md",
+    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
     "TUM/3.Semester/IT Sec/Images/Authentisierung Kerberos.png",
     "TUM/3.Semester/IT Sec/6. Public Key Infrastructure.md",
     "TUM/3.Semester/IT Sec/Images/Ticket Granting Kerberos.png",
-    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
     "TUM/3.Semester/IT Sec/Images/asymmetrisches CR-Verfahren zur Zertifikatsvalidierung.png",
     "TUM/3.Semester/IT Sec/Images/Key Encapsulation Mechanism.png",
     "TUM/3.Semester/IT Sec/5. Authentisierung.md",
@@ -172,22 +186,9 @@
     "TUM/2.Semester/eist/System Design and Implementation.md",
     "TUM/2.Semester/eist/System Design and Implementation 1.md",
     "TUM/2.Semester/eist/Testing.md",
-    "TUM/2.Semester/eist/eist.md",
-    "TUM/2.Semester/eist/Deployment models in the cloud.md",
-    "TUM/2.Semester/eist/EIST-Klausur Cheat Sheet.md",
-    "Reading/JB.md",
-    "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
-    "Reading/Memory Models/Memory Models.md",
-    "Reading/Memory Models/Examples of Memory Models.md",
     "Reading/Memory Models",
-    "Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
-    "Memory Models/Memory Models.md",
     "Memory Models",
     "Reading/Images",
-    "Untitled.md",
-    "README.md",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "Reading",
     "TUM",
     "Untitled 1.canvas",
