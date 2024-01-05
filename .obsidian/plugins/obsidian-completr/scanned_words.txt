@@ -2127,6 +2127,8 @@ SzTm
 SOI
 SFp
 Schluesselelemente
+Sortier
+Sortierphase
 Bit
 Bijektion
 Bernstein
@@ -2600,6 +2602,7 @@ Bdd
 BPr
 Bescheinigung
 Blaettern
+Butterfly
 Mantisse
 Menge
 Monotonie
@@ -4537,6 +4540,7 @@ Dokumentes
 DDj
 DVp
 DDc
+Debei
 ist
 immer
 insbesondere
@@ -5038,6 +5042,7 @@ ilD
 ijZ
 iQY
 ihres
+inversen
 diskret
 dargestellt
 dann
@@ -11687,6 +11692,7 @@ mac
 mwK
 mMD
 mss
+mithilfe
 treten
 tPW
 ti
@@ -13138,6 +13144,7 @@ signieren
 sLv
 sny
 szd
+schnellen
 folgende
 falls
 folgendermassen
@@ -14036,6 +14043,7 @@ IYw
 IDATb
 IMM
 INWhd
+Indizes
 Jedes
 Jede
 JE
@@ -16088,6 +16096,7 @@ KQw
 Kam
 Keys
 KDQ
+Kombinierphase
 Vektoren
 Verschiedene
 Vertauschen
@@ -16913,6 +16922,7 @@ Ofe
 OyGn
 Oju
 Option
+Operators
 Unteschiedlichen
 Umwandeln
 Um

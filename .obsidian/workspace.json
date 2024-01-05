@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
+                "file": "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "49644236c393a281",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
+                "file": "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
+                "file": "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/NumProg/1. Floating Point Numbers.md"
+                "file": "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md"
               }
             }
           }
@@ -149,6 +150,12 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
+    "TUM/3.Semester/Analysis/1. Mengen.md",
+    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3.Semester/Analysis/3. Folgen.md",
+    "TUM/3.Semester/NumProg/2. Interpolation.md",
+    "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
     "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
     "TUM/3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
@@ -157,9 +164,6 @@
     "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "TUM/3.Semester/Analysis/7. Differentiation.md",
-    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
-    "TUM/3.Semester/Analysis/1. Mengen.md",
     "TUM/3.Semester/Analysis/4. Reihen.md",
     "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
     "TUM/3.Semester/Analysis/Analysis.md",
@@ -183,9 +187,6 @@
     "TUM/3.Semester/IT Sec/2. Kryptographie.md",
     "Untitled.canvas",
     "TUM/2.Semester/eist/Cloud Hardware.md",
-    "TUM/2.Semester/eist/System Design and Implementation.md",
-    "TUM/2.Semester/eist/System Design and Implementation 1.md",
-    "TUM/2.Semester/eist/Testing.md",
     "Reading/Memory Models",
     "Memory Models",
     "Reading/Images",
