@@ -5,3 +5,5 @@ zuletzt geupdated: 20.November
 [[1. Floating Point Numbers]]
 [[2. Interpolation]]
 [[3. Integration]]
+[[4. Loesen von Gleichungssystemen]]
+[[5. Differenzialgleichungen]]

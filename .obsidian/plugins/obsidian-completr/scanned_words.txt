@@ -408,6 +408,7 @@ FMz
 FKD
 FJI
 FeP
+Frequenzwerten
 bestehen
 bringen
 bi
@@ -2129,6 +2130,7 @@ SFp
 Schluesselelemente
 Sortier
 Sortierphase
+Skalarem
 Bit
 Bijektion
 Bernstein
@@ -2603,6 +2605,7 @@ BPr
 Bescheinigung
 Blaettern
 Butterfly
+Beschraenktheit
 Mantisse
 Menge
 Monotonie
@@ -3069,6 +3072,8 @@ MYWK
 MAe
 MmA
 MyP
+Multiplikativ
+Monotoniekriterium
 und
 um
 uQD
@@ -3583,6 +3588,7 @@ ufG
 uebergeordnete
 uKu
 uSzj
+uebereinstimmen
 Exponent
 Eine
 Element
@@ -4065,6 +4071,7 @@ EHA
 ENM
 EvwQ
 EXw
+Extrapolation
 Die
 Der
 Da
@@ -4541,6 +4548,8 @@ DDj
 DVp
 DDc
 Debei
+Dreieck
+Divergenz
 ist
 immer
 insbesondere
@@ -7654,6 +7663,7 @@ hCc
 hrd
 hBG
 hDb
+hohen
 Abstand
 Auswahl
 Axiom
@@ -8198,6 +8208,7 @@ Axx
 AWt
 Apv
 Aussteller
+Ableitungswerten
 zwischen
 zwei
 zu
@@ -8940,6 +8951,7 @@ nkkk
 njO
 nzn
 naO
+niedrigen
 gleich
 gerundet
 gute
@@ -12533,6 +12545,7 @@ leerer
 lhc
 lhqXH
 lmR
+leitet
 sollte
 sich
 surjektiv
@@ -13582,6 +13595,8 @@ fmWm
 fzhS
 fmv
 foj
+fuellt
+fehlenden
 Idempotenz
 Injektion
 Injektionen
@@ -14044,6 +14059,9 @@ IDATb
 IMM
 INWhd
 Indizes
+Integrationsintervall
+Interpolanten
+Intervallgrenzen
 Jedes
 Jede
 JE
@@ -16548,6 +16566,7 @@ VnJ
 VEWF
 Validitaet
 VeN
+Vekrorraum
 Objekte
 Objekten
 Ordnung
@@ -18549,6 +18568,7 @@ PyM
 PId
 PIV
 PCh
+Poltnom
 Wenn
 Wähle
 Wichtig
@@ -18934,6 +18954,7 @@ Wtk
 WyN
 WBZ
 WRM
+Weret
 quadratische
 qT
 qf
@@ -19697,6 +19718,7 @@ LQD
 LwH
 LfYB
 Luv
+Lineares
 Qt
 QO
 Qx
