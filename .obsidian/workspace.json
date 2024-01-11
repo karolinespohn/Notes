@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Analysis/Analysis.md",
+                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "49644236c393a281",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Analysis/Analysis.md",
+                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Analysis/Analysis.md",
+                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Analysis/Analysis.md"
+                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md"
               }
             }
           }
@@ -149,10 +150,12 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
+    "Reading/Memory Models/Memory Models.md",
+    "Reading/Memory Models/Load & Store Buffering.md",
+    "TUM/3.Semester/Analysis/Analysis.md",
     "TUM/3.Semester/Analysis/8. Integration.md",
     "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
     "Reading/Memory Models/Examples of Memory Models.md",
-    "Reading/Memory Models/Memory Models.md",
     "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Analysis/4. Reihen.md",
     "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
@@ -166,7 +169,6 @@
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Partition Festplatte.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Hierarchische Verzeichnise.png",
     "Screenshot 2024-01-08 at 17.01.33 1.png",
-    "TUM/3.Semester/Analysis/Analysis.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Dateiattribute.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Binary.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Dateistruktur.png",
@@ -184,7 +186,6 @@
     "Reading/JB.md",
     "Reading/Topics.md",
     "TUM/3.Semester/Analysis/3. Folgen.md",
-    "TUM/3.Semester/NumProg/2. Interpolation.md",
     "TUM/3.Semester/NumProg/Images/IEEE Float.png",
     "Untitled.canvas",
     "Reading/Memory Models",
