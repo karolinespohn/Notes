@@ -7,3 +7,4 @@ zuletzt geupdated: 20.November
 [[3. Integration]]
 [[4. Loesen von Gleichungssystemen]]
 [[5. Differenzialgleichungen]]
+[[6. Nullstellen und Extrema]]

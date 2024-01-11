@@ -9,3 +9,4 @@ zuletzt geupdated: 17.November
 [[5. Grenzwerte und Stetigkeit von Funktionen]]
 [[6. Umkehrfunktionen und die Logarithmusfunktion]]
 [[7. Differentiation]]
+[[8. Integration]]
