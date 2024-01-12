@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md"
+                "file": "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md"
               }
             }
           }
@@ -148,13 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b97cdfe93aad9de1",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
+    "TUM/3.Semester/Analysis/8. Integration.md",
+    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+    "Reading/JB.md",
+    "Reading/Topics.md",
+    "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
     "Reading/Memory Models/Memory Models.md",
     "Reading/Memory Models/Load & Store Buffering.md",
     "TUM/3.Semester/Analysis/Analysis.md",
-    "TUM/3.Semester/Analysis/8. Integration.md",
-    "Reading/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
     "Reading/Memory Models/Examples of Memory Models.md",
     "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Analysis/4. Reihen.md",
@@ -175,7 +178,6 @@
     "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Untitled",
-    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
     "TUM/3.Semester/NumProg/3. Integration.md",
     "TUM/3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
     "TUM/3.Semester/NumProg/Images/Screenshot 2024-01-06 at 18.10.27.png",
@@ -183,9 +185,6 @@
     "Screenshot 2024-01-02 at 20.01.15.png",
     "TUM/2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
     "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
-    "Reading/JB.md",
-    "Reading/Topics.md",
-    "TUM/3.Semester/Analysis/3. Folgen.md",
     "TUM/3.Semester/NumProg/Images/IEEE Float.png",
     "Untitled.canvas",
     "Reading/Memory Models",

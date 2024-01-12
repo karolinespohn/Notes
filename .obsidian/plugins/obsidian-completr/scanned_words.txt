@@ -1540,6 +1540,7 @@ apD
 apr
 aLj
 arI
+additiv
 Sign
 Surjektivitaet
 Surjektion
@@ -2233,6 +2234,8 @@ Superblock
 SoI
 Slt
 SfffhLjzb
+Stammfunktionen
+Stammfunktion
 Bit
 Bijektion
 Bernstein
@@ -4777,6 +4780,7 @@ DZun
 Dzu
 DÄ
 Darboux
+Differenzial
 ist
 immer
 insbesondere
@@ -8600,6 +8604,7 @@ Arbeitsverzeichnis
 AWT
 ArW
 Allocation
+Abgeschlossenen
 zwischen
 zwei
 zu
@@ -13779,6 +13784,7 @@ serielle
 sqi
 smq
 stetige
+stetiges
 folgende
 falls
 folgendermassen
@@ -14728,6 +14734,7 @@ IUH
 Intuition
 Integrals
 Integrierbarkeit
+Integralrechnung
 Jedes
 Jede
 JE
@@ -18159,6 +18166,7 @@ USB
 Unterverzeichnisse
 UWu
 Unterintegral
+Umdrehen
 Graphik
 Gauss
 Gegeben
@@ -23583,6 +23591,7 @@ Hauptspeichergroesse
 HFm
 HJS
 HNP
+Hauptsatz
 YYy
 YkDTC
 Yw
