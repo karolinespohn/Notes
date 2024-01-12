@@ -429,6 +429,7 @@ Folgerung
 FhK
 FZf
 FAT
+Flaecheninhalte
 bestehen
 bringen
 bi
@@ -1551,6 +1552,7 @@ axYX
 aexE
 agi
 aFk
+angepasst
 Sign
 Surjektivitaet
 Surjektion
@@ -2751,6 +2753,10 @@ BQY
 BCB
 BTEXq
 Blockadressen
+Bis
+Baeumen
+Buckets
+Bucket
 Mantisse
 Menge
 Monotonie
@@ -3235,6 +3241,7 @@ MVE
 MYyT
 Mgk
 MvL
+Mehrdimensionale
 und
 um
 uQD
@@ -4281,6 +4288,10 @@ EKQ
 EGR
 EBHe
 ErF
+Erneut
+Elternschluessel
+Erweitertes
+Einfuegen
 Die
 Der
 Da
@@ -4809,6 +4820,7 @@ Dbb
 DKW
 DBQ
 DTL
+Datensaetze
 ist
 immer
 insbesondere
@@ -5847,6 +5859,7 @@ dzj
 dokBT
 dyD
 ddl
+durchzufuehren
 wodurch
 werden
 wenn
@@ -7274,6 +7287,8 @@ eeXXZ
 externer
 eGeb
 eag
+erweiterten
+einschliesst
 Nachbar
 Notation
 Note
@@ -9975,6 +9990,8 @@ gic
 gdJ
 gSaT
 gehalten
+guten
+geclustered
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -10414,6 +10431,7 @@ Rav
 RLY
 RYO
 RTR
+Radix
 reelle
 rekursiv
 relevant
@@ -10910,6 +10928,7 @@ rtG
 rbw
 ruT
 rdFVYT
+rechte
 Zahl
 Zahlen
 Zeilenvektor
@@ -12357,6 +12376,8 @@ mzv
 mpa
 mJh
 msF
+mindestes
+mehrerer
 treten
 tPW
 ti
@@ -13240,6 +13261,7 @@ ltu
 lOy
 lCDx
 lOu
+logarithmisch
 sollte
 sich
 surjektiv
@@ -15700,6 +15722,7 @@ vgx
 verketteten
 vorhergehenden
 vwh
+verawandte
 Cantor
 CR
 CE
@@ -16088,6 +16111,7 @@ COQ
 CKK
 CWU
 Continguous
+Clustering
 Theorem
 TODO
 Tupel
@@ -16501,6 +16525,7 @@ TCy
 TCn
 TUV
 Tan
+Tiege
 Koerper
 Komplexe
 Körper
@@ -17002,6 +17027,8 @@ Kco
 KVlELj
 KvoG
 Kmu
+Knotenkapazitaet
+Knotens
 Vektoren
 Verschiedene
 Vertauschen
@@ -18674,6 +18701,7 @@ Gfn
 GCYe
 Gva
 GxC
+Grundlage
 ohne
 oE
 oqtQ
@@ -20802,6 +20830,8 @@ LBl
 Lzq
 List
 LIT
+Linke
+Logisch
 Qt
 QO
 Qx
@@ -23743,6 +23773,7 @@ Hauptsatz
 Hzp
 HAAv
 Hca
+Hashcodes
 YYy
 YkDTC
 Yw

@@ -8,3 +8,4 @@ zuletzt geupdated: 20. November
 [[4. Datenintegritaet]]
 [[5. Relationale Entwurfstheorie]]
 [[6. Physische Datenorganisation]]
+[[7. Anfragebearbeitung]]

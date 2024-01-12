@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md"
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md"
               }
             }
           }
@@ -149,11 +149,16 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
+    "TUM/3.Semester/Grundlagen Datenbanken/7. Anfragebearbeitung.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
+    "Screenshot 2024-01-12 at 17.06.05.png",
+    "Screenshot 2024-01-12 at 16.49.08.png",
+    "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/i-node Indirektionen.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/i-node.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
     "TUM/3.Semester/Analysis/7. Differentiation.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
     "TUM/3.Semester/Analysis/8. Integration.md",
     "Reading/JB.md",
@@ -176,16 +181,11 @@
     "Screenshot 2024-01-08 at 17.01.33 1.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Dateiattribute.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Binary.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Dateistruktur.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Untitled",
     "TUM/3.Semester/NumProg/3. Integration.md",
     "TUM/3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
-    "TUM/3.Semester/NumProg/Images/Screenshot 2024-01-06 at 18.10.27.png",
-    "TUM/2.Semester (public)/linalg/3. Komplexe Zahlen und Polar Koordinaten.md",
-    "Screenshot 2024-01-02 at 20.01.15.png",
-    "TUM/2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
     "Untitled.canvas",
     "Reading/Memory Models",
     "Memory Models",
