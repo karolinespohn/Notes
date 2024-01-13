@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
+                "file": "TUM/3.Semester/Analysis/8. Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
+                "file": "TUM/3.Semester/Analysis/8. Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
+                "file": "TUM/3.Semester/Analysis/8. Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Analysis/7. Differentiation.md"
+                "file": "TUM/3.Semester/Analysis/8. Integration.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
     "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Analysis/4. Reihen.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
