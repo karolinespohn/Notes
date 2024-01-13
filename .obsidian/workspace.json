@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "49644236c393a281",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md"
+                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md"
               }
             }
           }
@@ -149,9 +150,14 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
+    "TUM/3.Semester/Analysis/4. Reihen.md",
+    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
+    "TUM/3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
     "TUM/3.Semester/Grundlagen Datenbanken/7. Anfragebearbeitung.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
     "Screenshot 2024-01-12 at 17.06.05.png",
     "Screenshot 2024-01-12 at 16.49.08.png",
@@ -168,7 +174,6 @@
     "Reading/Memory Models/Load & Store Buffering.md",
     "TUM/3.Semester/Analysis/Analysis.md",
     "Reading/Memory Models/Examples of Memory Models.md",
-    "TUM/3.Semester/Analysis/4. Reihen.md",
     "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
     "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
@@ -181,11 +186,7 @@
     "Screenshot 2024-01-08 at 17.01.33 1.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Dateiattribute.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Binary.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/GBS.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Untitled",
-    "TUM/3.Semester/NumProg/3. Integration.md",
-    "TUM/3.Semester/NumProg/4. Loesen von Gleichungssystemen.md",
     "Untitled.canvas",
     "Reading/Memory Models",
     "Memory Models",

@@ -1553,6 +1553,8 @@ aexE
 agi
 aFk
 angepasst
+analysiert
+aequivalenter
 Sign
 Surjektivitaet
 Surjektion
@@ -5860,6 +5862,7 @@ dokBT
 dyD
 ddl
 durchzufuehren
+deklarative
 wodurch
 werden
 wenn
@@ -7289,6 +7292,7 @@ eGeb
 eag
 erweiterten
 einschliesst
+extensiven
 Nachbar
 Notation
 Note
@@ -8671,6 +8675,7 @@ Allocation
 Abgeschlossenen
 Axd
 ASQ
+Ausdruck
 zwischen
 zwei
 zu
@@ -13892,6 +13897,8 @@ stetige
 stetiges
 sPO
 schneller
+syntaktisch
+semantisch
 folgende
 falls
 folgendermassen
