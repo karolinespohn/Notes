@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md"
+                "file": "TUM/3.Semester/Analysis/7. Differentiation.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "b97cdfe93aad9de1",
   "lastOpenFiles": [
+    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Analysis/4. Reihen.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/6. Inter-Prozesskommunikation.md",
@@ -164,7 +168,6 @@
     "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/i-node Indirektionen.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/i-node.png",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
     "TUM/3.Semester/Analysis/8. Integration.md",
     "Reading/JB.md",
@@ -174,12 +177,9 @@
     "Reading/Memory Models/Load & Store Buffering.md",
     "TUM/3.Semester/Analysis/Analysis.md",
     "Reading/Memory Models/Examples of Memory Models.md",
-    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
     "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
     "TUM/3.Semester/NumProg/6. Nullstellen und Extrema.md",
     "TUM/3.Semester/NumProg/Numerische Programmierung.md",
-    "README.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Single Level Verzeichnise.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Partition Festplatte.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Hierarchische Verzeichnise.png",

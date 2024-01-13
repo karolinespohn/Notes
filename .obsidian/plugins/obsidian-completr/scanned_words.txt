@@ -7293,6 +7293,7 @@ eag
 erweiterten
 einschliesst
 extensiven
+ebenfalls
 Nachbar
 Notation
 Note
@@ -18709,6 +18710,7 @@ GCYe
 Gva
 GxC
 Grundlage
+Gleichermassen
 ohne
 oE
 oqtQ
