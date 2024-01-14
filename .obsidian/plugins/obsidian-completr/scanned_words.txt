@@ -934,6 +934,7 @@ beschreibt
 bhP
 bTGJ
 bBq
+beider
 aus
 an
 als
@@ -1555,6 +1556,7 @@ aFk
 angepasst
 analysiert
 aequivalenter
+ausgewaehlte
 Sign
 Surjektivitaet
 Surjektion
@@ -4294,6 +4296,7 @@ Erneut
 Elternschluessel
 Erweitertes
 Einfuegen
+Entsprechend
 Die
 Der
 Da
@@ -5863,6 +5866,7 @@ dyD
 ddl
 durchzufuehren
 deklarative
+durchschnittlichen
 wodurch
 werden
 wenn
@@ -6698,6 +6702,7 @@ jdkS
 jna
 jHIq
 jZj
+jeweis
 einen
 erfuellen
 einem
@@ -8677,6 +8682,9 @@ Abgeschlossenen
 Axd
 ASQ
 Ausdruck
+Ausdruckoptimierer
+Auswertungsplans
+Aequivalenzerhaltende
 zwischen
 zwei
 zu
@@ -9998,6 +10006,8 @@ gSaT
 gehalten
 guten
 geclustered
+gestalten
+gleichmaessiger
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -10935,6 +10945,7 @@ rbw
 ruT
 rdFVYT
 rechte
+rechtsseitigen
 Zahl
 Zahlen
 Zeilenvektor
@@ -13268,6 +13279,7 @@ lOy
 lCDx
 lOu
 logarithmisch
+landen
 sollte
 sich
 surjektiv
@@ -16534,6 +16546,7 @@ TCn
 TUV
 Tan
 Tiege
+Transformationsregeln
 Koerper
 Komplexe
 Körper
@@ -20841,6 +20854,7 @@ List
 LIT
 Linke
 Logisch
+Landausymbolen
 Qt
 QO
 Qx
@@ -23783,6 +23797,7 @@ Hzp
 HAAv
 Hca
 Hashcodes
+Hashjoins
 YYy
 YkDTC
 Yw

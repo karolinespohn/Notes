@@ -1,5 +1,5 @@
 # Flashcards
-zuletzt geupdated: 17.November
+zuletzt geupdated: 13.01
 [Flashcards](https://ankiweb.net/shared/info/1741929116)
 # Mitschrift
 [[1. Mengen]]
