@@ -430,6 +430,7 @@ FhK
 FZf
 FAT
 Flaecheninhalte
+Fliesskommazahlen
 bestehen
 bringen
 bi
@@ -1557,6 +1558,9 @@ angepasst
 analysiert
 aequivalenter
 ausgewaehlte
+abgezogen
+approximierte
+alles
 Sign
 Surjektivitaet
 Surjektion
@@ -2254,6 +2258,12 @@ Stammfunktionen
 Stammfunktion
 SPo
 SSSM
+Symbolic
+Standard
+Startpunkt
+Seidel
+SOR
+Separation
 Bit
 Bijektion
 Bernstein
@@ -2761,6 +2771,7 @@ Bis
 Baeumen
 Buckets
 Bucket
+BIAS
 Mantisse
 Menge
 Monotonie
@@ -3246,6 +3257,7 @@ MYyT
 Mgk
 MvL
 Mehrdimensionale
+Mantissenbits
 und
 um
 uQD
@@ -4297,6 +4309,9 @@ Elternschluessel
 Erweitertes
 Einfuegen
 Entsprechend
+Effizienz
+Exponentenbits
+Exponenten
 Die
 Der
 Da
@@ -5357,6 +5372,7 @@ ijC
 iitU
 iQA
 irZL
+iterative
 diskret
 dargestellt
 dann
@@ -5867,6 +5883,8 @@ ddl
 durchzufuehren
 deklarative
 durchschnittlichen
+deuten
+direkt
 wodurch
 werden
 wenn
@@ -6350,6 +6368,8 @@ wQy
 wfc
 wet
 weiteren
+wahren
+wohin
 jeder
 jede
 jeweils
@@ -7299,6 +7319,9 @@ erweiterten
 einschliesst
 extensiven
 ebenfalls
+entsprechenden
+eindeutige
+egal
 Nachbar
 Notation
 Note
@@ -7712,6 +7735,7 @@ NvR
 NQB
 Nfff
 Nodes
+Normierung
 hat
 heisst
 hoechstens
@@ -8113,6 +8137,7 @@ hnGoh
 hikCU
 hjjB
 hdm
+hinschreibt
 Abstand
 Auswahl
 Axiom
@@ -8685,6 +8710,9 @@ Ausdruck
 Ausdruckoptimierer
 Auswertungsplans
 Aequivalenzerhaltende
+Adressinformationen
+Analytisches
+Anschliessend
 zwischen
 zwei
 zu
@@ -9468,6 +9496,7 @@ nRA
 nhhj
 nodes
 node
+neq
 gleich
 gerundet
 gute
@@ -10008,6 +10037,7 @@ guten
 geclustered
 gestalten
 gleichmaessiger
+gerundete
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -10448,6 +10478,10 @@ RLY
 RYO
 RTR
 Radix
+Referenzen
+Residuum
+Richtungsvektor
+Richardson
 reelle
 rekursiv
 relevant
@@ -10946,6 +10980,7 @@ ruT
 rdFVYT
 rechte
 rechtsseitigen
+resultiert
 Zahl
 Zahlen
 Zeilenvektor
@@ -12395,6 +12430,7 @@ mJh
 msF
 mindestes
 mehrerer
+manchmal
 treten
 tPW
 ti
@@ -13912,6 +13948,10 @@ sPO
 schneller
 syntaktisch
 semantisch
+sucht
+separiert
+schliesslich
+stabil
 folgende
 falls
 folgendermassen
@@ -14377,6 +14417,9 @@ fDc
 fVWl
 fjU
 fbg
+float
+formuliert
+formt
 Idempotenz
 Injektion
 Injektionen
@@ -14870,6 +14913,7 @@ IDATC
 Iss
 IOWWW
 Index
+Indirektionen
 Jedes
 Jede
 JE
@@ -15214,6 +15258,7 @@ Jjf
 JHO
 JTn
 JKF
+Jacobi
 von
 vorgibt
 verwendet
@@ -15743,6 +15788,8 @@ verketteten
 vorhergehenden
 vwh
 verawandte
+verlinkte
+vergenauert
 Cantor
 CR
 CE
@@ -16547,6 +16594,7 @@ TUV
 Tan
 Tiege
 Transformationsregeln
+Termen
 Koerper
 Komplexe
 Körper
@@ -17050,6 +17098,7 @@ KvoG
 Kmu
 Knotenkapazitaet
 Knotens
+Komma
 Vektoren
 Verschiedene
 Vertauschen
@@ -17522,6 +17571,11 @@ VSMj
 Vbt
 VQXQW
 VfJZ
+Verzeichniseintraege
+Verzeichniseintrag
+Verweis
+Vorzeichenbit
+Vorkommen
 Objekte
 Objekten
 Ordnung
@@ -18331,6 +18385,8 @@ Unterintegral
 Umdrehen
 UKT
 UUUL
+Umformulierung
+Umformen
 Graphik
 Gauss
 Gegeben
@@ -18724,6 +18780,7 @@ Gva
 GxC
 Grundlage
 Gleichermassen
+Gemeinsame
 ohne
 oE
 oqtQ
@@ -20855,6 +20912,8 @@ LIT
 Linke
 Logisch
 Landausymbolen
+Links
+Leipniz
 Qt
 QO
 Qx
@@ -23798,6 +23857,9 @@ HAAv
 Hca
 Hashcodes
 Hashjoins
+Heap
+Hashtabelle
+Hard
 YYy
 YkDTC
 Yw
