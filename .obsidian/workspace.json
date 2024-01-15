@@ -11,11 +11,9 @@
             "id": "b97cdfe93aad9de1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
-                "mode": "source",
-                "source": false
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/Images/Clustering.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/Images/Clustering.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/Images/Clustering.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md"
+                "file": "TUM/3.Semester/Grundlagen Datenbanken/Images/Clustering.png"
               }
             }
           }
@@ -147,14 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b97cdfe93aad9de1",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
+    "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
     "TUM/3.Semester/NumProg/Numerische Programmierung.md",
     "TUM/3.Semester/NumProg/6. Nullstellen und Extrema.md",
     "TUM/3.Semester/NumProg/2. Interpolation.md",
     "TUM/3.Semester/NumProg/3. Integration.md",
     "TUM/3.Semester/NumProg/1. Floating Point Numbers.md",
-    "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
     "TUM/3.Semester/IT Sec/1. Begriffe und Grundlagen.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/7. Speicherverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
@@ -172,7 +170,7 @@
     "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
     "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
-    "Screenshot 2024-01-12 at 17.06.05.png",
+    "TUM/3.Semester/Grundlagen Datenbanken/Images/Clustering.png",
     "Screenshot 2024-01-12 at 16.49.08.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/i-node Indirektionen.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/i-node.png",
