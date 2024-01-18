@@ -9,3 +9,5 @@ zuletzt geupdated: 5. Dezember
 [[5. Modellierung Paralleler Systeme]]
 [[6. Inter-Prozesskommunikation]]
 [[7. Speicherverwaltung]]
+[[8. Dateisysteme]]
+[[9. Ein- & Ausgabe]]
