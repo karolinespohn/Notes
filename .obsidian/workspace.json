@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b97cdfe93aad9de1",
+            "id": "50068502b463fa19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Analysis/8. Integration.md",
+                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Analysis/8. Integration.md",
+                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Analysis/8. Integration.md",
+                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Analysis/8. Integration.md"
+                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md"
               }
             }
           }
@@ -148,22 +148,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b97cdfe93aad9de1",
+  "active": "50068502b463fa19",
   "lastOpenFiles": [
+    "TUM/3.Semester/IT Sec/6. Public Key Infrastructure.md",
+    "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
+    "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
+    "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
+    "TUM/3.Semester/IT Sec/Images/Linux ACL.png",
+    "TUM/3.Semester/IT Sec/Images/Capabilities.png",
+    "TUM/3.Semester/IT Sec/Images/Sparse Matrizen.png",
+    "TUM/3.Semester/IT Sec/Images/Bell-LaPadula.png",
+    "TUM/3.Semester/IT Sec/Images/Screenshot 2024-01-19 at 08.51.35.png",
+    "TUM/3.Semester/IT Sec/IT Sec.md",
+    "TUM/3.Semester/Analysis/8. Integration.md",
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
+    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Sektor.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Track.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Platter.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Cylinder, Platters.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Festplatte.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Spooler.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Einheitliche Schnittstellen.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/9. Ein- & Ausgabe.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Geraete Treiber.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Direct Memory Access.png",
     "README.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/4. Parallele Systeme und Synchronisation.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Aufbau EA System.png",
     "TUM/3.Semester/Grundlagen Datenbanken/7. Anfragebearbeitung.md",
     "TUM/3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
@@ -173,18 +181,10 @@
     "TUM/3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
     "TUM/3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
     "TUM/3.Semester/Analysis/3. Folgen.md",
-    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
-    "TUM/3.Semester/Analysis/8. Integration.md",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
     "TUM/3.Semester/Analysis/Analysis.md",
     "Reading/JB.md",
-    "TUM/3.Semester/NumProg/5. Differenzialgleichungen.md",
-    "TUM/3.Semester/NumProg/Numerische Programmierung.md",
-    "TUM/3.Semester/NumProg/6. Nullstellen und Extrema.md",
-    "TUM/3.Semester/NumProg/2. Interpolation.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Untitled",
     "Untitled.canvas",
     "Reading/Memory Models",
