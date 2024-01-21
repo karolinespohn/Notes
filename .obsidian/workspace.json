@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c242e73dac6faaab",
+        "id": "15c82a02805d3d31",
         "type": "tabs",
         "children": [
           {
-            "id": "50068502b463fa19",
+            "id": "9a4a9b49c50b758f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
-                "mode": "source",
-                "source": false
+                "file": "TUM/3.Semester/IT Sec/Images/OAuth.png"
               }
             }
           }
@@ -49,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "punktweise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
+                "file": "TUM/3.Semester/IT Sec/Images/OAuth.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
+                "file": "TUM/3.Semester/IT Sec/Images/OAuth.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md"
+                "file": "TUM/3.Semester/IT Sec/Images/OAuth.png"
               }
             }
           }
@@ -148,26 +145,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50068502b463fa19",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
+    "TUM/3.Semester/IT Sec/Images/ACL.png",
+    "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
+    "TUM/3.Semester/IT Sec/Images/OAuth.png",
     "TUM/3.Semester/IT Sec/6. Public Key Infrastructure.md",
     "TUM/3.Semester/IT Sec/7. Netzwerksicherheit.md",
-    "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
     "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
+    "TUM/3.Semester/IT Sec/Images/Zugriffsmatrix.png",
+    "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
+    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
+    "TUM/3.Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+    "TUM/3.Semester/IT Sec/4. Schluesselmanagement.md",
+    "TUM/3.Semester/IT Sec/5. Authentisierung.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "TUM/3.Semester/IT Sec/Images/Linux ACL.png",
     "TUM/3.Semester/IT Sec/Images/Capabilities.png",
     "TUM/3.Semester/IT Sec/Images/Sparse Matrizen.png",
     "TUM/3.Semester/IT Sec/Images/Bell-LaPadula.png",
-    "TUM/3.Semester/IT Sec/Images/Screenshot 2024-01-19 at 08.51.35.png",
     "TUM/3.Semester/IT Sec/IT Sec.md",
     "TUM/3.Semester/Analysis/8. Integration.md",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
-    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Sektor.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Track.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Platter.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Cylinder, Platters.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/9. Ein- & Ausgabe.md",
     "README.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
@@ -175,16 +180,8 @@
     "TUM/3.Semester/Grundlagen Datenbanken/7. Anfragebearbeitung.md",
     "TUM/3.Semester/Grundlagen Datenbanken/2. Relationales Datenmodell.md",
     "TUM/3.Semester/Grundlagen Datenbanken/1. Konzeptuelle Modellierung.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/6. Physische Datenorganisation.md",
     "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/4. Datenintegritaet.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/3. Relationale Anfragesprache.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "TUM/3.Semester/Analysis/3. Folgen.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
-    "TUM/3.Semester/Analysis/Analysis.md",
-    "Reading/JB.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Untitled",
     "Untitled.canvas",
     "Reading/Memory Models",
