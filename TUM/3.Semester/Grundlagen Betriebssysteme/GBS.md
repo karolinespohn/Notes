@@ -1,5 +1,5 @@
 # Flashcards
-zuletzt geupdated: 5. Dezember
+zuletzt geupdated: 23. Jaenner
 [Flashcards](https://ankiweb.net/shared/info/718098908)
 # Mitschrift
 [[1. Grundlegende Konzepte Betriebssysteme]]
