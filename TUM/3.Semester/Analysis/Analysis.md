@@ -10,3 +10,5 @@ zuletzt geupdated: 16.01
 [[6. Umkehrfunktionen und die Logarithmusfunktion]]
 [[7. Differentiation]]
 [[8. Integration]]
+[[9. Mehrdimensionale Differenzialrechnung]]
+[[10. Potenzreihen und Taylor Entwicklung]]
