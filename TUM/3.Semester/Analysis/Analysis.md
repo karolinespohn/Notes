@@ -12,3 +12,5 @@ zuletzt geupdated: 16.01
 [[8. Integration]]
 [[9. Mehrdimensionale Differenzialrechnung]]
 [[10. Potenzreihen und Taylor Entwicklung]]
+# Tricks und Muster
+- [[Tricks und Muster]] aus den Hausaufgaben und Tutorien, die ich mir fuer die Klausur merken moechte

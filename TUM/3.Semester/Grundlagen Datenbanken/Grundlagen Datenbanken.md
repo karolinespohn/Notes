@@ -9,3 +9,5 @@ zuletzt geupdated: 17. Jaenner
 [[5. Relationale Entwurfstheorie]]
 [[6. Physische Datenorganisation]]
 [[7. Anfragebearbeitung]]
+[[8. Transaktionsverwaltung]]
+[[9. Fehlerbehandlung]]
