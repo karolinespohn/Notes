@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/Analysis/10. Potenzreihen und Taylor Entwicklung.md",
+                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/Analysis/10. Potenzreihen und Taylor Entwicklung.md",
+                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/Analysis/10. Potenzreihen und Taylor Entwicklung.md",
+                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/Analysis/10. Potenzreihen und Taylor Entwicklung.md"
+                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md"
               }
             }
           }
@@ -151,41 +150,42 @@
   "active": "b6bf46b09cec6dc2",
   "lastOpenFiles": [
     "TUM/3.Semester/Analysis/9. Mehrdimensionale Differenzialrechnung.md",
+    "TUM/2.Semester (public)/linalg/13. Skalarprodukte.md",
+    "Reading/Memory Models/Load & Store Buffering.md",
+    "Reading/JB.md",
+    "TUM/2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
+    "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+    "TUM/3.Semester/Analysis/3. Folgen.md",
+    "TUM/3.Semester/Analysis/8. Integration.md",
+    "TUM/3.Semester/Analysis/4. Reihen.md",
+    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3.Semester/Analysis/7. Differentiation.md",
+    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "TUM/3.Semester/Analysis/10. Potenzreihen und Taylor Entwicklung.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/9. Fehlerbehandlung.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/8. Transaktionsverwaltung.md",
+    "TUM/3.Semester/NumProg/Numerische Programmierung.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/10. Mehrbenutzersynchronisation.md",
+    "TUM/3.Semester/Analysis/Analysis.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/10. Virtualisierung.md",
+    "TUM/3.Semester/Analysis/1. Mengen.md",
+    "TUM/3.Semester/Grundlagen Datenbanken/Images/hierarchische Anordnung moeglicher Speichersegmente.png",
+    "TUM/3.Semester/Grundlagen Datenbanken/Images/kaskadieredes Ruecksetzen.png",
+    "TUM/3.Semester/Grundlagen Datenbanken/Images/Phantomprobleme.png",
+    "TUM/3.Semester/Grundlagen Datenbanken/Images/dirty reads.png",
+    "TUM/3.Semester/Grundlagen Datenbanken/Images/lost update.png",
+    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
+    "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
+    "TUM/3.Semester/IT Sec/IT Sec.md",
+    "TUM/3.Semester/IT Sec/Images/Hypervisor.png",
+    "TUM/3.Semester/IT Sec/Images/Stack.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/9. Ein- & Ausgabe.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Second Level Address Translation.png",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Virtual User and System Mode.png",
     "TUM/3.Semester/NumProg/6. Iterative Methoden.md",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
-    "TUM/3.Semester/Analysis/Tricks und Muster/Grenzwerte.md",
-    "TUM/3.Semester/Analysis/Tricks und Muster/Tricks und Muster.md",
-    "TUM/3.Semester/Analysis/Analysis.md",
     "TUM/3.Semester/Analysis/Tricks und Muster",
-    "TUM/3.Semester/Analysis/Tricks.md",
-    "TUM/3.Semester/Analysis/10. Potenzreihen und Taylor Entwicklung.md",
-    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
-    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "TUM/3.Semester/Analysis/4. Reihen.md",
-    "TUM/3.Semester/Analysis/3. Folgen.md",
-    "TUM/3.Semester/Analysis/8. Integration.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/9. Fehlerbehandlung.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/8. Transaktionsverwaltung.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Images/ISA und ABI.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/GBS.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
-    "TUM/3.Semester/NumProg/7. Eigenwerte.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Treiber Prozesskommunikation.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Uhr.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Verkettete Liste.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/virtual file system.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/von Neumann.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/Images/RAID 5.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/Images/RAID 4.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/5. Relationale Entwurfstheorie.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/5. Modellierung Paralleler Systeme.md",
-    "TUM/3.Semester/Analysis/Images/Untitled.md",
-    "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
     "TUM/3.Semester/Grundlagen Betriebssysteme/Untitled",
     "Untitled.canvas",
     "Reading/Memory Models",
