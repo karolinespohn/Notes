@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6bf46b09cec6dc2",
+            "id": "d9744b1e1c97f4a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "49644236c393a281",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/3.Semester/IT Sec/9. Systemsicherheit.md"
+                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,56 +149,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6bf46b09cec6dc2",
+  "active": "d9744b1e1c97f4a7",
   "lastOpenFiles": [
-    "TUM/3.Semester/Analysis/9. Mehrdimensionale Differenzialrechnung.md",
-    "TUM/2.Semester (public)/linalg/13. Skalarprodukte.md",
-    "Reading/Memory Models/Load & Store Buffering.md",
-    "Reading/JB.md",
-    "TUM/2.Semester (public)/linalg/2. Komplexe Zahlen & karthesische Koordinaten.md",
-    "TUM/3.Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
-    "TUM/3.Semester/Analysis/3. Folgen.md",
-    "TUM/3.Semester/Analysis/8. Integration.md",
-    "TUM/3.Semester/Analysis/4. Reihen.md",
-    "TUM/3.Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "TUM/3.Semester/Analysis/7. Differentiation.md",
-    "TUM/3.Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
-    "TUM/3.Semester/Analysis/10. Potenzreihen und Taylor Entwicklung.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/9. Fehlerbehandlung.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/8. Transaktionsverwaltung.md",
-    "TUM/3.Semester/NumProg/Numerische Programmierung.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/10. Mehrbenutzersynchronisation.md",
-    "TUM/3.Semester/Analysis/Analysis.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/10. Virtualisierung.md",
-    "TUM/3.Semester/Analysis/1. Mengen.md",
-    "TUM/3.Semester/Grundlagen Datenbanken/Images/hierarchische Anordnung moeglicher Speichersegmente.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/Images/kaskadieredes Ruecksetzen.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/Images/Phantomprobleme.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/Images/dirty reads.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/Images/lost update.png",
-    "TUM/3.Semester/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
-    "TUM/3.Semester/IT Sec/9. Systemsicherheit.md",
-    "TUM/3.Semester/IT Sec/8. Zugriffskontrolle.md",
-    "TUM/3.Semester/IT Sec/IT Sec.md",
-    "TUM/3.Semester/IT Sec/Images/Hypervisor.png",
-    "TUM/3.Semester/IT Sec/Images/Stack.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/9. Ein- & Ausgabe.md",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Second Level Address Translation.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/Virtual User and System Mode.png",
-    "TUM/3.Semester/NumProg/6. Iterative Methoden.md",
-    "TUM/3.Semester/Analysis/Tricks und Muster",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Images/ISA und ABI.png",
-    "TUM/3.Semester/Grundlagen Betriebssysteme/Untitled",
+    "TUM/4. Semester/Theoretische Informatik/Theoretische Informatik.md",
+    "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
+    "TUM/4. Semester/Modelbildung und Simulation/Modelbildung und Simulation.md",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Grundlagen Rechnernetze und Verteilte Systeme.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Diskrete Wahrscheinlichkeitstheorie.md",
+    "TUM/4. Semester/4. Semester.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Untitled",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie",
+    "TUM/4. Semester/Modelbildung und Simulation",
+    "TUM/4. Semester/Theoretische Informatik",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 15.29.40.png",
+    "TUM/4. Semester",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 13.26.57.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 13.17.53.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 13.16.19.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.38.36.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 13.13.58.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.54.59.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.50.11.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.48.32.png",
+    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.36.13.png",
+    "Reading/Interviews/Google Apr 24/images",
+    "Reading/Interviews/Google Apr 24/Graphen.md",
+    "Reading/Interviews/Google Apr 24/Algorithmen und Datenstrukturen.md",
+    "Reading/Interviews/Google Apr 24/Suchstrukruren.md",
+    "Reading/Interviews/Google Apr 24/Datenstrukturen.md",
+    "Reading/Topics.md",
+    "Reading/Interviews/Google Apr 24/Priority Queues.md",
+    "Reading/Interviews/Google Apr 24/Sortieren.md",
+    "Reading/Interviews/Google Apr 24/Hashing.md",
+    "TUM/2.Semester/gad/3. Rechenregeln für die O-Notation.md",
+    "TUM/2.Semester/gad/4. Datenstrukturen für Sequenzen.md",
+    "TUM/2.Semester/gad/Graphen.md",
+    "Reading/Interviews/Google Apr 24/Sortieren/Bubble Sort.md",
+    "Reading/Interviews/Google Apr 24/Sortieren",
+    "Reading/Interviews/JB Jan 24/JB.md",
+    "Reading/Interviews/Google Apr 24",
+    "Reading/Interviews/JB Jan 24",
+    "TUM/2. Semester (public)/linalg/7. Kryptologie.md",
+    "TUM/3. Semester/IT Sec/7. Netzwerksicherheit.md",
+    "TUM/3. Semester/IT Sec/6. Public Key Infrastructure.md",
+    "TUM/3. Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
+    "TUM/3. Semester/IT Sec/4. Schluesselmanagement.md",
+    "TUM/3. Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
+    "TUM/3. Semester/IT Sec/2. Kryptographie.md",
     "Untitled.canvas",
-    "Reading/Memory Models",
-    "Memory Models",
-    "Reading/Images",
-    "Reading",
-    "TUM",
     "Untitled 1.canvas",
-    "github.com/AntonScheitler",
-    "github.com",
-    "TUM/2.Semester (public)",
     "Untitled 2.canvas",
     "Untitled 3.canvas"
   ]

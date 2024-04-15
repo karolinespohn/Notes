@@ -1,5 +1,0 @@
-- Komplexe Zahl mit konjugiert komplexem des Nenners erweitern -> Nenner wird reell
-- Beispiele:
-	-  $\frac{1}{2+3i} \cdot \frac{2-3i}{2-3i} = \frac{2-3i}{13} = \frac{2}{12} - \frac{3}{13}i$
-	-  $\frac{3+i}{4-2i}\cdot \frac{4 + 2i}{4 + 2i} = \frac{10+10i}{20}=\frac 12 +\frac 12 i$
-	-  $\frac 1i \cdot \frac{-1}{-1} = -i$ 

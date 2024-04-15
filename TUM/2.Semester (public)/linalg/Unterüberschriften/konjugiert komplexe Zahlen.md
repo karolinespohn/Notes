@@ -1,8 +1,0 @@
-- Jede komplexe Zahl $z = a + bi$ hat eine konjugiert komplexe Zahlen  $\overline z = a - bi$
-- Sie ist entlang der ersten Achse gespiegelt.
-- $\overline {\overline z} = z$
-- $\overline z = z \equiv b = 0$
-- $a + ib = a -ib$
-- $\overline{z_1 + z_2} = \overline z_1 + \overline z_2$ [[Beweis der Additivität & Multiplikativität des Konjugierens|(Beweis)]]
-- $\overline{z_1 \cdot z_2} = \overline z_1 \cdot \overline z_2$ [[Beweis der Additivität & Multiplikativität des Konjugierens|(Beweis)]]
-- Wenn ein reelles Polynom eine komplexe Nullstelle $n$ hat, ist $\overline n$ auch eine Nullstelle [[Beweis komplex konjugierte Nullstellen|(Beweis)]] 
