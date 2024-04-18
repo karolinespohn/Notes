@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md"
+                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md"
               }
             }
           }
@@ -151,15 +151,29 @@
   },
   "active": "d9744b1e1c97f4a7",
   "lastOpenFiles": [
-    "TUM/4. Semester/Theoretische Informatik/Theoretische Informatik.md",
+    "Screenshot 2024-04-18 at 16.28.55.png",
     "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
-    "TUM/4. Semester/Modelbildung und Simulation/Modelbildung und Simulation.md",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Grundlagen Rechnernetze und Verteilte Systeme.md",
+    "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
+    "TUM/4. Semester/Theoretische Informatik/Theoretische Informatik.md",
+    "TUM/4. Semester/Modeling and Simulation/1. Focus Analysis.md",
+    "TUM/4. Semester/Modeling and Simulation/Images/Screenshot 2024-04-17 at 15.20.49.png",
+    "TUM/4. Semester/Modeling and Simulation/Images/Screenshot 2024-04-17 at 15.12.31.png",
+    "TUM/4. Semester/Modeling and Simulation/Images/Screenshot 2024-04-17 at 10.03.12.png",
+    "TUM/4. Semester/Modeling and Simulation/Images",
+    "TUM/3. Semester/Analysis/9. Mehrdimensionale Differenzialrechnung.md",
+    "TUM/4. Semester/Modeling and Simulation/Modeling and Simulation.md",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Diskrete Wahrscheinlichkeitstheorie.md",
     "TUM/4. Semester/4. Semester.md",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/1. Physikalische Schicht.md",
+    "TUM/3. Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
+    "TUM/3. Semester/Analysis/3. Folgen.md",
+    "TUM/3. Semester/Analysis/4. Reihen.md",
+    "TUM/3. Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
+    "TUM/3. Semester/Analysis/6. Umkehrfunktionen und die Logarithmusfunktion.md",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Grundlagen Rechnernetze und Verteilte Systeme.md",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Untitled",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie",
-    "TUM/4. Semester/Modelbildung und Simulation",
+    "TUM/4. Semester/Modeling and Simulation",
     "TUM/4. Semester/Theoretische Informatik",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme",
     "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 15.29.40.png",
@@ -170,9 +184,6 @@
     "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.38.36.png",
     "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 13.13.58.png",
     "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.54.59.png",
-    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.50.11.png",
-    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.48.32.png",
-    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.36.13.png",
     "Reading/Interviews/Google Apr 24/images",
     "Reading/Interviews/Google Apr 24/Graphen.md",
     "Reading/Interviews/Google Apr 24/Algorithmen und Datenstrukturen.md",
@@ -184,19 +195,8 @@
     "Reading/Interviews/Google Apr 24/Hashing.md",
     "TUM/2.Semester/gad/3. Rechenregeln für die O-Notation.md",
     "TUM/2.Semester/gad/4. Datenstrukturen für Sequenzen.md",
-    "TUM/2.Semester/gad/Graphen.md",
-    "Reading/Interviews/Google Apr 24/Sortieren/Bubble Sort.md",
     "Reading/Interviews/Google Apr 24/Sortieren",
-    "Reading/Interviews/JB Jan 24/JB.md",
     "Reading/Interviews/Google Apr 24",
-    "Reading/Interviews/JB Jan 24",
-    "TUM/2. Semester (public)/linalg/7. Kryptologie.md",
-    "TUM/3. Semester/IT Sec/7. Netzwerksicherheit.md",
-    "TUM/3. Semester/IT Sec/6. Public Key Infrastructure.md",
-    "TUM/3. Semester/Grundlagen Betriebssysteme/8. Dateisysteme.md",
-    "TUM/3. Semester/IT Sec/4. Schluesselmanagement.md",
-    "TUM/3. Semester/IT Sec/3. Kryptographische Hashfunktionen und MAC.md",
-    "TUM/3. Semester/IT Sec/2. Kryptographie.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

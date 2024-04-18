@@ -1,0 +1,1 @@
+- Beim aufstellen der Potenzreihe einer Funktion, die zB $\sin, \cos$ oder $\exp$ enthaelt, macht es Sinn die Unterfunktion durch ihre Potenzreihe zu ersetzen

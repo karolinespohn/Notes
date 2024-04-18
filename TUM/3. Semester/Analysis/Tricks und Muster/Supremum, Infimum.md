@@ -1,0 +1,2 @@
+- Um den $\limsup$ oder $\liminf$ ist es teils (zB. bei alternierenden Folgen) sinnvoll, nur den $\lim$ einer Teilfolge zu betrachten
+- Bei der Wahl der richtigen Teilfolge reicht das, weil es sich bei den Teilfolgengliedern um eine Untermenge der Folgengliedern handelt

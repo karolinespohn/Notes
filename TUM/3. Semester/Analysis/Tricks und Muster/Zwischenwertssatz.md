@@ -1,0 +1,1 @@
+- Eine Moeglichkeit, um zu zeigen, dass eine stetige Funktion im Intervall $(a, b)$ einen Wert $x$ annimmt, ist zu zeigen, dass $f(a)< x < f(b)$ 
