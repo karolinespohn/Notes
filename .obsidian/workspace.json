@@ -11,11 +11,9 @@
             "id": "d9744b1e1c97f4a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
-                "mode": "source",
-                "source": false
+                "file": "TUM/4. Semester/Theoretische Informatik/Images/Screenshot 2024-04-18 at 16.28.55.png"
               }
             }
           }
@@ -70,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "49644236c393a281",
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/Images/Screenshot 2024-04-18 at 16.28.55.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
+                "file": "TUM/4. Semester/Theoretische Informatik/Images/Screenshot 2024-04-18 at 16.28.55.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md"
+                "file": "TUM/4. Semester/Theoretische Informatik/Images/Screenshot 2024-04-18 at 16.28.55.png"
               }
             }
           }
@@ -149,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9744b1e1c97f4a7",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
-    "Screenshot 2024-04-18 at 16.28.55.png",
-    "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
+    "TUM/4. Semester/Theoretische Informatik/Images",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/2. Bedingte Wahrscheinlichkeiten.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1. Diskrete Wahrscheinlichkeitsraeume.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Diskrete Wahrscheinlichkeitstheorie.md",
     "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
+    "TUM/4. Semester/Theoretische Informatik/Images/Screenshot 2024-04-18 at 16.28.55.png",
+    "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
     "TUM/4. Semester/Theoretische Informatik/Theoretische Informatik.md",
     "TUM/4. Semester/Modeling and Simulation/1. Focus Analysis.md",
     "TUM/4. Semester/Modeling and Simulation/Images/Screenshot 2024-04-17 at 15.20.49.png",
@@ -162,7 +163,6 @@
     "TUM/4. Semester/Modeling and Simulation/Images",
     "TUM/3. Semester/Analysis/9. Mehrdimensionale Differenzialrechnung.md",
     "TUM/4. Semester/Modeling and Simulation/Modeling and Simulation.md",
-    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Diskrete Wahrscheinlichkeitstheorie.md",
     "TUM/4. Semester/4. Semester.md",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/1. Physikalische Schicht.md",
     "TUM/3. Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
@@ -183,7 +183,6 @@
     "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 13.16.19.png",
     "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.38.36.png",
     "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 13.13.58.png",
-    "Reading/Interviews/Google Apr 24/images/Screenshot 2024-03-23 at 12.54.59.png",
     "Reading/Interviews/Google Apr 24/images",
     "Reading/Interviews/Google Apr 24/Graphen.md",
     "Reading/Interviews/Google Apr 24/Algorithmen und Datenstrukturen.md",
@@ -193,8 +192,6 @@
     "Reading/Interviews/Google Apr 24/Priority Queues.md",
     "Reading/Interviews/Google Apr 24/Sortieren.md",
     "Reading/Interviews/Google Apr 24/Hashing.md",
-    "TUM/2.Semester/gad/3. Rechenregeln für die O-Notation.md",
-    "TUM/2.Semester/gad/4. Datenstrukturen für Sequenzen.md",
     "Reading/Interviews/Google Apr 24/Sortieren",
     "Reading/Interviews/Google Apr 24",
     "Untitled.canvas",
