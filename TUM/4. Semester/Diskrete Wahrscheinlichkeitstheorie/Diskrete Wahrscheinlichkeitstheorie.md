@@ -1,3 +1,6 @@
 [[1. Diskrete Wahrscheinlichkeitsraeume]]
-[[2. Bedingte Wahrscheinlichkeiten]]
-[[3. Unabhaengigkeit]]
+	[[1.2. Bedingte Wahrscheinlichkeiten und Unabhaengigkeit]]
+	[[1.3. Zufallsvariablen]]
+	[[1.4. Wichtige Diskrete Verteilungen]]
+	[[1.5. Abschaetzen von Wahrscheinlichkeiten]]
+	[[1.6. Erzeugende Funktionen]]

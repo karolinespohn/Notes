@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUM/4. Semester/Modeling and Simulation/2. Discrete Models.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TUM/4. Semester/Modeling and Simulation/2. Discrete Models.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TUM/4. Semester/Modeling and Simulation/2. Discrete Models.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TUM/4. Semester/Modeling and Simulation/2. Discrete Models.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,48 +148,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9744b1e1c97f4a7",
+  "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
-    "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
-    "TUM/4. Semester/Theoretische Informatik/3. Regulaere Ausdruecke.md",
-    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/4. Zufallsvariablen.md",
-    "Reading/Interviews/JB Jan 24/JB.md",
-    "Reading/Interviews/JB Jan 24/Memory Models/Load & Store Buffering.md",
-    "Reading/Interviews/JB Jan 24/Memory Models/Memory Models.md",
-    "Reading/Interviews/JB Jan 24/Memory Models/Notes on \"Making Weak Memory Models Fair\".md",
-    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/2. Bedingte Wahrscheinlichkeiten.md",
-    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/3. Unabhaengigkeit.md",
-    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1. Diskrete Wahrscheinlichkeitsraeume.md",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/1. Physikalische Schicht.md",
-    "TUM/4. Semester/Modeling and Simulation/2. Discrete Models.md",
-    "TUM/4. Semester/Modeling and Simulation/1. Modeling and Simulation.md",
-    "TUM/4. Semester/Modeling and Simulation/0. Focus Analysis.md",
-    "Screenshot 2024-04-29 at 14.38.20.png",
-    "Screenshot 2024-04-29 at 14.34.57.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Screenshot 2024-04-22 at 13.51.30.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Screenshot 2024-04-22 at 13.32.56.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Screenshot 2024-04-22 at 13.21.54.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Screenshot 2024-04-29 at 13.31.23.png",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Diskrete Wahrscheinlichkeitstheorie.md",
+    "Untitled.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1.6. Erzeugende Funktionen.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1.5. Abschaetzen von Wahrscheinlichkeiten.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1.4. Wichtige Diskrete Verteilungen.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1.3. Zufallsvariablen.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1.2. Bedingte Wahrscheinlichkeiten und Unabhaengigkeit.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1. Diskrete Wahrscheinlichkeitsraeume.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/3. Unabhaengigkeit.md",
+    "TUM/4. Semester/Theoretische Informatik/4. Kontextfreie Sprachen.md",
+    "TUM/4. Semester/Modeling and Simulation/3. Continuous Modeling and Simulation.md",
+    "TUM/4. Semester/Modeling and Simulation/2. Discrete Models.md",
     "TUM/4. Semester/Theoretische Informatik/Theoretische Informatik.md",
-    "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
+    "TUM/3. Semester/NumProg/5. Differenzialgleichungen.md",
     "TUM/4. Semester/Modeling and Simulation/Modeling and Simulation.md",
-    "TUM/4. Semester/Modeling and Simulation/Untitled 1.md",
-    "TUM/4. Semester/Theoretische Informatik/Images/Screenshot 2024-04-22 at 14.13.54.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images",
+    "TUM/3. Semester/NumProg/6. Iterative Methoden.md",
+    "TUM/4. Semester/Theoretische Informatik/1. Kommunikation mit Rechnern.md",
+    "TUM/4. Semester/Theoretische Informatik/3. Regulaere Ausdruecke.md",
+    "TUM/4. Semester/Theoretische Informatik/2. Regulaere Sprachen.md",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Images/Dichte der geometrischen Verteilung.png",
+    "Screenshot 2024-05-17 at 17.24.57 1.png",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Images/Dichte der Binomialverteilung.png",
+    "Screenshot 2024-05-17 at 16.58.02 1.png",
+    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Images",
+    "TUM/4. Semester/Modeling and Simulation/Images/precedence graph.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/3. Vermittlungsschicht.md",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/2. Sicherungsschicht.md",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Grundlagen Rechnernetze und Verteilte Systeme.md",
-    "TUM/4. Semester/Theoretische Informatik/Images/Screenshot 2024-04-18 at 16.28.55.png",
-    "TUM/4. Semester/Theoretische Informatik/Images",
-    "TUM/4. Semester/Modeling and Simulation/Images/Screenshot 2024-04-17 at 15.20.49.png",
-    "TUM/4. Semester/Modeling and Simulation/Images/Screenshot 2024-04-17 at 15.12.31.png",
-    "TUM/4. Semester/Modeling and Simulation/Images",
-    "TUM/3. Semester/Analysis/9. Mehrdimensionale Differenzialrechnung.md",
     "TUM/4. Semester/4. Semester.md",
-    "TUM/3. Semester/Analysis/2. Reelle Zahlen und Vektoren.md",
-    "TUM/3. Semester/Analysis/3. Folgen.md",
-    "TUM/3. Semester/Analysis/4. Reihen.md",
-    "TUM/3. Semester/Analysis/5. Grenzwerte und Stetigkeit von Funktionen.md",
-    "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Untitled",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Switch.png",
+    "TUM/4. Semester/Modeling and Simulation/Images/convexity.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Steuerzeichen.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Slotted ALOHA.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/RTS CTS.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/1. Physikalische Schicht.md",
+    "TUM/4. Semester/Modeling and Simulation/0. Focus Analysis.md",
+    "TUM/4. Semester/Modeling and Simulation/1. Modeling and Simulation.md",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images",
+    "TUM/4. Semester/Theoretische Informatik/Images",
+    "TUM/4. Semester/Modeling and Simulation/Images",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie",
     "TUM/4. Semester/Modeling and Simulation",
     "TUM/4. Semester/Theoretische Informatik",
