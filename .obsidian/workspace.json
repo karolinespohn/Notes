@@ -11,11 +11,9 @@
             "id": "d9744b1e1c97f4a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Adressaufloesung.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Adressaufloesung.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Adressaufloesung.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Adressaufloesung.png"
               }
             }
           }
@@ -150,6 +148,12 @@
   },
   "active": "a4221ffeffb82dbe",
   "lastOpenFiles": [
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/3. Vermittlungsschicht.md",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Adressaufloesung.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/IP-Header.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Paket Aufbau Layer 3.png",
+    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Beispielnetz.png",
+    "README.md",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Diskrete Wahrscheinlichkeitstheorie.md",
     "Untitled.md",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/1.6. Erzeugende Funktionen.md",
@@ -175,18 +179,11 @@
     "Screenshot 2024-05-17 at 16.58.02 1.png",
     "TUM/4. Semester/Diskrete Wahrscheinlichkeitstheorie/Images",
     "TUM/4. Semester/Modeling and Simulation/Images/precedence graph.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/3. Vermittlungsschicht.md",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/2. Sicherungsschicht.md",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Grundlagen Rechnernetze und Verteilte Systeme.md",
     "TUM/4. Semester/4. Semester.md",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Switch.png",
-    "TUM/4. Semester/Modeling and Simulation/Images/convexity.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Steuerzeichen.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/Slotted ALOHA.png",
-    "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images/RTS CTS.png",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/1. Physikalische Schicht.md",
-    "TUM/4. Semester/Modeling and Simulation/0. Focus Analysis.md",
-    "TUM/4. Semester/Modeling and Simulation/1. Modeling and Simulation.md",
     "TUM/4. Semester/Grundlagen Rechnernetze und Verteilte Systeme/Images",
     "TUM/4. Semester/Theoretische Informatik/Images",
     "TUM/4. Semester/Modeling and Simulation/Images",
