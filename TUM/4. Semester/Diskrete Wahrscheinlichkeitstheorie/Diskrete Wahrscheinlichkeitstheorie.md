@@ -4,3 +4,5 @@
 	[[1.4. Wichtige Diskrete Verteilungen]]
 	[[1.5. Abschaetzen von Wahrscheinlichkeiten]]
 	[[1.6. Erzeugende Funktionen]]
+[[2. Kontinuierliche Wahrscheinlickeitsraeume]]
+	[[2.1 Wichtige stetige Verteilungen]]
