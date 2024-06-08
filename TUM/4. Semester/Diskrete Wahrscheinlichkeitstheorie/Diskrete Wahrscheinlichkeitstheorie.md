@@ -6,3 +6,5 @@
 	[[1.6. Erzeugende Funktionen]]
 [[2. Kontinuierliche Wahrscheinlickeitsraeume]]
 	[[2.1 Wichtige stetige Verteilungen]]
+###### Flashcards:
+https://ankiweb.net/shared/info/875993911
