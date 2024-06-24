@@ -778,6 +778,7 @@ Fuzzification
 FMU
 FMV
 Fsx
+Faustregel
 bestehen
 bringen
 bi
@@ -1594,6 +1595,7 @@ bbv
 bvS
 bwH
 bUM
+binomialverteilte
 an
 als
 auf
@@ -2567,6 +2569,9 @@ aFR
 apP
 aOP
 app
+asymptotisch
+abzuleiten
+abhaengigkeit
 Sign
 Surjektivitaet
 Surjektion
@@ -3729,6 +3734,17 @@ StH
 Sqa
 SYg
 Shu
+Stetigkeitskorrektur
+Schaetzvariablen
+Schaetzvariable
+Stichproben
+Squared
+Stichprobenmittel
+Stichprobenvarianz
+Schaetzer
+Stichprobe
+Schaetzwert
+Schaetzern
 Bit
 Bijektion
 Bernstein
@@ -4563,6 +4579,7 @@ Bqab
 BVM
 BKM
 BAr
+Bias
 Mantisse
 Menge
 Monotonie
@@ -5364,6 +5381,9 @@ MIp
 MIk
 Myt
 Matching
+Moivre
+Mean
+MSE
 um
 uQD
 uky
@@ -7146,6 +7166,7 @@ Ereignisses
 EKq
 EQa
 EsU
+Entscheidbare
 Die
 Der
 Da
@@ -12169,6 +12190,8 @@ eXQ
 ewiV
 eRe
 eqT
+erwartungsgetreu
+erwartungstreue
 Nachbar
 Notation
 Note
@@ -16965,6 +16988,7 @@ gTZ
 gej
 gfC
 geometrischen
+gemessenen
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -19347,6 +19371,8 @@ ZTf
 ZAh
 Zrx
 ZTj
+Zentraler
+Zufallsgroessen
 kann
 koennen
 keine
@@ -22564,6 +22590,7 @@ laengeren
 linguistic
 lAb
 laD
+leerem
 sollte
 sich
 surjektiv
@@ -23578,6 +23605,8 @@ sFw
 sjw
 sAT
 seW
+standardnormalverteilt
+sim
 folgende
 falls
 folgendermassen
@@ -25154,6 +25183,7 @@ Inference
 IBaG
 IxG
 Iqy
+Induktiven
 Jedes
 Jede
 JE
@@ -26657,6 +26687,8 @@ vPd
 vlnn
 vYd
 vTkG
+verteilten
+varianz
 Cantor
 CR
 CE
@@ -28959,6 +28991,11 @@ Kompatibel
 KaGk
 KMd
 KUsa
+Keller
+Kopien
+Konfidenzintervalle
+Konfidenzniveau
+Konfidenzintervall
 Vektoren
 Verschiedene
 Vertauschen
@@ -31213,6 +31250,7 @@ UEyV
 UPqT
 Unp
 UkG
+Unabhaengigen
 Graphik
 Gauss
 Gegeben
@@ -31936,6 +31974,8 @@ Gedaechtnislosigkeit
 GMH
 Gru
 GxV
+Grenzwertsatz
+Gesetzmaessigkeiten
 ohne
 oE
 oqtQ
@@ -33500,6 +33540,7 @@ PqxQ
 PHx
 Pnx
 PgPr
+PDA
 Wenn
 Wähle
 Wichtig
@@ -34906,6 +34947,8 @@ qYeC
 qed
 qpW
 qBpSsI
+quantisieren
+quantitativ
 äquivalent
 äI
 äe
@@ -35656,6 +35699,7 @@ Longest
 Link
 Linguistic
 LtpP
+Likelihood
 Qt
 QO
 Qx
