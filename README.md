@@ -11,7 +11,3 @@
 - If you find any mistakes in my notes, you are welcome to open an issue and I will look into it as soon as I get to it
 
 Enjoy :)
-
-# Other topics
-- Sometimes I write notes on non-TUM related topics. 
-- These are probably not as interesting for you, but you are welcome to read them anyways
