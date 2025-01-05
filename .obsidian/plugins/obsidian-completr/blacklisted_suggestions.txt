@@ -16,3 +16,6 @@ ACi
 und
 \langle
 \mathcal{#}
+valid
+valide
+validiert
