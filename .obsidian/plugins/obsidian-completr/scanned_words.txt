@@ -1034,6 +1034,7 @@ FJn
 Fph
 FLt
 FEy
+FGPA
 bestehen
 bringen
 bi
@@ -2101,6 +2102,8 @@ bin
 bWuu
 bBb
 back
+bridge
+branching
 an
 als
 auf
@@ -3387,6 +3390,9 @@ accuracy
 accounting
 answers
 appears
+appliances
+automotive
+async
 Sign
 Surjektivitaet
 Surjektion
@@ -4844,6 +4850,7 @@ ScJ
 SWj
 SOEC
 Standards
+Specific
 Bit
 Bijektion
 Bernstein
@@ -6995,6 +7002,7 @@ MeRdS
 MtW
 MYLX
 MUh
+Many
 um
 uQD
 uky
@@ -8184,6 +8192,7 @@ uYl
 uRH
 uWY
 uIu
+unlike
 Exponent
 Eine
 Element
@@ -9284,6 +9293,7 @@ Epx
 Eeb
 Eylt
 EDt
+Embedded
 Die
 Der
 Da
@@ -10459,6 +10469,9 @@ DUT
 DRRRS
 Dkx
 Drift
+DSP
+Digital
+DSPs
 ist
 immer
 insbesondere
@@ -12724,6 +12737,7 @@ depends
 discontinuity
 designated
 delay
+determinism
 wodurch
 werden
 wenn
@@ -15954,6 +15968,8 @@ electromagnetic
 ensemble
 external
 exchange
+entertainment
+electronics
 Nachbar
 Notation
 Note
@@ -17926,6 +17942,8 @@ hxP
 hPc
 hhf
 hierarchical
+household
+health
 Abstand
 Auswahl
 Axiom
@@ -19116,6 +19134,7 @@ Aiz
 AiF
 Algorithms
 Adjust
+ASICs
 zwischen
 zwei
 zu
@@ -22210,6 +22229,7 @@ gaW
 gJGG
 gateway
 gradually
+gap
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -24340,6 +24360,7 @@ rvq
 reconstrued
 resynchronized
 receives
+ranging
 Zahl
 Zahlen
 Zeilenvektor
@@ -27595,6 +27616,8 @@ mdL
 mcc
 macrotick
 macroticks
+manufacturing
+microprocessors
 treten
 tPW
 ti
@@ -28622,6 +28645,7 @@ ticks
 transmission
 thereby
 transit
+tables
 liegen
 laesst
 lösbar
@@ -31992,6 +32016,7 @@ fWo
 fSD
 fastest
 fractional
+flops
 Idempotenz
 Injektion
 Injektionen
@@ -33055,6 +33080,7 @@ Igz
 Ima
 IDATP
 Internal
+Integrated
 Jedes
 Jede
 JE
@@ -35067,6 +35093,7 @@ vvs
 vveeeyc
 vHzEu
 vvE
+variety
 Cantor
 CR
 CE
@@ -36051,6 +36078,7 @@ CBh
 CMk
 Central
 Christian
+Circuits
 Theorem
 TODO
 Tupel
@@ -37035,6 +37063,7 @@ TdW
 TyA
 TAI
 Tolerant
+Their
 Koerper
 Komplexe
 Körper
@@ -42153,6 +42182,7 @@ GQcMR
 Gkcp
 GiZU
 GPX
+Gate
 ohne
 oE
 oqtQ
@@ -44237,6 +44267,9 @@ Pvk
 PDLC
 Precision
 PTP
+Processors
+Programmable
+Perform
 Wenn
 Wähle
 Wichtig
@@ -49930,6 +49963,7 @@ periodically
 phases
 protocol
 packet
+pipelining
 yh
 yvF
 ys
@@ -52036,6 +52070,8 @@ cleint
 corrects
 correcst
 cluster
+custom
+care
 xTG
 xb
 xh
