@@ -5066,6 +5066,7 @@ Statistics
 StN
 Slots
 Sqi
+Student
 Bit
 Bijektion
 Bernstein
@@ -9687,6 +9688,7 @@ EwP
 Entry
 EGpv
 EZq
+EFL
 Die
 Der
 Da
@@ -12110,6 +12112,8 @@ iEN
 iFW
 iVb
 iDD
+implied
+implications
 diskret
 dargestellt
 dann
@@ -13299,6 +13303,7 @@ dirty
 dxA
 dDdj
 dsss
+didn
 wodurch
 werden
 wenn
@@ -16716,6 +16721,8 @@ exactly
 evicted
 eOl
 eloq
+encouraged
+experiences
 Nachbar
 Notation
 Note
@@ -23276,6 +23283,7 @@ gyk
 grk
 google
 gNK
+group
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -27740,6 +27748,7 @@ kUr
 kEm
 kWD
 ktW
+knew
 muss
 mindestens
 mit
@@ -32485,6 +32494,8 @@ sLz
 spatial
 slots
 sTP
+suggests
+standing
 folgende
 falls
 folgendermassen
@@ -34688,6 +34699,7 @@ ITFO
 IisL
 IACM
 IpK
+Intrinsic
 Jedes
 Jede
 JE
@@ -44201,6 +44213,7 @@ General
 Gnk
 Gns
 GRM
+Gamifying
 ohne
 oE
 oqtQ
@@ -46378,6 +46391,7 @@ PQf
 Parameters
 PyTorch
 PJD
+Practical
 Wenn
 Wähle
 Wichtig
@@ -49383,6 +49397,7 @@ Lzw
 LbU
 LlH
 LLD
+Levels
 Qt
 QO
 Qx
@@ -52375,6 +52390,8 @@ penzlized
 pixels
 pMO
 prf
+paints
+picture
 yh
 yvF
 ys
@@ -56500,6 +56517,7 @@ Huf
 HbIJUFa
 HvS
 Hbg
+Harm
 YYy
 YkDTC
 Yw
