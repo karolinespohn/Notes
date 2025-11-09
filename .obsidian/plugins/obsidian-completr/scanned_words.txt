@@ -2442,6 +2442,10 @@ bettern
 bnD
 bkB
 bjo
+bushy
+begin
+building
+bLbt
 an
 als
 auf
@@ -3913,6 +3917,10 @@ aBh
 akBi
 aFL
 aVg
+acyclic
+acylcic
+axiom
+algortihms
 Sign
 Surjektivitaet
 Surjektion
@@ -5578,6 +5586,8 @@ Scan
 SQc
 SrGU
 Sfrd
+Selectivity
+Search
 Bit
 Bijektion
 Bernstein
@@ -6812,6 +6822,7 @@ Bmj
 BiI
 Bags
 Break
+Bushy
 Mantisse
 Menge
 Monotonie
@@ -8031,6 +8042,8 @@ MGf
 Mre
 MMH
 MZgy
+Materializing
+Maximality
 um
 uQD
 uky
@@ -9386,6 +9399,7 @@ uWOm
 uUF
 uDk
 uIg
+universe
 Exponent
 Eine
 Element
@@ -10651,6 +10665,7 @@ EhM
 Explicit
 Equivalences
 Eww
+Enforcer
 Die
 Der
 Da
@@ -11977,6 +11992,7 @@ Dependent
 Directing
 Dgs
 DDq
+DaR
 ist
 immer
 insbesondere
@@ -13315,6 +13331,9 @@ iRtr
 iMJA
 ibKs
 ieKK
+indifference
+igRx
+iVX
 diskret
 dargestellt
 dann
@@ -14649,6 +14668,13 @@ drastically
 details
 dfP
 dgW
+dominates
+deep
+disadvantages
+disadvantage
+denormalization
+dNQ
+dXr
 wodurch
 werden
 wenn
@@ -15863,6 +15889,8 @@ wUVx
 wVS
 wdjq
 wAP
+weakly
+wSS
 jeder
 jede
 jeweils
@@ -16877,6 +16905,8 @@ jRku
 jFMXN
 jby
 jAq
+joined
+joining
 einen
 erfuellen
 einem
@@ -18398,6 +18428,8 @@ elU
 enrAy
 efnAk
 edK
+essential
+expressed
 Nachbar
 Notation
 Note
@@ -20707,6 +20739,7 @@ hAc
 hlg
 hvM
 hWQ
+heuristics
 Abstand
 Auswahl
 Axiom
@@ -22065,6 +22098,10 @@ Ank
 Age
 ArF
 ApI
+AUVB
+AVUB
+AOg
+ABXf
 zwischen
 zwei
 zu
@@ -23210,6 +23247,7 @@ zzc
 zKH
 zkU
 zop
+zag
 nicht
 nur
 nach
@@ -25631,6 +25669,9 @@ gOJ
 gemz
 gPn
 glY
+generalization
+gien
+gZfS
 Rundungsprinzip
 Rundungsfehler
 Rundungsmethode
@@ -26861,6 +26902,11 @@ Rename
 Restrictions
 Rhese
 RLR
+Rationalizability
+Right
+Relpacing
+RZA
+RqF
 reelle
 rekursiv
 relevant
@@ -28144,6 +28190,11 @@ rNG
 rPA
 rXx
 riER
+revealed
+rationalizable
+repeats
+reacg
+rHE
 Zahl
 Zahlen
 Zeilenvektor
@@ -29339,6 +29390,8 @@ ZRmr
 ZdM
 ZcFk
 ZHV
+ZxL
+Zjo
 kann
 koennen
 keine
@@ -30600,6 +30653,8 @@ kIu
 krM
 kYdy
 kSi
+kPM
+kUL
 muss
 mindestens
 mit
@@ -31925,6 +31980,9 @@ mTIL
 mJE
 mfL
 minLl
+minumum
+mathcal
+mBy
 treten
 tPW
 ti
@@ -34280,6 +34338,8 @@ lYG
 lyv
 lmC
 lXT
+liks
+leaf
 sollte
 sich
 surjektiv
@@ -35905,6 +35965,13 @@ specifying
 scans
 scan
 spN
+sorting
+storing
+strictly
+star
+sequenvr
+setminus
+sON
 folgende
 falls
 folgendermassen
@@ -37109,6 +37176,10 @@ fUW
 fry
 fMG
 fPy
+fitting
+focuses
+forall
+fxV
 Idempotenz
 Injektion
 Injektionen
@@ -38342,6 +38413,9 @@ Ify
 IgyJ
 Iph
 IaPr
+Individual
+IKKBZ
+ILm
 Jedes
 Jede
 JE
@@ -40680,6 +40754,7 @@ vUo
 vbY
 vYA
 vqxx
+vFx
 Cantor
 CR
 CE
@@ -41824,6 +41899,14 @@ CSC
 CQo
 Concatenation
 Clause
+Certain
+Contraction
+Cartesian
+Construction
+Cost
+Compounds
+Cga
+Ccf
 Theorem
 TODO
 Tupel
@@ -42953,6 +43036,8 @@ Tuple
 Translate
 TZymK
 TRN
+Transitive
+TNo
 Koerper
 Komplexe
 Körper
@@ -45449,6 +45534,7 @@ VqesP
 VHz
 VQs
 VZfE
+Vqw
 Objekte
 Objekten
 Ordnung
@@ -46528,6 +46614,7 @@ OqdL
 ObN
 OJo
 OJyf
+Ordering
 Unteschiedlichen
 Umwandeln
 Um
@@ -47674,6 +47761,7 @@ UxsZD
 UGj
 UfN
 URi
+Uxn
 Graphik
 Gauss
 Gegeben
@@ -48840,6 +48928,7 @@ GOn
 GFz
 GzO
 Gik
+Greedy
 ohne
 oE
 oqtQ
@@ -49951,6 +50040,7 @@ organize
 oIk
 okr
 olm
+omXa
 Pruefung
 Polynom
 PNG
@@ -51252,6 +51342,8 @@ Pzo
 PDSQ
 PIg
 Pzd
+Preference
+Prb
 Wenn
 Wähle
 Wichtig
@@ -52396,6 +52488,7 @@ Wey
 WOf
 Wfn
 WkIqX
+WARP
 quadratische
 qT
 qf
@@ -53459,6 +53552,9 @@ qZc
 qUc
 qNN
 qYj
+qquad
+qCP
+qDj
 äquivalent
 äI
 äe
@@ -54613,6 +54709,8 @@ LDF
 Lzv
 Lfm
 Lwu
+Left
+Leftrightarrow
 Qt
 QO
 Qx
@@ -55631,6 +55729,7 @@ Qnez
 Qss
 QlD
 QMN
+QkV
 XTi
 Xr
 XH
@@ -57967,6 +58066,9 @@ pushed
 push
 pST
 prN
+preferable
+property
+pRw
 yh
 yvF
 ys
@@ -59106,6 +59208,8 @@ ysw
 yjm
 yVR
 yJh
+yielding
+yfZ
 cs
 cY
 cb
@@ -60460,6 +60564,14 @@ cbY
 cXy
 cKskb
 cmiL
+consumers
+chapter
+cardinality
+clique
+constructs
+compount
+contradictory
+compound
 xTG
 xb
 xh
@@ -62573,6 +62685,8 @@ HkhT
 HKB
 HPj
 HAxn
+Heuristics
+HBa
 YYy
 YkDTC
 Yw
@@ -63614,6 +63728,8 @@ YFn
 YhGnW
 YeG
 YYW
+YCo
+YIC
 ÖW
 ÖfX
 Öz
